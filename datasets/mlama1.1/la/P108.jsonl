@@ -1,0 +1,24 @@
+{"sub_uri": "Q19837", "obj_uri": "Q312", "obj_label": "Apple Inc.", "sub_label": "Stephanus Jobs", "lineid": 0, "uuid": "ae9e5e0e-a663-4a24-b705-9d7803f177d9"}
+{"sub_uri": "Q483382", "obj_uri": "Q312", "obj_label": "Apple Inc.", "sub_label": "Stephanus Wozniak", "lineid": 1, "uuid": "981ac424-0b7a-4723-b3a7-f3ae883382e0"}
+{"sub_uri": "Q7426870", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Satya Nadella", "lineid": 3, "uuid": "470dd5f7-1847-4fad-9b5f-11b3a5ead2b7"}
+{"sub_uri": "Q5284", "obj_uri": "Q2283", "obj_label": "Microsoft", "sub_label": "Gulielmus Gates", "lineid": 10, "uuid": "936a7e6c-1b6f-4a18-a963-0be6dd84f190"}
+{"sub_uri": "Q76766", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Gerd Binnig", "lineid": 21, "uuid": "50eb887e-ed25-418a-b472-4f731561aacb"}
+{"sub_uri": "Q123029", "obj_uri": "Q37156", "obj_label": "IBM", "sub_label": "Henricus Rohrer", "lineid": 22, "uuid": "24e8ab27-d23d-4a63-a7f2-395435bd7e2b"}
+{"sub_uri": "Q380865", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "David Frost", "lineid": 48, "uuid": "2d7d1e07-3bae-4b33-bfcf-a308141c5cd4"}
+{"sub_uri": "Q2514", "obj_uri": "Q64", "obj_label": "Berolinum", "sub_label": "Gulielmus Brandt", "lineid": 52, "uuid": "0f9eca1f-0b9c-4726-8e63-a44ed004c59f"}
+{"sub_uri": "Q110294", "obj_uri": "Q727", "obj_label": "Amstelodamum", "sub_label": "Ioannes Pieterszoon Sweelinck", "lineid": 60, "uuid": "b57573bf-4d4d-441d-8e95-afb5bb4d7cff"}
+{"sub_uri": "Q628479", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Terry Nation", "lineid": 68, "uuid": "60ea6aff-f8ae-4a8f-aa76-831a7a8407de"}
+{"sub_uri": "Q1975172", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Radulphus Harris", "lineid": 79, "uuid": "334b01c6-673f-4bcb-bf22-61e599c9e786"}
+{"sub_uri": "Q12382", "obj_uri": "Q8093", "obj_label": "Nintendo", "sub_label": "Shigeru Miyamoto", "lineid": 96, "uuid": "60789b37-3401-48db-8cba-2b6f13116a6a"}
+{"sub_uri": "Q646929", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Armandus Iannucci", "lineid": 112, "uuid": "b0d87078-094e-4c00-94ee-f9a5af0ff61d"}
+{"sub_uri": "Q155914", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Petrus Simon Pallas", "lineid": 122, "uuid": "1b24135f-5f62-48c8-929b-448340d14a78"}
+{"sub_uri": "Q7422616", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Sarah Montague", "lineid": 129, "uuid": "d51b7662-1c62-4247-bed5-46f8b62c1225"}
+{"sub_uri": "Q192912", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Stephanus Fry", "lineid": 134, "uuid": "a7662dc6-b1e6-47c3-9a97-8b465196fe4c"}
+{"sub_uri": "Q34943", "obj_uri": "Q87", "obj_label": "Alexandria", "sub_label": "Claudius Ptolemaeus", "lineid": 153, "uuid": "53a041f2-1e53-4880-9fc9-95bcc5b5d8eb"}
+{"sub_uri": "Q42", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Duglassius Adams", "lineid": 169, "uuid": "a4826d10-c435-4a1e-97d2-58ccdeac6c6b"}
+{"sub_uri": "Q230850", "obj_uri": "Q7809", "obj_label": "Societas Educativa, Scientifica, et Culturalis Consocietatis Nationum", "sub_label": "Irina Bokova", "lineid": 228, "uuid": "13e9fad6-10a7-4e88-b100-9ea0e51b3bd2"}
+{"sub_uri": "Q333525", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Michael Portillo", "lineid": 248, "uuid": "95b1bda5-e79d-4019-b7b6-0a4350049645"}
+{"sub_uri": "Q47778", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Gary Lineker", "lineid": 249, "uuid": "be6fe0f1-7d4e-46a0-966a-9a0d1b2dcca5"}
+{"sub_uri": "Q1086837", "obj_uri": "Q9531", "obj_label": "BBC", "sub_label": "Christophorus Martin-Jenkins", "lineid": 268, "uuid": "e0d7657c-bdcc-4feb-857c-f19101fe86cc"}
+{"sub_uri": "Q2514", "obj_uri": "Q183", "obj_label": "Germania", "sub_label": "Gulielmus Brandt", "lineid": 277, "uuid": "34e600ac-2890-48b2-8c30-70d3c248c258"}
+{"sub_uri": "Q298341", "obj_uri": "Q95", "obj_label": "Google", "sub_label": "Raimundus Kurzweil", "lineid": 304, "uuid": "2e1a84a6-2c13-4ef8-8894-e20cf9a5a3fd"}

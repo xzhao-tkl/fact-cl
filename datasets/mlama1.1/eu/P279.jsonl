@@ -1,0 +1,268 @@
+{"sub_uri": "Q192078", "obj_uri": "Q318", "obj_label": "galaxia", "sub_label": "Galaxia lentikular", "lineid": 0, "uuid": "66d578d5-62a6-4fae-8160-9bfef162a6cc"}
+{"sub_uri": "Q134862", "obj_uri": "Q282", "obj_label": "ardo", "sub_label": "Xanpaina", "lineid": 1, "uuid": "e8816d5d-91a8-4d99-ab14-e661ee56adac"}
+{"sub_uri": "Q54393", "obj_uri": "Q265868", "obj_label": "hezur", "sub_label": "Kako-hezur", "lineid": 5, "uuid": "8db4a615-8628-4202-bff7-e3ceba281f35"}
+{"sub_uri": "Q6341928", "obj_uri": "Q23397", "obj_label": "aintzira", "sub_label": "rift-laku", "lineid": 13, "uuid": "598bab8b-919b-403a-b7b6-2a3badbf3f85"}
+{"sub_uri": "Q380344", "obj_uri": "Q12483", "obj_label": "estatistika", "sub_label": "Estatistika deskribatzaile", "lineid": 14, "uuid": "babeedcf-6bd0-4161-8ddb-8fcf3eef15d8"}
+{"sub_uri": "Q845945", "obj_uri": "Q29553", "obj_label": "Santutegi", "sub_label": "Jinja", "lineid": 15, "uuid": "87d1ba3d-67bd-4835-bf50-257c5125405d"}
+{"sub_uri": "Q2374463", "obj_uri": "Q12483", "obj_label": "estatistika", "sub_label": "Datu zientzia", "lineid": 16, "uuid": "32a9488d-3e7a-4790-993e-c596154bec32"}
+{"sub_uri": "Q134787", "obj_uri": "Q8087", "obj_label": "geometria", "sub_label": "geometria analitiko", "lineid": 18, "uuid": "bc4efddf-cba4-4090-a1a4-c6d9b0eb56b4"}
+{"sub_uri": "Q199769", "obj_uri": "Q82", "obj_label": "Inprimagailu", "sub_label": "laser-inprimagailu", "lineid": 21, "uuid": "a714594b-3a67-4505-a153-e61ff4eaa7df"}
+{"sub_uri": "Q512345", "obj_uri": "Q40348", "obj_label": "abokatu", "sub_label": "defentsa abokatu penal", "lineid": 25, "uuid": "7bea4f3a-7050-4d5a-9f69-62acb59a1e88"}
+{"sub_uri": "Q159675", "obj_uri": "Q4022", "obj_label": "ibai", "sub_label": "Ibaiadar", "lineid": 26, "uuid": "771ccb79-1e12-40e7-801b-4b5f07a8bfd7"}
+{"sub_uri": "Q160047", "obj_uri": "Q870", "obj_label": "Tren", "sub_label": "Maglev", "lineid": 36, "uuid": "d6acc0ed-3014-4dc8-b127-053487651382"}
+{"sub_uri": "Q47146", "obj_uri": "Q23808", "obj_label": "interfaze", "sub_label": "erabiltzailearen interfaze", "lineid": 49, "uuid": "7eab8c45-33ff-46e7-bbd6-3a0ec51d082e"}
+{"sub_uri": "Q744099", "obj_uri": "Q57821", "obj_label": "Gotorleku", "sub_label": "Kastro", "lineid": 52, "uuid": "62437cf3-b985-4551-80b4-e78b8e8ab70e"}
+{"sub_uri": "Q319891", "obj_uri": "Q185387", "obj_label": "Sufragioa", "sub_label": "Sufragio unibertsal", "lineid": 58, "uuid": "576b632b-a1f5-4377-a36e-f693d4ebb6d0"}
+{"sub_uri": "Q192191", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "Prolaktina", "lineid": 68, "uuid": "ac470e11-fd54-4f7b-81cb-946c24d4115c"}
+{"sub_uri": "Q3571153", "obj_uri": "Q12323", "obj_label": "Presa", "sub_label": "desbideratze-presa", "lineid": 72, "uuid": "df2a510d-b093-47ec-916d-716805efd2af"}
+{"sub_uri": "Q215509", "obj_uri": "Q166231", "obj_label": "infekzio", "sub_label": "Infekzio nosokomial", "lineid": 82, "uuid": "da269df5-c73b-4c21-ae30-4a1560579c89"}
+{"sub_uri": "Q399495", "obj_uri": "Q3329375", "obj_label": "Hizkera", "sub_label": "Hizkuntza estandar", "lineid": 89, "uuid": "ef9477dd-db6c-49c8-9d51-b9d4b4506258"}
+{"sub_uri": "Q2987371", "obj_uri": "Q11004", "obj_label": "Barazki", "sub_label": "Leka", "lineid": 94, "uuid": "7cb48e92-6cf3-41b2-8f2b-fd14d1ab7d65"}
+{"sub_uri": "Q81392", "obj_uri": "Q36161", "obj_label": "multzo", "sub_label": "Fraktal", "lineid": 96, "uuid": "c76e1ffe-1fab-4ccb-b272-81290d363b54"}
+{"sub_uri": "Q159535", "obj_uri": "Q108163", "obj_label": "proposizio", "sub_label": "Konspirazioaren teoria", "lineid": 98, "uuid": "ba25b317-86e1-4290-aca3-928b61e8dec3"}
+{"sub_uri": "Q7048931", "obj_uri": "Q4130", "obj_label": "orbita", "sub_label": "orbita ekliptiko", "lineid": 101, "uuid": "03db14f5-29af-4a06-b446-3ced4aa44528"}
+{"sub_uri": "Q865851", "obj_uri": "Q4610556", "obj_label": "modelo", "sub_label": "supermodelo", "lineid": 102, "uuid": "e71bac40-d549-43fc-88ec-9d1ee599c677"}
+{"sub_uri": "Q1653985", "obj_uri": "Q180846", "obj_label": "Supermerkatu", "sub_label": "Albert Heijn", "lineid": 104, "uuid": "8def2c00-61f3-4fcd-90fa-6445ac27cc19"}
+{"sub_uri": "Q422281", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "kolezistokinina", "lineid": 105, "uuid": "b3ee9472-f08e-4f0b-8db0-d48bd278114c"}
+{"sub_uri": "Q1122188", "obj_uri": "Q13201", "obj_label": "erromaniera", "sub_label": "Erromintxela", "lineid": 107, "uuid": "61c68731-f01c-479e-be7d-7b92d8b6b6fb"}
+{"sub_uri": "Q38383", "obj_uri": "Q144", "obj_label": "txakur", "sub_label": "Bulldog", "lineid": 110, "uuid": "ea493010-d9a4-4d61-80c9-b9b58e738a01"}
+{"sub_uri": "Q44559", "obj_uri": "Q634", "obj_label": "planeta", "sub_label": "Exoplaneta", "lineid": 115, "uuid": "ce03c289-e77f-4ad9-9559-cecff48f2be2"}
+{"sub_uri": "Q878189", "obj_uri": "Q2920963", "obj_label": "Erregosi", "sub_label": "Feijoada", "lineid": 124, "uuid": "8c44c766-5df9-4b47-8b2b-180bf9b3e39c"}
+{"sub_uri": "Q947873", "obj_uri": "Q211236", "obj_label": "pertsona ospetsu", "sub_label": "telebista aurkezle", "lineid": 128, "uuid": "217a397f-a62c-4d28-837c-4f003dd17be8"}
+{"sub_uri": "Q849345", "obj_uri": "Q9089", "obj_label": "hinduismo", "sub_label": "Shaktismo", "lineid": 131, "uuid": "267e8b8b-60da-4cf7-aee3-8a206cb70644"}
+{"sub_uri": "Q1208048", "obj_uri": "Q8162", "obj_label": "hizkuntzalaritza", "sub_label": "Sinkronia eta diakronia", "lineid": 132, "uuid": "05021fb7-e612-4789-9b63-33157a20bdf1"}
+{"sub_uri": "Q652555", "obj_uri": "Q127980", "obj_label": "koipe", "sub_label": "gantz-azido asegabe", "lineid": 134, "uuid": "cb455293-7e22-498d-a13c-074a4b64a9d2"}
+{"sub_uri": "Q1101789", "obj_uri": "Q131559", "obj_label": "Ezkutu", "sub_label": "Klipeo", "lineid": 135, "uuid": "b87c210e-a1c8-410f-9a5b-9fda81a1b418"}
+{"sub_uri": "Q6901699", "obj_uri": "Q245068", "obj_label": "komediante", "sub_label": "bakarrizketagilea", "lineid": 137, "uuid": "7935df49-aff0-4607-8dc0-07acb79fdffe"}
+{"sub_uri": "Q862717", "obj_uri": "Q4130", "obj_label": "orbita", "sub_label": "aparkatze-orbita", "lineid": 142, "uuid": "363f0469-16bb-4075-b9c6-dc230f2f5458"}
+{"sub_uri": "Q186075", "obj_uri": "Q309", "obj_label": "historia", "sub_label": "Aro Garaikidea", "lineid": 145, "uuid": "70b4d3a2-c9bf-4e3f-8276-d2f4cce244a2"}
+{"sub_uri": "Q911190", "obj_uri": "Q4421", "obj_label": "baso", "sub_label": "Ibaiertzeko baso", "lineid": 161, "uuid": "9dc719c5-2f9a-4dbe-9652-df2db7e79b0a"}
+{"sub_uri": "Q338", "obj_uri": "Q413", "obj_label": "fisika", "sub_label": "kosmologia", "lineid": 162, "uuid": "e94d9aad-efe4-49ad-b637-2faded5623a7"}
+{"sub_uri": "Q170612", "obj_uri": "Q11024", "obj_label": "Komunikazio", "sub_label": "Telepatia", "lineid": 172, "uuid": "28a41840-89ea-4108-822a-94e8af465698"}
+{"sub_uri": "Q384656", "obj_uri": "Q100047", "obj_label": "Amiga", "sub_label": "Amiga 500", "lineid": 173, "uuid": "45ff0c33-7778-48fe-a14b-1fe55ec9e55c"}
+{"sub_uri": "Q92107", "obj_uri": "Q23413", "obj_label": "gaztelu", "sub_label": "gaztelu kuadrangular", "lineid": 175, "uuid": "9399e373-3e25-4c4c-96f0-ab425ce921c9"}
+{"sub_uri": "Q1328508", "obj_uri": "Q7748", "obj_label": "zuzenbide", "sub_label": "arma kontrola", "lineid": 185, "uuid": "6d25f2af-8603-4bff-a0ab-2f521e640f89"}
+{"sub_uri": "Q855973", "obj_uri": "Q41207", "obj_label": "txanpon", "sub_label": "oroitzapenezko txanpon", "lineid": 189, "uuid": "bfaf7bb3-bf93-4411-b0b7-c703b3a989ae"}
+{"sub_uri": "Q187510", "obj_uri": "Q267298", "obj_label": "Pila", "sub_label": "Bateria elektriko", "lineid": 190, "uuid": "421ab031-0be8-4e0e-9d48-cc94e0b83976"}
+{"sub_uri": "Q350895", "obj_uri": "Q532", "obj_label": "herrixka", "sub_label": "eremu", "lineid": 192, "uuid": "5dd59c04-d6c0-4d33-9a92-9ac52d6f726e"}
+{"sub_uri": "Q2215841", "obj_uri": "Q53121", "obj_label": "txirrindularitza", "sub_label": "txirrindularitza", "lineid": 193, "uuid": "11602602-f06b-4308-9255-2656c47a31bf"}
+{"sub_uri": "Q211050", "obj_uri": "Q7868", "obj_label": "zelula", "sub_label": "gameto", "lineid": 198, "uuid": "d93968dd-bc33-43e1-8f4e-ca871e4ddee1"}
+{"sub_uri": "Q648510", "obj_uri": "Q43637", "obj_label": "Monopolio", "sub_label": "Berezko monopolio", "lineid": 200, "uuid": "2eb4ed2a-67cb-4bc6-ab5a-fca3aa152521"}
+{"sub_uri": "Q498423", "obj_uri": "Q3142", "obj_label": "gorri", "sub_label": "Falun gorria", "lineid": 206, "uuid": "461a19c2-f947-4c1d-b2e7-140757f67c17"}
+{"sub_uri": "Q76872", "obj_uri": "Q10943", "obj_label": "Gazta", "sub_label": "Serra da Estrela", "lineid": 207, "uuid": "59a0fc3e-a7d4-47a8-8bf8-acbab878ec30"}
+{"sub_uri": "Q35273", "obj_uri": "Q4213", "obj_label": "Teleskopio", "sub_label": "teleskopio optikoa", "lineid": 211, "uuid": "710e887f-c2db-4bdd-a9b9-ce9f092472ad"}
+{"sub_uri": "Q229081", "obj_uri": "Q265868", "obj_label": "hezur", "sub_label": "Errotula", "lineid": 215, "uuid": "b175c83b-c91a-4760-9ffc-eab88d4a79a1"}
+{"sub_uri": "Q83922", "obj_uri": "Q5043", "obj_label": "kristautasun", "sub_label": "arianismo", "lineid": 218, "uuid": "7f8033fb-e2ee-4dfb-8957-b1e1f17bdad2"}
+{"sub_uri": "Q843592", "obj_uri": "Q6497460", "obj_label": "Abiadura-kaxa", "sub_label": "Transmisio automatiko", "lineid": 219, "uuid": "bfc6ff3d-e93b-4585-b8f6-5c9c570ff0da"}
+{"sub_uri": "Q2750657", "obj_uri": "Q7239", "obj_label": "organismo", "sub_label": "detritiboro", "lineid": 224, "uuid": "9b47e1b6-fcf1-48ec-954f-2119e20e0074"}
+{"sub_uri": "Q813966", "obj_uri": "Q7857", "obj_label": "Komun", "sub_label": "komun publiko", "lineid": 229, "uuid": "95563816-52b4-4f0f-b31f-f8d1bcfd2f2e"}
+{"sub_uri": "Q1551626", "obj_uri": "Q1639825", "obj_label": "Errementari", "sub_label": "galdaragile", "lineid": 232, "uuid": "a30e5774-d058-448a-93d2-f7c4478d97fd"}
+{"sub_uri": "Q263865", "obj_uri": "Q66055", "obj_label": "zatiki", "sub_label": "Zatiki laburtezin", "lineid": 235, "uuid": "4264e0b1-c109-4295-a560-14576c6b6e35"}
+{"sub_uri": "Q3859459", "obj_uri": "Q9134", "obj_label": "mitologia", "sub_label": "Mesopotamiako mitologia", "lineid": 237, "uuid": "5adac574-06e1-47c4-bc78-fdefd23cf5aa"}
+{"sub_uri": "Q270389", "obj_uri": "Q13590141", "obj_label": "aurkezle", "sub_label": "berriemaile", "lineid": 243, "uuid": "4bcbd690-0ba1-441b-bbab-79932f6f9fd2"}
+{"sub_uri": "Q169930", "obj_uri": "Q482994", "obj_label": "album", "sub_label": "Extended play", "lineid": 244, "uuid": "1b048c99-ceb8-4ce4-8873-6167362ffa43"}
+{"sub_uri": "Q29347", "obj_uri": "Q8748", "obj_label": "albaniera", "sub_label": "Arvanitika", "lineid": 245, "uuid": "5d69cb0f-a917-4d53-b5da-82f299bde19f"}
+{"sub_uri": "Q7540", "obj_uri": "Q11004", "obj_label": "Barazki", "sub_label": "alberjinia", "lineid": 246, "uuid": "cc5b35d1-324a-4e1f-acbf-ab7df8834aff"}
+{"sub_uri": "Q202866", "obj_uri": "Q11424", "obj_label": "film", "sub_label": "marrazki biziduneko film", "lineid": 248, "uuid": "a04b9717-6231-4167-951b-ca8b4bad0d66"}
+{"sub_uri": "Q1421730", "obj_uri": "Q4130", "obj_label": "orbita", "sub_label": "orbita inklinatu", "lineid": 253, "uuid": "b431111c-b788-40bf-ba1e-aee14c56691d"}
+{"sub_uri": "Q954927", "obj_uri": "Q870", "obj_label": "Tren", "sub_label": "Merkantzia-tren", "lineid": 257, "uuid": "701ee9a6-4ff8-4778-8b7f-7ecad432447a"}
+{"sub_uri": "Q101004", "obj_uri": "Q9655", "obj_label": "arteria", "sub_label": "aorta", "lineid": 260, "uuid": "4879d94a-ea4a-4085-9db0-149c5f3ca216"}
+{"sub_uri": "Q726004", "obj_uri": "Q11369", "obj_label": "molekula", "sub_label": "oligomero", "lineid": 261, "uuid": "d63f5f9b-dbe7-45a8-b247-910d71df4696"}
+{"sub_uri": "Q83087", "obj_uri": "Q43010", "obj_label": "kuartzo", "sub_label": "Sukarri", "lineid": 265, "uuid": "fe342203-1c41-4c49-b8f4-3a7e3077b636"}
+{"sub_uri": "Q826038", "obj_uri": "Q40244", "obj_label": "maratoi", "sub_label": "Bostongo maratoia", "lineid": 276, "uuid": "55aa1e4b-f2a6-4a3f-b64b-949bba5696ed"}
+{"sub_uri": "Q900175", "obj_uri": "Q37756", "obj_label": "aleazio", "sub_label": "monel metal", "lineid": 283, "uuid": "6c2889ee-24d7-4569-b593-d42e1fd616a0"}
+{"sub_uri": "Q47722", "obj_uri": "Q11004", "obj_label": "Barazki", "sub_label": "Brokoli", "lineid": 284, "uuid": "73b9c1e5-333a-42f6-b6c0-491266c211d9"}
+{"sub_uri": "Q808266", "obj_uri": "Q157195", "obj_label": "zerbitzari", "sub_label": "tabernari", "lineid": 285, "uuid": "1bda0e13-f08a-4a4d-8c24-a056a7c2281d"}
+{"sub_uri": "Q1952580", "obj_uri": "Q12483", "obj_label": "estatistika", "sub_label": "aldagai anitzeko analisi", "lineid": 286, "uuid": "f795775c-cc4b-4443-872e-00bce6a2b9d6"}
+{"sub_uri": "Q172748", "obj_uri": "Q19546", "obj_label": "Aita santu", "sub_label": "Antipapa", "lineid": 288, "uuid": "18d37e15-6b35-4c21-8f5b-c0a4569e4204"}
+{"sub_uri": "Q424724", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "Katalasa", "lineid": 290, "uuid": "9d50e8ca-55b6-4bc4-99c9-5fa4d87774df"}
+{"sub_uri": "Q4366834", "obj_uri": "Q4022", "obj_label": "ibai", "sub_label": "nazioarteko ibai", "lineid": 294, "uuid": "270b58ac-8d19-420f-8c49-0d77de54959f"}
+{"sub_uri": "Q191817", "obj_uri": "Q7365", "obj_label": "muskulu", "sub_label": "muskulu ildaskatu", "lineid": 297, "uuid": "03051331-0a3f-42e2-8b39-9b2ccc838801"}
+{"sub_uri": "Q30461", "obj_uri": "Q82955", "obj_label": "politikari", "sub_label": "lehendakari", "lineid": 300, "uuid": "476ba0e5-d121-4d39-9f20-1970d3390b2f"}
+{"sub_uri": "Q948329", "obj_uri": "Q33999", "obj_label": "aktore", "sub_label": "karaktere aktore", "lineid": 302, "uuid": "b46e5dd8-f72f-481b-aa15-f134a5ae8488"}
+{"sub_uri": "Q1646408", "obj_uri": "Q191808", "obj_label": "moja", "sub_label": "abadesa", "lineid": 303, "uuid": "ffdc2ae0-5d2e-4618-a702-c632702961ff"}
+{"sub_uri": "Q3776920", "obj_uri": "Q12192", "obj_label": "pneumonia", "sub_label": "pneumonia bakterial", "lineid": 305, "uuid": "ee413561-ccd2-44f6-a3d8-342d9fec201c"}
+{"sub_uri": "Q218706", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "Eritropoietina", "lineid": 306, "uuid": "1617bd92-1849-4450-b0e6-5c01b36fde09"}
+{"sub_uri": "Q1208529", "obj_uri": "Q6497460", "obj_label": "Abiadura-kaxa", "sub_label": "eskuzko abiadura-aldagailu", "lineid": 307, "uuid": "2091aae1-9bda-4caf-a444-1b8622001cf2"}
+{"sub_uri": "Q2933820", "obj_uri": "Q166142", "obj_label": "Aplikazio", "sub_label": "Egutegi elektroniko", "lineid": 308, "uuid": "7e03b5e1-b8bd-434e-9265-a67df6d1093e"}
+{"sub_uri": "Q208478", "obj_uri": "Q4421", "obj_label": "baso", "sub_label": "Oihan primario", "lineid": 309, "uuid": "d40272e5-653b-4a4d-a113-04925357577b"}
+{"sub_uri": "Q309191", "obj_uri": "Q37756", "obj_label": "aleazio", "sub_label": "Urre zuri", "lineid": 311, "uuid": "b1fcacb7-fdd2-4d4e-94c5-dff14d7ed07f"}
+{"sub_uri": "Q852989", "obj_uri": "Q22857", "obj_label": "eskalada", "sub_label": "Bloke-eskalada", "lineid": 312, "uuid": "8a6176b4-9791-4d41-b128-25be1c54b791"}
+{"sub_uri": "Q1063336", "obj_uri": "Q189214", "obj_label": "Tempo", "sub_label": "rubato", "lineid": 313, "uuid": "648a0097-fbcf-4646-a316-3499a9ed413a"}
+{"sub_uri": "Q170201", "obj_uri": "Q11190", "obj_label": "medikuntza", "sub_label": "Albaitaritza", "lineid": 314, "uuid": "b2a60ce6-0b96-44b6-bc6e-3591dc725300"}
+{"sub_uri": "Q3695900", "obj_uri": "Q191768", "obj_label": "Txerriki", "sub_label": "gantxigor", "lineid": 315, "uuid": "9d8e0255-359d-491d-80c7-b1b79635ecf5"}
+{"sub_uri": "Q188473", "obj_uri": "Q11424", "obj_label": "film", "sub_label": "ekintza-film", "lineid": 320, "uuid": "a774fc5b-2767-4771-ac8d-047aee9a02a2"}
+{"sub_uri": "Q850256", "obj_uri": "Q216048", "obj_label": "talde kirol", "sub_label": "Shinty", "lineid": 322, "uuid": "d0095076-6db1-4002-84be-049b28a17d57"}
+{"sub_uri": "Q2195512", "obj_uri": "Q12277", "obj_label": "arku", "sub_label": "Tudor arku", "lineid": 333, "uuid": "37d6f467-396e-45b0-bf42-b466a7458358"}
+{"sub_uri": "Q1681353", "obj_uri": "Q170321", "obj_label": "hezegune", "sub_label": "Zohikaztegi", "lineid": 335, "uuid": "64ef825f-b8fb-4e6f-9ec3-42a77f065f3a"}
+{"sub_uri": "Q171174", "obj_uri": "Q7174", "obj_label": "demokrazia", "sub_label": "Demokrazia zuzen", "lineid": 336, "uuid": "180a9690-cf64-4c43-b4c9-52d6c0d7fdc4"}
+{"sub_uri": "Q7225114", "obj_uri": "Q128758", "obj_label": "satira", "sub_label": "satira politiko", "lineid": 345, "uuid": "0af13caa-5cbc-481e-aa14-3a9ac7715d7a"}
+{"sub_uri": "Q187631", "obj_uri": "Q8366", "obj_label": "Algoritmo", "sub_label": "Interpolazio", "lineid": 347, "uuid": "10d9639a-e4fd-46e2-9ac6-2fe979380a0f"}
+{"sub_uri": "Q9192", "obj_uri": "Q7850", "obj_label": "txinera", "sub_label": "mandarin txinera", "lineid": 349, "uuid": "357bac0c-ecb0-4843-b197-90646aad1174"}
+{"sub_uri": "Q723861", "obj_uri": "Q4130", "obj_label": "orbita", "sub_label": "Hohmann orbita", "lineid": 357, "uuid": "16d37202-d46c-4a2d-8dbe-231fa30011ad"}
+{"sub_uri": "Q831474", "obj_uri": "Q42603", "obj_label": "apaiz", "sub_label": "presbitero", "lineid": 364, "uuid": "b4391e06-2469-4aea-8b8e-32105056b218"}
+{"sub_uri": "Q210430", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "Fosfolipasa", "lineid": 365, "uuid": "eb97e296-1250-42e4-b8c8-4e6c8cf38a45"}
+{"sub_uri": "Q34726", "obj_uri": "Q9134", "obj_label": "mitologia", "sub_label": "Greziar mitologia", "lineid": 368, "uuid": "35d72c6c-29ff-4574-9745-c0e2eb27ec29"}
+{"sub_uri": "Q25956", "obj_uri": "Q40218", "obj_label": "Espazio ontzi", "sub_label": "Estazio espaziala", "lineid": 369, "uuid": "388662c8-3b03-4ed7-8f2e-de183465174a"}
+{"sub_uri": "Q27654", "obj_uri": "Q309", "obj_label": "historia", "sub_label": "filosofiaren historia", "lineid": 372, "uuid": "0925e222-75e1-4dc1-90c3-0eeb3bbd2fed"}
+{"sub_uri": "Q3596097", "obj_uri": "Q178359", "obj_label": "saltsa", "sub_label": "tomate saltsa", "lineid": 376, "uuid": "f9343588-52fb-4816-95ec-1785b12c4d4c"}
+{"sub_uri": "Q100159", "obj_uri": "Q149086", "obj_label": "gizahilketa", "sub_label": "Eutanasia", "lineid": 378, "uuid": "c9d6ab75-d384-4e0e-aff8-3983424a84bd"}
+{"sub_uri": "Q40754", "obj_uri": "Q3884033", "obj_label": "eragiketa", "sub_label": "kenketa", "lineid": 382, "uuid": "e0de98b8-8495-4a32-9578-7e0375533a71"}
+{"sub_uri": "Q4489396", "obj_uri": "Q4116214", "obj_label": "Kontabilitate", "sub_label": "Kontabilitate", "lineid": 388, "uuid": "f397134d-950c-48d6-9ea2-378e84c58136"}
+{"sub_uri": "Q854353", "obj_uri": "Q101991", "obj_label": "hantura", "sub_label": "enteritis", "lineid": 390, "uuid": "414f6a27-fe81-4232-b3b2-40d7377bf2eb"}
+{"sub_uri": "Q1751859", "obj_uri": "Q11369", "obj_label": "molekula", "sub_label": "diatomiko", "lineid": 391, "uuid": "f2945c59-5639-43df-b62c-9b59077e4558"}
+{"sub_uri": "Q1132530", "obj_uri": "Q11024", "obj_label": "Komunikazio", "sub_label": "Komunikazio teknikoa", "lineid": 394, "uuid": "dd6393db-498a-4e25-9655-e665c0052af9"}
+{"sub_uri": "Q132821", "obj_uri": "Q149086", "obj_label": "gizahilketa", "sub_label": "erailketa", "lineid": 397, "uuid": "d1c1d998-14b4-43c2-944c-b9abceddc875"}
+{"sub_uri": "Q42973", "obj_uri": "Q483501", "obj_label": "artista", "sub_label": "arkitekto", "lineid": 400, "uuid": "a927ff56-6e43-4c0e-86ba-f6b9c6ce18c8"}
+{"sub_uri": "Q5778278", "obj_uri": "Q12796", "obj_label": "Su-arma", "sub_label": "arma automatiko", "lineid": 402, "uuid": "63ad0088-9fe7-4bf0-872f-5f9374b40f7e"}
+{"sub_uri": "Q2732142", "obj_uri": "Q170790", "obj_label": "matematikari", "sub_label": "estatistikari", "lineid": 404, "uuid": "89d35d21-b0ed-48c2-8b89-7aaa7979cd2d"}
+{"sub_uri": "Q757833", "obj_uri": "Q726", "obj_label": "zaldi", "sub_label": "Paradako zaldi", "lineid": 405, "uuid": "c2f7d0d8-2a3f-4d4d-8116-06746ac33fb3"}
+{"sub_uri": "Q623293", "obj_uri": "Q1057", "obj_label": "metabolismo", "sub_label": "Oinarrizko metabolismo", "lineid": 406, "uuid": "5f955081-074c-40f0-8f4c-b1808db3e2ed"}
+{"sub_uri": "Q415812", "obj_uri": "Q156", "obj_label": "Alkohol", "sub_label": "Poliol", "lineid": 410, "uuid": "a8e9ece9-8902-486b-9245-20b39f01c94d"}
+{"sub_uri": "Q816851", "obj_uri": "Q13276", "obj_label": "Gozopil", "sub_label": "cupcake", "lineid": 412, "uuid": "4cf371bc-8012-44b7-a21d-57aed5799351"}
+{"sub_uri": "Q26540", "obj_uri": "Q40218", "obj_label": "Espazio ontzi", "sub_label": "Satelite artifizial", "lineid": 414, "uuid": "55a35448-1711-4f2e-b683-a08f13563598"}
+{"sub_uri": "Q81875", "obj_uri": "Q7239", "obj_label": "organismo", "sub_label": "haragijale", "lineid": 417, "uuid": "14920c9b-1d45-4d72-8d63-f46d6228f4e7"}
+{"sub_uri": "Q181055", "obj_uri": "Q28803", "obj_label": "ogitarteko", "sub_label": "Hot dog", "lineid": 421, "uuid": "bc51c920-040c-494e-9295-d9c1c8948654"}
+{"sub_uri": "Q80793", "obj_uri": "Q376", "obj_label": "erloju", "sub_label": "Eguzki erloju", "lineid": 424, "uuid": "3ab7de10-deab-43e7-8635-c255205977d0"}
+{"sub_uri": "Q212737", "obj_uri": "Q179405", "obj_label": "Erreflexu", "sub_label": "Baldintzapen klasiko", "lineid": 426, "uuid": "cbc1b00b-3e14-4a4e-8992-30a2b922f868"}
+{"sub_uri": "Q339616", "obj_uri": "Q263478", "obj_label": "musika nota", "sub_label": "Beltz", "lineid": 430, "uuid": "ea8a6306-8fd5-43dc-88f9-4b47563fad9a"}
+{"sub_uri": "Q18127", "obj_uri": "Q167270", "obj_label": "marka", "sub_label": "diskoetxe", "lineid": 436, "uuid": "14d8793a-8916-46fe-8708-1247e97defe0"}
+{"sub_uri": "Q1299477", "obj_uri": "Q11436", "obj_label": "Aireontzi", "sub_label": "Aerostato", "lineid": 438, "uuid": "14f6d57d-08b6-4dd5-80ad-b2b9fc27ba4d"}
+{"sub_uri": "Q873776", "obj_uri": "Q11442", "obj_label": "bizikleta", "sub_label": "Pi\u00f1oi finkoko bizikleta", "lineid": 440, "uuid": "bdcd89d4-13f6-46f4-bb68-3aec56227ca6"}
+{"sub_uri": "Q822146", "obj_uri": "Q49757", "obj_label": "poeta", "sub_label": "kanta-idazle", "lineid": 459, "uuid": "2a13e6e5-56c8-4dd1-ad74-6cfb75a6a6c7"}
+{"sub_uri": "Q1106575", "obj_uri": "Q9134", "obj_label": "mitologia", "sub_label": "Zelta mitologia", "lineid": 467, "uuid": "6477357e-5084-495f-9fa2-3fd997726b39"}
+{"sub_uri": "Q497173", "obj_uri": "Q11158", "obj_label": "azido", "sub_label": "oxoazido", "lineid": 468, "uuid": "140d0eef-f2e2-433b-9594-21e37df43d91"}
+{"sub_uri": "Q1840161", "obj_uri": "Q15284", "obj_label": "udalerri", "sub_label": "Txileko komuna", "lineid": 469, "uuid": "33e0163b-09cd-4320-b41f-bb256d7b7281"}
+{"sub_uri": "Q149537", "obj_uri": "Q8253", "obj_label": "fikzio", "sub_label": "eleberri labur", "lineid": 470, "uuid": "b43dc149-e17b-4b06-902c-0022d6442aea"}
+{"sub_uri": "Q423488", "obj_uri": "Q44167", "obj_label": "Motor", "sub_label": "eragingailu", "lineid": 473, "uuid": "1ffd39f2-e588-4f13-8fc3-d5a0d3b4b259"}
+{"sub_uri": "Q2577114", "obj_uri": "Q2977", "obj_label": "Katedral", "sub_label": "Konkatedral", "lineid": 476, "uuid": "488dd70f-f8df-4379-b9ce-05206074fbca"}
+{"sub_uri": "Q7889", "obj_uri": "Q166142", "obj_label": "Aplikazio", "sub_label": "bideo-joko", "lineid": 481, "uuid": "325d3c0d-7350-4678-802f-a3ad4da7b0ad"}
+{"sub_uri": "Q7533", "obj_uri": "Q1364", "obj_label": "fruitu", "sub_label": "kuiatxo", "lineid": 482, "uuid": "d37c0de8-1f7d-4b91-ac93-0ad2aa7f0d4f"}
+{"sub_uri": "Q179899", "obj_uri": "Q472971", "obj_label": "espazio", "sub_label": "espazio topologiko", "lineid": 486, "uuid": "77d65708-efd9-4efa-ace1-08d3ef6012e9"}
+{"sub_uri": "Q847001", "obj_uri": "Q8134", "obj_label": "ekonomia", "sub_label": "Chicagoko ekonomia eskola", "lineid": 487, "uuid": "f2c365df-a2b2-4d06-b0a0-ea42836002d0"}
+{"sub_uri": "Q62246", "obj_uri": "Q81163", "obj_label": "polimero", "sub_label": "polikarbonato", "lineid": 489, "uuid": "4fa6c18c-6762-4ab2-9d40-ebd30236f377"}
+{"sub_uri": "Q585704", "obj_uri": "Q7026", "obj_label": "katalana", "sub_label": "Algerera", "lineid": 500, "uuid": "82353102-f410-4703-aef7-0b665827fcca"}
+{"sub_uri": "Q1072192", "obj_uri": "Q9266", "obj_label": "entsalada", "sub_label": "Baba ghanoush", "lineid": 504, "uuid": "00a0a494-3a0c-4f5c-8885-3d541f73020d"}
+{"sub_uri": "Q185131", "obj_uri": "Q68", "obj_label": "Ordenagailu", "sub_label": "miniordenagailu", "lineid": 507, "uuid": "2fd9c37e-77e2-4d93-b4e9-4402bd28f28e"}
+{"sub_uri": "Q118026", "obj_uri": "Q8047", "obj_label": "entzima", "sub_label": "isomerasa", "lineid": 509, "uuid": "264bf104-585d-4b4f-ac2d-84365071a1e8"}
+{"sub_uri": "Q8196", "obj_uri": "Q9779", "obj_label": "alfabeto", "sub_label": "arabiar alfabeto", "lineid": 510, "uuid": "5075dc3d-dc83-4abd-abac-00b3d2fc0c60"}
+{"sub_uri": "Q7976", "obj_uri": "Q1860", "obj_label": "ingeles", "sub_label": "Amerikar ingeles", "lineid": 511, "uuid": "70b02661-52fe-4a36-9534-0fcabf9f7e8e"}
+{"sub_uri": "Q200092", "obj_uri": "Q11424", "obj_label": "film", "sub_label": "beldurrezko zinema", "lineid": 515, "uuid": "739d4b91-089e-4b35-973a-7879057a20cb"}
+{"sub_uri": "Q2103168", "obj_uri": "Q193078", "obj_label": "traumatismo", "sub_label": "politraumatismo", "lineid": 518, "uuid": "ec421342-3170-4039-85dc-44c05fa88004"}
+{"sub_uri": "Q178032", "obj_uri": "Q11421", "obj_label": "iman", "sub_label": "Elektroiman", "lineid": 520, "uuid": "f55e9722-3a89-4c66-a9c1-4312ed34fe8e"}
+{"sub_uri": "Q1063457", "obj_uri": "Q79602", "obj_label": "Zikloi", "sub_label": "Zikloi estratropikal", "lineid": 522, "uuid": "6bdccb21-70b3-40a5-8da2-ddfc8963e6b0"}
+{"sub_uri": "Q1426327", "obj_uri": "Q28823", "obj_label": "Oihal", "sub_label": "ehungintzarako liho", "lineid": 523, "uuid": "f0a717ff-8c91-4d2b-b192-49506ef390e1"}
+{"sub_uri": "Q497778", "obj_uri": "Q188", "obj_label": "aleman", "sub_label": "Berlinera", "lineid": 525, "uuid": "dcd4f4fc-613b-434d-bd97-a2546eb1fda0"}
+{"sub_uri": "Q666242", "obj_uri": "Q7802", "obj_label": "ogi", "sub_label": "ogi zapal", "lineid": 528, "uuid": "b3d098ac-de43-4010-a800-265ff8eb6100"}
+{"sub_uri": "Q424275", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "Muzilago", "lineid": 529, "uuid": "8a68caad-0171-4a59-a9d9-15dd6e55d84d"}
+{"sub_uri": "Q92026", "obj_uri": "Q57821", "obj_label": "Gotorleku", "sub_label": "Japoniar gaztelu", "lineid": 530, "uuid": "71d25f48-a783-419e-afcc-d1b5e5a619a7"}
+{"sub_uri": "Q213202", "obj_uri": "Q25257", "obj_label": "Prezipitazio", "sub_label": "elur-pikor", "lineid": 531, "uuid": "d6e268e9-495d-41a3-8b3f-8420a0e34f79"}
+{"sub_uri": "Q104851", "obj_uri": "Q7397", "obj_label": "software", "sub_label": "Firmware", "lineid": 532, "uuid": "4d88f76b-74b5-45d4-bf0d-2ad7c6f01b5b"}
+{"sub_uri": "Q191839", "obj_uri": "Q11633", "obj_label": "argazkigintza", "sub_label": "aireko fotografia", "lineid": 535, "uuid": "6f8143e3-0224-4de5-a393-e1f3cc9e46c5"}
+{"sub_uri": "Q1571929", "obj_uri": "Q765633", "obj_label": "Hegazkintza", "sub_label": "hegazkintza orokor", "lineid": 536, "uuid": "6fc720ff-0f40-4d76-acfa-2c283b06ec98"}
+{"sub_uri": "Q76904", "obj_uri": "Q22656", "obj_label": "Petrolio", "sub_label": "Keroseno", "lineid": 538, "uuid": "b81710bf-04b1-4070-b3cc-cb5ab60469b4"}
+{"sub_uri": "Q303347", "obj_uri": "Q223269", "obj_label": "Prakamotzak", "sub_label": "Bermuda-galtzak", "lineid": 541, "uuid": "f01b2862-dce9-43fe-b91a-013efcf0bc3a"}
+{"sub_uri": "Q189085", "obj_uri": "Q183670", "obj_label": "Klera", "sub_label": "Pastel (pintura)", "lineid": 542, "uuid": "003f4118-5618-4bbe-ac85-4faffd26b75c"}
+{"sub_uri": "Q203775", "obj_uri": "Q8341", "obj_label": "jazz", "sub_label": "swing", "lineid": 544, "uuid": "a10edf68-05af-4316-80a0-c896966761e7"}
+{"sub_uri": "Q6649", "obj_uri": "Q17884", "obj_label": "LGBT", "sub_label": "lesbianismo", "lineid": 548, "uuid": "daab13b8-0234-4960-8295-97b5af17fdfd"}
+{"sub_uri": "Q190117", "obj_uri": "Q8148", "obj_label": "industria", "sub_label": "automobilgintza", "lineid": 549, "uuid": "4f46ba02-36d3-490c-af36-ef2d4c1c42d4"}
+{"sub_uri": "Q184624", "obj_uri": "Q24489", "obj_label": "Harrikatz", "sub_label": "Zohikatz", "lineid": 551, "uuid": "c8083b76-05a5-4049-96db-1bd7159f60d5"}
+{"sub_uri": "Q810480", "obj_uri": "Q27911", "obj_label": "baxu", "sub_label": "baritono baxua", "lineid": 552, "uuid": "b3d3143f-1dda-48c6-971c-f8001decf10c"}
+{"sub_uri": "Q395299", "obj_uri": "Q7365", "obj_label": "muskulu", "sub_label": "agonista", "lineid": 556, "uuid": "3a51b190-407b-4ae6-b405-69d6c9c84330"}
+{"sub_uri": "Q48343", "obj_uri": "Q12567", "obj_label": "Bikingo", "sub_label": "Barego", "lineid": 558, "uuid": "166c1854-ec8e-4a09-839d-c72be7a64478"}
+{"sub_uri": "Q735", "obj_uri": "Q170658", "obj_label": "sormen", "sub_label": "arte", "lineid": 559, "uuid": "9f4eea81-3e4e-4100-a115-84149143cedc"}
+{"sub_uri": "Q19546", "obj_uri": "Q42603", "obj_label": "apaiz", "sub_label": "Aita santu", "lineid": 562, "uuid": "3c6433da-9fac-4c5d-b47a-e222c408b3e0"}
+{"sub_uri": "Q37159", "obj_uri": "Q8495", "obj_label": "esne", "sub_label": "Irabiaki", "lineid": 565, "uuid": "4d592e77-71eb-4f89-84fa-134f0dd9ded3"}
+{"sub_uri": "Q836610", "obj_uri": "Q165950", "obj_label": "Espioitza", "sub_label": "Seinal inteligentzia", "lineid": 568, "uuid": "ea5ae242-b868-4bbd-be74-ba26f9bd450c"}
+{"sub_uri": "Q873750", "obj_uri": "Q2727213", "obj_label": "Ebasketa", "sub_label": "Zorro-lapurketa", "lineid": 569, "uuid": "fd62ad6d-7999-453d-bf3c-78420bee5363"}
+{"sub_uri": "Q191768", "obj_uri": "Q10990", "obj_label": "Haragi", "sub_label": "Txerriki", "lineid": 579, "uuid": "326184fe-5df9-4958-9767-8487ea971ada"}
+{"sub_uri": "Q88291", "obj_uri": "Q57821", "obj_label": "Gotorleku", "sub_label": "zitadela", "lineid": 584, "uuid": "0d9b1eb3-20f0-4b73-a86d-768cf5753934"}
+{"sub_uri": "Q902628", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "hemoproteina", "lineid": 588, "uuid": "77a59f21-583e-490e-a739-25a0fba7f1cf"}
+{"sub_uri": "Q12187", "obj_uri": "Q12140", "obj_label": "farmako", "sub_label": "Bakterio-kontrako", "lineid": 590, "uuid": "6b7d7bd0-3794-46f2-b393-6aba529355fb"}
+{"sub_uri": "Q396338", "obj_uri": "Q7150", "obj_label": "Ekologia", "sub_label": "Agroekologia", "lineid": 591, "uuid": "652db124-d9ee-4e94-9fcb-ba29535b3a85"}
+{"sub_uri": "Q849622", "obj_uri": "Q37748", "obj_label": "kromosoma", "sub_label": "Kromosoma homologo", "lineid": 592, "uuid": "681cb06e-ae19-49e5-a0d1-8e711ad0f314"}
+{"sub_uri": "Q12078", "obj_uri": "Q12136", "obj_label": "eritasun", "sub_label": "Minbizi", "lineid": 596, "uuid": "4af869be-ad0c-4a45-b03e-58d16d887a76"}
+{"sub_uri": "Q755673", "obj_uri": "Q8366", "obj_label": "Algoritmo", "sub_label": "bilatze-algoritmo", "lineid": 608, "uuid": "e3cd15dd-573f-4c5a-ba59-f8a96affcd8e"}
+{"sub_uri": "Q954141", "obj_uri": "Q8752", "obj_label": "euskara", "sub_label": "Gipuzkera", "lineid": 612, "uuid": "fb8c0a3d-8f3f-400f-9e64-94d0e84ececd"}
+{"sub_uri": "Q16321", "obj_uri": "Q265868", "obj_label": "hezur", "sub_label": "Esfenoide hezur", "lineid": 613, "uuid": "eeee0141-9878-4e08-a045-91156e00d2f9"}
+{"sub_uri": "Q1128397", "obj_uri": "Q44613", "obj_label": "monasterio", "sub_label": "komentu", "lineid": 614, "uuid": "722fc995-ae94-4dd7-89ab-077bb890090b"}
+{"sub_uri": "Q336989", "obj_uri": "Q643352", "obj_label": "Belar", "sub_label": "Belar ondu", "lineid": 620, "uuid": "60a761f0-bb14-447f-893c-6733f988693a"}
+{"sub_uri": "Q178547", "obj_uri": "Q11004", "obj_label": "Barazki", "sub_label": "Osterzuri", "lineid": 624, "uuid": "f33a6145-1851-4cb6-b2bb-de80354052ea"}
+{"sub_uri": "Q48196", "obj_uri": "Q7868", "obj_label": "zelula", "sub_label": "Zelula ama", "lineid": 628, "uuid": "2b1fdf60-4a31-4d83-947e-0006c94dd5f6"}
+{"sub_uri": "Q383260", "obj_uri": "Q134808", "obj_label": "txerto", "sub_label": "Gripearen aurkako txerto", "lineid": 631, "uuid": "b85c8c81-467b-4a67-866f-be9e1e612195"}
+{"sub_uri": "Q260142", "obj_uri": "Q190868", "obj_label": "Bota", "sub_label": "Katiuska", "lineid": 635, "uuid": "100e6087-9a69-400e-8c1d-4ff18fe21b76"}
+{"sub_uri": "Q278417", "obj_uri": "Q265868", "obj_label": "hezur", "sub_label": "Piramidal", "lineid": 637, "uuid": "e00a51bb-a12a-4887-a136-e3c4bb543dfa"}
+{"sub_uri": "Q110910", "obj_uri": "Q215972", "obj_label": "Protagonista", "sub_label": "antiheroi", "lineid": 642, "uuid": "33f678f0-9aa0-4a20-a941-f5be5d22152b"}
+{"sub_uri": "Q4394526", "obj_uri": "Q7748", "obj_label": "zuzenbide", "sub_label": "nazioarteko zuzenbide", "lineid": 643, "uuid": "a15f0846-3664-49aa-a119-f5aa848054ad"}
+{"sub_uri": "Q707326", "obj_uri": "Q9655", "obj_label": "arteria", "sub_label": "arteria espleniko", "lineid": 647, "uuid": "65671b5d-f75c-4b45-8b91-d4afdc72008b"}
+{"sub_uri": "Q1428632", "obj_uri": "Q194302", "obj_label": "Enbrage", "sub_label": "enbrage zentrifugo", "lineid": 649, "uuid": "f6e06b01-bc69-46c3-86a3-9d241a23e0fb"}
+{"sub_uri": "Q1542109", "obj_uri": "Q41177", "obj_label": "Granito", "sub_label": "Rapakivi granito", "lineid": 651, "uuid": "c35f0890-8938-48a5-9622-5467e395a1b1"}
+{"sub_uri": "Q189472", "obj_uri": "Q130949", "obj_label": "Eski", "sub_label": "Akrobaziazko eski", "lineid": 653, "uuid": "79404c15-82dd-4e00-99a7-957673232d10"}
+{"sub_uri": "Q177625", "obj_uri": "Q185674", "obj_label": "Eremu", "sub_label": "Eremu elektromagnetiko", "lineid": 658, "uuid": "769ca523-bb35-4d62-96b8-fb6684a20ff8"}
+{"sub_uri": "Q639625", "obj_uri": "Q7953", "obj_label": "Zen", "sub_label": "Rinzai Zen", "lineid": 662, "uuid": "07ccbc93-8930-4cb8-9860-9427de3a915b"}
+{"sub_uri": "Q81745", "obj_uri": "Q413", "obj_label": "fisika", "sub_label": "Fisika klasiko", "lineid": 663, "uuid": "6a0f1793-5b73-4e8b-a784-997c3be40c86"}
+{"sub_uri": "Q178470", "obj_uri": "Q3962", "obj_label": "Ordenagailu eramangarri", "sub_label": "netbook", "lineid": 665, "uuid": "b5092adb-5673-4484-81e9-1d179e7dd06f"}
+{"sub_uri": "Q7940086", "obj_uri": "Q520549", "obj_label": "geologo", "sub_label": "bolkanologo", "lineid": 667, "uuid": "373b1c30-1ab6-4fbe-84ec-77f1eeb69d3e"}
+{"sub_uri": "Q14770547", "obj_uri": "Q6584340", "obj_label": "Almibar", "sub_label": "Almibar", "lineid": 673, "uuid": "de0fa2aa-b373-4510-bc40-2aca5cd1d33b"}
+{"sub_uri": "Q348958", "obj_uri": "Q6097", "obj_label": "Te", "sub_label": "Te izoztu", "lineid": 675, "uuid": "ffbbd93f-af11-496b-8851-177a5d76618e"}
+{"sub_uri": "Q159344", "obj_uri": "Q7239", "obj_label": "organismo", "sub_label": "Heterotrofo", "lineid": 676, "uuid": "adb35354-bdd6-48d4-91e1-19c438812e1b"}
+{"sub_uri": "Q192726", "obj_uri": "Q166142", "obj_label": "Aplikazio", "sub_label": "Makina birtual", "lineid": 678, "uuid": "d7515951-4b8f-44e1-a72c-c87a63cee336"}
+{"sub_uri": "Q1059724", "obj_uri": "Q265868", "obj_label": "hezur", "sub_label": "Tartso", "lineid": 679, "uuid": "f5a53cc4-11b7-4d2c-9e4b-0f3ee7db483d"}
+{"sub_uri": "Q7953", "obj_uri": "Q748", "obj_label": "Budismo", "sub_label": "Zen", "lineid": 683, "uuid": "cdcbd1bc-bd04-4a03-aff5-4d3fec46dd33"}
+{"sub_uri": "Q989016", "obj_uri": "Q8513", "obj_label": "datu-base", "sub_label": "Datu-base banatu", "lineid": 690, "uuid": "fc62bdfd-d163-4132-94f4-9206abe423ac"}
+{"sub_uri": "Q150463", "obj_uri": "Q11004", "obj_label": "Barazki", "sub_label": "Bruselaza", "lineid": 703, "uuid": "4c52e22b-600f-406a-a176-5a821723442b"}
+{"sub_uri": "Q172896", "obj_uri": "Q39614", "obj_label": "Hilerri", "sub_label": "Katakonba", "lineid": 705, "uuid": "6af20c95-d38f-4c7a-b750-15865cde8457"}
+{"sub_uri": "Q12184", "obj_uri": "Q44512", "obj_label": "izurri", "sub_label": "Pandemia", "lineid": 710, "uuid": "e4377699-07b4-4b7d-b381-5e524a9d4cdc"}
+{"sub_uri": "Q1200918", "obj_uri": "Q188688", "obj_label": "zabu", "sub_label": "Trapezio", "lineid": 714, "uuid": "5ee948c1-9ba5-4249-8729-a3467301a191"}
+{"sub_uri": "Q189939", "obj_uri": "Q756", "obj_label": "landare", "sub_label": "Landare zukutsu", "lineid": 716, "uuid": "24d145ea-920c-413b-a61e-329a7230c665"}
+{"sub_uri": "Q1937189", "obj_uri": "Q11024", "obj_label": "Komunikazio", "sub_label": "Enpresako barne komunikazio", "lineid": 719, "uuid": "7b1d128e-ff6f-4ce3-96f5-df2046684c5d"}
+{"sub_uri": "Q854342", "obj_uri": "Q7802", "obj_label": "ogi", "sub_label": "Panettone", "lineid": 723, "uuid": "7c38ba4b-3574-4d21-8800-dd2f5edf8fb7"}
+{"sub_uri": "Q51597", "obj_uri": "Q38035", "obj_label": "Kontsonante", "sub_label": "Kontsonante herskari", "lineid": 724, "uuid": "2199ec1d-23aa-42f0-90a6-da8ab4180f92"}
+{"sub_uri": "Q170305", "obj_uri": "Q132050", "obj_label": "gobernadore", "sub_label": "satrapa", "lineid": 727, "uuid": "37ffbf7b-588a-4202-8e0a-409f7403b81d"}
+{"sub_uri": "Q204632", "obj_uri": "Q216048", "obj_label": "talde kirol", "sub_label": "Futbol gaeliko", "lineid": 732, "uuid": "9df84a6a-6e42-499e-82a3-e870253365eb"}
+{"sub_uri": "Q725457", "obj_uri": "Q28823", "obj_label": "Oihal", "sub_label": "Muselina", "lineid": 736, "uuid": "f490ad96-a96d-408f-9f84-5367cfc05b4e"}
+{"sub_uri": "Q218802", "obj_uri": "Q11405", "obj_label": "Txirula", "sub_label": "Panen flauta", "lineid": 738, "uuid": "6189e0af-673b-46d7-a927-db29cf89b032"}
+{"sub_uri": "Q1072763", "obj_uri": "Q1420", "obj_label": "Automobil", "sub_label": "Muscle car", "lineid": 739, "uuid": "2935dabd-0c86-45d8-813a-e3a930e4e334"}
+{"sub_uri": "Q5372", "obj_uri": "Q216048", "obj_label": "talde kirol", "sub_label": "saskibaloi", "lineid": 746, "uuid": "800d0f90-844a-4b4e-b8c3-41e07a71aea8"}
+{"sub_uri": "Q273108", "obj_uri": "Q178197", "obj_label": "Mertzenario", "sub_label": "condottiero", "lineid": 748, "uuid": "75637278-b9bb-4403-8258-3e6b054df2ad"}
+{"sub_uri": "Q656732", "obj_uri": "Q42918", "obj_label": "Mutazio", "sub_label": "Delezio", "lineid": 749, "uuid": "95bc5e80-5129-4bb3-bd3f-df35ec507068"}
+{"sub_uri": "Q128758", "obj_uri": "Q35874", "obj_label": "umore", "sub_label": "satira", "lineid": 754, "uuid": "b11db213-3df0-4cc1-bf2a-aba544363794"}
+{"sub_uri": "Q584209", "obj_uri": "Q12140", "obj_label": "farmako", "sub_label": "antitusibo", "lineid": 756, "uuid": "901ce98b-483b-45e3-aa4d-9489eed36493"}
+{"sub_uri": "Q281278", "obj_uri": "Q9266", "obj_label": "entsalada", "sub_label": "Errusiar entsaladilla", "lineid": 758, "uuid": "759ce942-9e33-4ab4-98fd-221515a48993"}
+{"sub_uri": "Q82412", "obj_uri": "Q6497460", "obj_label": "Abiadura-kaxa", "sub_label": "engranaje planetario", "lineid": 763, "uuid": "036da839-5923-4baa-bb39-7a6bb72a0db8"}
+{"sub_uri": "Q171038", "obj_uri": "Q216048", "obj_label": "talde kirol", "sub_label": "sofbol", "lineid": 764, "uuid": "71314fbb-0bfb-4440-8fc9-47c5d3fbf421"}
+{"sub_uri": "Q1200524", "obj_uri": "Q8072", "obj_label": "Sumendi", "sub_label": "Sumendi konposatu", "lineid": 767, "uuid": "09224652-9af8-49ad-bd1b-cc36a65a7e18"}
+{"sub_uri": "Q5454668", "obj_uri": "Q41415", "obj_label": "zopa", "sub_label": "arrain zopa", "lineid": 768, "uuid": "2476f99a-927c-41e5-a70e-042424a8852c"}
+{"sub_uri": "Q918337", "obj_uri": "Q22725", "obj_label": "Bideratze-algoritmo", "sub_label": "Unicast", "lineid": 769, "uuid": "2b7c8bfe-b1fd-4e00-a9c0-4bdf77bc8b0c"}
+{"sub_uri": "Q39833", "obj_uri": "Q7239", "obj_label": "organismo", "sub_label": "mikrobio", "lineid": 772, "uuid": "3467efda-32bf-4c4e-b511-c810e1e5c720"}
+{"sub_uri": "Q130243", "obj_uri": "Q7365", "obj_label": "muskulu", "sub_label": "Deltoide", "lineid": 773, "uuid": "be96bede-2263-43fa-b025-c429b21d0053"}
+{"sub_uri": "Q91122", "obj_uri": "Q57821", "obj_label": "Gotorleku", "sub_label": "Bunker", "lineid": 779, "uuid": "c2ce3199-6f17-470f-8d89-1bd88f39c2f9"}
+{"sub_uri": "Q654236", "obj_uri": "Q83093", "obj_label": "ziza", "sub_label": "onddo jangarria", "lineid": 805, "uuid": "32fd5a5a-13f7-4643-9ae8-2c31fe0dead4"}
+{"sub_uri": "Q36834", "obj_uri": "Q639669", "obj_label": "musikari", "sub_label": "musikagile", "lineid": 808, "uuid": "ef3b5234-6e5b-490d-8ad3-04839a223d07"}
+{"sub_uri": "Q1137570", "obj_uri": "Q11442", "obj_label": "bizikleta", "sub_label": "Bizikleta tolesgarri", "lineid": 814, "uuid": "603c6a95-996b-4e04-9608-be77d5c41a93"}
+{"sub_uri": "Q490059", "obj_uri": "Q9655", "obj_label": "arteria", "sub_label": "Lepauztaipeko arteria", "lineid": 815, "uuid": "3337ca2e-02c0-4c0b-a5c9-8be7f5dfe294"}
+{"sub_uri": "Q44676", "obj_uri": "Q1860", "obj_label": "ingeles", "sub_label": "Kanadako ingeles", "lineid": 816, "uuid": "014a0e05-b5f6-4438-9996-8234c321c1e6"}
+{"sub_uri": "Q7150", "obj_uri": "Q420", "obj_label": "biologia", "sub_label": "Ekologia", "lineid": 824, "uuid": "dad9d7a9-f3c0-41e6-9412-48b6a1761501"}
+{"sub_uri": "Q3281534", "obj_uri": "Q309", "obj_label": "historia", "sub_label": "Aro Modernoa", "lineid": 827, "uuid": "80bc786e-1e3b-49d1-a8b6-7f629ffafcf2"}
+{"sub_uri": "Q327547", "obj_uri": "Q8341", "obj_label": "jazz", "sub_label": "Cool jazz", "lineid": 830, "uuid": "dec69bda-6f74-4d2e-be1d-f22c1ea9d9a5"}
+{"sub_uri": "Q40178", "obj_uri": "Q58734", "obj_label": "Kutsadura", "sub_label": "euri azido", "lineid": 837, "uuid": "240e8ecb-3dcd-44dd-8d67-62f2de4b6eec"}
+{"sub_uri": "Q181505", "obj_uri": "Q333", "obj_label": "Astronomia", "sub_label": "astrometria", "lineid": 844, "uuid": "6c573cfc-da7d-4050-a548-8d5db6c7fb7b"}
+{"sub_uri": "Q249740", "obj_uri": "Q263478", "obj_label": "musika nota", "sub_label": "Karratu", "lineid": 845, "uuid": "c5e78d1d-ab34-4a11-8dcb-63b0033ee9d2"}
+{"sub_uri": "Q47577", "obj_uri": "Q12503", "obj_label": "zenbaki oso", "sub_label": "Fibonacciren zenbakiak", "lineid": 854, "uuid": "629a998a-c2c4-418c-a193-2a640f56a612"}
+{"sub_uri": "Q36293", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "Histona", "lineid": 861, "uuid": "210a4a58-ebf4-48dd-b470-6b05ae18aeea"}
+{"sub_uri": "Q620615", "obj_uri": "Q166142", "obj_label": "Aplikazio", "sub_label": "Sakelako mugikorraren aplikazio", "lineid": 869, "uuid": "a777c768-9421-4520-b5dd-8c72ec8e915f"}
+{"sub_uri": "Q45584", "obj_uri": "Q9089", "obj_label": "hinduismo", "sub_label": "Vhisnuismo", "lineid": 871, "uuid": "0895ca76-3756-4c27-9915-f1165fbccc1a"}
+{"sub_uri": "Q622291", "obj_uri": "Q182015", "obj_label": "thriller", "sub_label": "thriller politiko", "lineid": 874, "uuid": "da2eed80-0145-49d2-8af7-1eb01abc6895"}
+{"sub_uri": "Q1052281", "obj_uri": "Q189125", "obj_label": "transgenero", "sub_label": "emakume transgenero", "lineid": 880, "uuid": "61ff02a5-5b34-4b23-a56e-a12fd8a13351"}
+{"sub_uri": "Q183129", "obj_uri": "Q58734", "obj_label": "Kutsadura", "sub_label": "Uraren kutsadura", "lineid": 889, "uuid": "dd0220c9-f0b4-4572-b6f7-3801f31d42e7"}
+{"sub_uri": "Q160742", "obj_uri": "Q44613", "obj_label": "monasterio", "sub_label": "abade-etxe", "lineid": 894, "uuid": "30e9a0fe-37f3-45e1-a309-52db350e87d2"}
+{"sub_uri": "Q189280", "obj_uri": "Q7272", "obj_label": "sozialismo", "sub_label": "sozialismo demokratiko", "lineid": 898, "uuid": "3c42cf20-8260-4bb9-ac36-5ca340ea7ae5"}
+{"sub_uri": "Q11406", "obj_uri": "Q413", "obj_label": "fisika", "sub_label": "Elektromagnetismo", "lineid": 903, "uuid": "284dddd7-666d-41a1-954e-46e81e5ae48f"}
+{"sub_uri": "Q41466", "obj_uri": "Q216048", "obj_label": "talde kirol", "sub_label": "Izotz hockey", "lineid": 908, "uuid": "1fbe541f-b198-4c78-9d22-ebaefb8e9a52"}
+{"sub_uri": "Q28161", "obj_uri": "Q8134", "obj_label": "ekonomia", "sub_label": "Lan-ekonomia", "lineid": 917, "uuid": "53157d76-6ab3-452e-9482-dd4f04fc07fc"}
+{"sub_uri": "Q829367", "obj_uri": "Q21201", "obj_label": "soziologia", "sub_label": "Hezkuntzaren soziologia", "lineid": 919, "uuid": "b190c8b0-c064-481a-b822-2de3abc7129b"}
+{"sub_uri": "Q167466", "obj_uri": "Q7937", "obj_label": "Klima", "sub_label": "Klima epel", "lineid": 927, "uuid": "fa00710a-37ce-4262-8ec9-a8028352eb65"}
+{"sub_uri": "Q169358", "obj_uri": "Q8072", "obj_label": "Sumendi", "sub_label": "Geruza-sumendi", "lineid": 931, "uuid": "99a84a55-5f3c-4c07-ae9e-de13d7b70ea2"}
+{"sub_uri": "Q6636", "obj_uri": "Q17884", "obj_label": "LGBT", "sub_label": "homosexualitate", "lineid": 941, "uuid": "ed567a5e-a6ff-4deb-a9ad-3ebb44912a1e"}
+{"sub_uri": "Q627111", "obj_uri": "Q134574", "obj_label": "Ponpa", "sub_label": "ponpa zentrifugo", "lineid": 956, "uuid": "b6fcd20b-c80b-4f7a-879c-f32f4897b41a"}
+{"sub_uri": "Q4543", "obj_uri": "Q216048", "obj_label": "talde kirol", "sub_label": "Hondartza-bolei", "lineid": 958, "uuid": "c35dd0cd-0bef-46dc-9ccb-118e7df37b90"}

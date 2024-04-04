@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "[X] sa narodil v [Y]."}
+{"relation": "P20", "template": "[X] zomrel v [Y]."}
+{"relation": "P279", "template": "[X] je podtrieda [Y]."}
+{"relation": "P37", "template": "\u00daradn\u00fdm jazykom [X] je [Y]."}
+{"relation": "P413", "template": "[X] hr\u00e1 v polohe [Y]."}
+{"relation": "P166", "template": "[X] z\u00edskal [Y]."}
+{"relation": "P449", "template": "[X] bol p\u00f4vodne vysielan\u00fd na [Y]."}
+{"relation": "P69", "template": "[X] bol vy\u0161tudovan\u00fd na univerzite v [Y]."}
+{"relation": "P47", "template": "[X] zdie\u013ea hranicu s [Y]."}
+{"relation": "P138", "template": "[X] je pomenovan\u00fd po [Y]."}
+{"relation": "P364", "template": "P\u00f4vodn\u00fd jazyk [X] je [Y]."}
+{"relation": "P54", "template": "[X] sa hr\u00e1 s [Y]."}
+{"relation": "P463", "template": "[X] je \u010dlenom skupiny [Y]."}
+{"relation": "P101", "template": "[X] pracuje v oblasti [Y]."}
+{"relation": "P1923", "template": "[Y] sa z\u00fa\u010dastnil na [X]."}
+{"relation": "P106", "template": "[X] je profesiou [Y]."}
+{"relation": "P527", "template": "[X] pozost\u00e1va z [Y]."}
+{"relation": "P102", "template": "[X] je \u010dlenom politickej strany [Y]."}
+{"relation": "P530", "template": "[X] udr\u017eiava diplomatick\u00e9 vz\u0165ahy s [Y]."}
+{"relation": "P176", "template": "[X] sa vyr\u00e1ba v [Y]."}
+{"relation": "P27", "template": "[X] je [Y] ob\u010dan."}
+{"relation": "P407", "template": "[X] bol nap\u00edsan\u00fd v [Y]."}
+{"relation": "P30", "template": "[X] sa nach\u00e1dza v [Y]."}
+{"relation": "P178", "template": "[X] vyvinula spolo\u010dnos\u0165 [Y]."}
+{"relation": "P1376", "template": "[X] je hlavn\u00e9 mesto [Y]."}
+{"relation": "P131", "template": "[X] sa nach\u00e1dza v [Y]."}
+{"relation": "P1412", "template": "[X] zvyknut\u00fd komunikova\u0165 v [Y]."}
+{"relation": "P108", "template": "[X] funguje pre [Y]."}
+{"relation": "P136", "template": "[X] prehr\u00e1va hudbu [Y]."}
+{"relation": "P17", "template": "[X] sa nach\u00e1dza v [Y]."}
+{"relation": "P39", "template": "[X] m\u00e1 poz\u00edciu [Y]."}
+{"relation": "P264", "template": "[X] predstavuje hudobn\u00e9 ozna\u010denie [Y]."}
+{"relation": "P276", "template": "[X] sa nach\u00e1dza v [Y]."}
+{"relation": "P937", "template": "[X] predt\u00fdm pracoval v [Y]."}
+{"relation": "P140", "template": "[X] je prepojen\u00fd s [Y] n\u00e1bo\u017eenstvom."}
+{"relation": "P1303", "template": "[X] hr\u00e1 [Y]."}
+{"relation": "P127", "template": "[X] je vo vlastn\u00edctve spolo\u010dnosti [Y]."}
+{"relation": "P103", "template": "Rodn\u00fd jazyk [X] je [Y]."}
+{"relation": "P190", "template": "[X] a [Y] s\u00fa dvoj\u010dat\u00e1."}
+{"relation": "P1001", "template": "[X] je pr\u00e1vny pojem v [Y]."}
+{"relation": "P31", "template": "[X] je [Y]."}
+{"relation": "P495", "template": "[X] bol vytvoren\u00fd v [Y]."}
+{"relation": "P159", "template": "S\u00eddlo spolo\u010dnosti [X] je v [Y]."}
+{"relation": "P36", "template": "Hlavn\u00e9 mesto [X] je [Y]."}
+{"relation": "P740", "template": "Spolo\u010dnos\u0165 [X] bola zalo\u017een\u00e1 v roku [Y]."}
+{"relation": "P361", "template": "[X] je s\u00fa\u010das\u0165ou [Y]."}
+{"relation": "date_of_birth", "template": "[X] (naroden\u00e9 [Y])."}
+{"relation": "place_of_birth", "template": "[X] sa narodil v [Y]."}
+{"relation": "place_of_death", "template": "[X] zomrel v [Y]."}

@@ -1,0 +1,404 @@
+{"sub_uri": "Q177540", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Parafin", "lineid": 2, "uuid": "24d7ff57-0d76-4836-bfa9-3fc68438b356"}
+{"sub_uri": "Q207895", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Du\u0161ikov dioksid", "lineid": 4, "uuid": "7cc5bb3f-5a38-469e-a8b0-55c7480fb37f"}
+{"sub_uri": "Q412356", "obj_uri": "Q670", "obj_label": "Silicij", "sub_label": "Silicijev karbid", "lineid": 5, "uuid": "df17839a-b43a-4143-97fd-2d6409c28a4a"}
+{"sub_uri": "Q37726", "obj_uri": "Q29171", "obj_label": "Pje\u0161a\u0161tvo", "sub_label": "Kopnena vojska", "lineid": 7, "uuid": "20f67766-d6c9-4b44-b099-e33b49d7de66"}
+{"sub_uri": "Q19771", "obj_uri": "Q38", "obj_label": "Italija", "sub_label": "G-20", "lineid": 9, "uuid": "4916857e-9058-49cd-b417-ffa8744c9f37"}
+{"sub_uri": "Q27449", "obj_uri": "Q29", "obj_label": "\u0160panjolska", "sub_label": "Ju\u017ena Europa", "lineid": 12, "uuid": "1b2ed718-9151-4fc3-8027-e9de6684f673"}
+{"sub_uri": "Q183416", "obj_uri": "Q244", "obj_label": "Barbados", "sub_label": "Privjetrinski otoci (Antili)", "lineid": 13, "uuid": "1540dd2c-fb04-404c-b72f-d372c9c85d00"}
+{"sub_uri": "Q16521", "obj_uri": "Q7239", "obj_label": "organizam", "sub_label": "takson", "lineid": 17, "uuid": "73abebd0-0739-4630-9d57-5db34e05c4d5"}
+{"sub_uri": "Q39731", "obj_uri": "Q191", "obj_label": "Estonija", "sub_label": "Balti\u010dke republike", "lineid": 22, "uuid": "a8a9a738-4a90-455c-9c08-42f05a54ed46"}
+{"sub_uri": "Q184485", "obj_uri": "Q47928", "obj_label": "Cirkus", "sub_label": "scenska umjetnost", "lineid": 23, "uuid": "7461f093-68c0-47a6-8d3f-1bd9624e7588"}
+{"sub_uri": "Q37726", "obj_uri": "Q47315", "obj_label": "Konjica", "sub_label": "Kopnena vojska", "lineid": 24, "uuid": "4892c098-925b-4724-95fd-8ffd5bb461ce"}
+{"sub_uri": "Q69488", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "MDMA", "lineid": 26, "uuid": "13e6fb8d-232c-4bed-9620-917b49c352bc"}
+{"sub_uri": "Q27449", "obj_uri": "Q224", "obj_label": "Hrvatska", "sub_label": "Ju\u017ena Europa", "lineid": 27, "uuid": "fec3592b-15aa-45d9-a0e2-f31a6a492ce8"}
+{"sub_uri": "Q421894", "obj_uri": "Q703", "obj_label": "Kalij", "sub_label": "Berlinsko modrilo", "lineid": 28, "uuid": "0fd511eb-222b-4226-bde8-9b30279ee299"}
+{"sub_uri": "Q218642", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Alanin", "lineid": 29, "uuid": "24921cdb-70ab-4750-9146-faa8555d31ca"}
+{"sub_uri": "Q15281614", "obj_uri": "Q132020", "obj_label": "Xbox", "sub_label": "Xbox", "lineid": 32, "uuid": "393b63b3-656f-43c8-b079-85a9334096a0"}
+{"sub_uri": "Q204714", "obj_uri": "Q758", "obj_label": "Cink", "sub_label": "Cinkov klorid", "lineid": 33, "uuid": "5d9c309e-2c18-4eb9-8b9f-5b23cbcd14d6"}
+{"sub_uri": "Q83320", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Du\u0161i\u010dna kiselina", "lineid": 35, "uuid": "c150562c-6d27-47e9-9d1f-2da3da4678a5"}
+{"sub_uri": "Q2468", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Fluorovodik", "lineid": 36, "uuid": "e5a667ab-e513-4090-aba8-ad4671c2162d"}
+{"sub_uri": "Q80083", "obj_uri": "Q735", "obj_label": "umjetnost", "sub_label": "humanisti\u010dke znanosti", "lineid": 39, "uuid": "d3824a3e-3a5d-4e79-81c1-00756cb4cc2b"}
+{"sub_uri": "Q39350", "obj_uri": "Q42918", "obj_label": "Mutacija", "sub_label": "Specijacija", "lineid": 44, "uuid": "d6b1f7e9-4d69-42f9-ab1e-7890a0b2ec79"}
+{"sub_uri": "Q8066", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Aminokiselina", "lineid": 47, "uuid": "bc47eb37-0d06-4182-b953-d7bd30804821"}
+{"sub_uri": "Q195", "obj_uri": "Q11002", "obj_label": "\u0160e\u0107eri", "sub_label": "\u010cokolada", "lineid": 49, "uuid": "5f813b71-1f38-46af-a87d-e1dc3b5bcae5"}
+{"sub_uri": "Q917761", "obj_uri": "Q8495", "obj_label": "Mlijeko", "sub_label": "Dulce de leche", "lineid": 52, "uuid": "3494e3d1-bcef-436f-861f-2156d65ed64d"}
+{"sub_uri": "Q193140", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Meskalin", "lineid": 56, "uuid": "eafa6d83-cd5a-48d6-9537-7f8141473100"}
+{"sub_uri": "Q210385", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Piridin", "lineid": 59, "uuid": "b37c2365-f661-46f3-817c-2c8137acfe03"}
+{"sub_uri": "Q13317", "obj_uri": "Q8495", "obj_label": "Mlijeko", "sub_label": "Jogurt", "lineid": 60, "uuid": "ccd8f9f8-b22a-4beb-92ce-eecff2cc3c34"}
+{"sub_uri": "Q182168", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Nitrat", "lineid": 65, "uuid": "15a3068d-35f9-43f6-bb27-9b9d255d5704"}
+{"sub_uri": "Q52062", "obj_uri": "Q34", "obj_label": "\u0160vedska", "sub_label": "Nordijska regija", "lineid": 71, "uuid": "17caa892-c8a4-48c3-adbf-e56e53820296"}
+{"sub_uri": "Q8162", "obj_uri": "Q37437", "obj_label": "Sintaksa", "sub_label": "Jezikoslovlje", "lineid": 74, "uuid": "ae2ce56a-2fc4-4769-a939-d0734550875b"}
+{"sub_uri": "Q721849", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "\u017deljezovi oksidi", "lineid": 81, "uuid": "9aae7e8e-9595-421f-9bf7-a2658b5799b8"}
+{"sub_uri": "Q544", "obj_uri": "Q111", "obj_label": "Mars", "sub_label": "Sun\u010dev sustav", "lineid": 83, "uuid": "087a435a-1d33-4073-a19a-002dbd83714e"}
+{"sub_uri": "Q41534", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "\u0160krob", "lineid": 88, "uuid": "c2db4593-c26c-4e8a-a2f2-5dc1a218b55d"}
+{"sub_uri": "Q329888", "obj_uri": "Q408", "obj_label": "Australija", "sub_label": "Saveznici", "lineid": 91, "uuid": "a2e007be-336f-49d4-998a-e8c7ee9cb2b4"}
+{"sub_uri": "Q170591", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Sumporovodik", "lineid": 92, "uuid": "3758f3c3-eba0-4cbe-8052-25037e79fafd"}
+{"sub_uri": "Q207832", "obj_uri": "Q34172", "obj_label": "Maslac", "sub_label": "Kroasan", "lineid": 94, "uuid": "a8bed31f-01f9-476f-a0e3-99c6d072dabc"}
+{"sub_uri": "Q414669", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Manganov(II) oksid", "lineid": 95, "uuid": "475638c1-5291-43d7-a9ed-46fd3d81ccef"}
+{"sub_uri": "Q23640", "obj_uri": "Q1073", "obj_label": "Mozak", "sub_label": "glava", "lineid": 98, "uuid": "c1c5a031-c095-46ae-a3df-644915ca9d03"}
+{"sub_uri": "Q544", "obj_uri": "Q193", "obj_label": "Saturn", "sub_label": "Sun\u010dev sustav", "lineid": 105, "uuid": "dd5767ed-d19e-4825-8801-07c5c4d4f032"}
+{"sub_uri": "Q188017", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Tirozin", "lineid": 106, "uuid": "2983173a-251f-4819-920b-ca66422a6690"}
+{"sub_uri": "Q133516", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Monosaharidi", "lineid": 109, "uuid": "95cc6a11-078f-49dd-b3ae-90c613b2bbbd"}
+{"sub_uri": "Q27449", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Ju\u017ena Europa", "lineid": 112, "uuid": "acfcc633-321a-4a1f-ba38-0a9b232e4bea"}
+{"sub_uri": "Q417881", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Kalijev metabisulfit", "lineid": 113, "uuid": "abd18deb-be83-4809-879c-5044289a56d9"}
+{"sub_uri": "Q150429", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Pentan", "lineid": 115, "uuid": "692cb777-8d80-42c0-bf9c-ce0d992c11e9"}
+{"sub_uri": "Q183290", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Serin", "lineid": 116, "uuid": "e9699a2c-69dd-4199-a688-fbc32ca64474"}
+{"sub_uri": "Q80863", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Adenozin trifosfat", "lineid": 117, "uuid": "f45a86b7-4a29-4079-9158-c3e15d5238ac"}
+{"sub_uri": "Q161210", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Formaldehid", "lineid": 121, "uuid": "70671489-1ed3-4c43-9da8-2b9605b65476"}
+{"sub_uri": "Q154", "obj_uri": "Q153", "obj_label": "etanol", "sub_label": "alkoholno pi\u0107e", "lineid": 123, "uuid": "4cc920f1-e4e6-4c60-9a52-1171167564fd"}
+{"sub_uri": "Q4087", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Amonijak", "lineid": 126, "uuid": "22065c8c-2eb2-4f51-bcbb-df0a1ce63b7b"}
+{"sub_uri": "Q407473", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Etilen-oksid", "lineid": 127, "uuid": "952da63d-1920-4345-b7e1-b2605e675de7"}
+{"sub_uri": "Q19771", "obj_uri": "Q408", "obj_label": "Australija", "sub_label": "G-20", "lineid": 130, "uuid": "f96bfc54-81cd-4178-b2ca-6698e448a537"}
+{"sub_uri": "Q2270", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Benzen", "lineid": 132, "uuid": "226dd54f-3782-40d7-b679-7758007f8668"}
+{"sub_uri": "Q4421", "obj_uri": "Q10884", "obj_label": "stablo", "sub_label": "\u0161uma", "lineid": 133, "uuid": "42bbd954-742a-4f70-9097-e253bff09282"}
+{"sub_uri": "Q1969730", "obj_uri": "Q39", "obj_label": "\u0160vicarska", "sub_label": "Schengenski prostor", "lineid": 134, "uuid": "1204cc62-ff21-48b1-b6db-1626b846f22f"}
+{"sub_uri": "Q18", "obj_uri": "Q77", "obj_label": "Urugvaj", "sub_label": "Ju\u017ena Amerika", "lineid": 135, "uuid": "3f0c9962-380b-419f-b53e-71974946a7e2"}
+{"sub_uri": "Q211891", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Du\u0161ikasta kiselina", "lineid": 136, "uuid": "b0c0199c-1c92-4bfb-84b7-66c56b57e9e2"}
+{"sub_uri": "Q420028", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Ekgonin", "lineid": 138, "uuid": "c33c92f3-d168-40b8-bc9b-61a180d9d882"}
+{"sub_uri": "Q379885", "obj_uri": "Q703", "obj_label": "Kalij", "sub_label": "Kalijev karbonat", "lineid": 139, "uuid": "71c912d3-e174-4bde-9f17-e4a9df0cc026"}
+{"sub_uri": "Q205654", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Pentoza", "lineid": 142, "uuid": "7751c6c1-362c-4e30-8a3a-a4620505e289"}
+{"sub_uri": "Q193411", "obj_uri": "Q8495", "obj_label": "Mlijeko", "sub_label": "Brie", "lineid": 146, "uuid": "9dfc32c9-49d5-492d-bec4-003da36d79b5"}
+{"sub_uri": "Q214863", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "\u017deljezov sulfat", "lineid": 147, "uuid": "78e629a5-cb59-4eaf-bb5d-ab30a7495610"}
+{"sub_uri": "Q649090", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Kupronikl", "lineid": 151, "uuid": "d1797f5f-883b-4974-8017-57b9511eaad4"}
+{"sub_uri": "Q4173083", "obj_uri": "Q399", "obj_label": "Armenija", "sub_label": "Euroazijski gospodarski savez", "lineid": 153, "uuid": "1dc81773-aedc-47e0-b225-43c63fd7789b"}
+{"sub_uri": "Q415638", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Titanijev nitrid", "lineid": 154, "uuid": "114c2404-8130-4d20-bda3-0acc908a6972"}
+{"sub_uri": "Q27496", "obj_uri": "Q142", "obj_label": "Francuska", "sub_label": "Zapadna Europa", "lineid": 155, "uuid": "2ce44c48-8f5d-4acd-bc79-90947340d4f5"}
+{"sub_uri": "Q407709", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Bakrov", "lineid": 156, "uuid": "10a3a7f0-70d1-45a6-b84a-fd341f0d636c"}
+{"sub_uri": "Q52062", "obj_uri": "Q189", "obj_label": "Island", "sub_label": "Nordijska regija", "lineid": 159, "uuid": "3f2e44fa-59c3-4f39-8fb0-a647b818bb77"}
+{"sub_uri": "Q188543", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Amonijev klorid", "lineid": 161, "uuid": "62e01307-cc22-43fa-aaf1-5d744e24c0da"}
+{"sub_uri": "Q181381", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Galaktoza", "lineid": 162, "uuid": "6c571ac8-6960-4281-8383-ebcad72efc86"}
+{"sub_uri": "Q19771", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "G-20", "lineid": 164, "uuid": "254b30f4-ccf6-4256-ad33-5bb01acb6041"}
+{"sub_uri": "Q170304", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Dopamin", "lineid": 165, "uuid": "3c35c5f5-f1c9-4089-9c2b-d77471dbd5d5"}
+{"sub_uri": "Q12837", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_label": "Pirenejski poluotok", "lineid": 169, "uuid": "ab9f7bda-6212-418d-b1b9-ea56c4f60070"}
+{"sub_uri": "Q133516", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Monosaharidi", "lineid": 172, "uuid": "9ef1a73e-fdf6-4ae9-917e-732d58d715a1"}
+{"sub_uri": "Q392227", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Gvanozin-trifosfat", "lineid": 173, "uuid": "fb54b362-08b3-421f-a3f9-1b0d3200ceda"}
+{"sub_uri": "Q419133", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Germanijev dioksid", "lineid": 178, "uuid": "d13f407f-bcab-42ba-98eb-a0bcdb58b159"}
+{"sub_uri": "Q27496", "obj_uri": "Q55", "obj_label": "Nizozemska", "sub_label": "Zapadna Europa", "lineid": 181, "uuid": "2fde969f-9798-463c-87da-bce754a53112"}
+{"sub_uri": "Q19771", "obj_uri": "Q142", "obj_label": "Francuska", "sub_label": "G-20", "lineid": 182, "uuid": "83b7252f-dea5-450d-b217-51333faee277"}
+{"sub_uri": "Q186474", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Cistein", "lineid": 185, "uuid": "706c5fea-e228-4a16-acac-eca3d7d85ba5"}
+{"sub_uri": "Q14982", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Metanol", "lineid": 187, "uuid": "101ed6e5-4f2c-42f2-8954-d6d8b11477a4"}
+{"sub_uri": "Q23767", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Kalcijev karbonat", "lineid": 188, "uuid": "0c1e2fe0-a617-4c56-a167-194e5f07d890"}
+{"sub_uri": "Q327362", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Trijodtironin", "lineid": 190, "uuid": "003bfd7f-89f1-4117-a98a-0733cbd27a8b"}
+{"sub_uri": "Q618057", "obj_uri": "Q128267", "obj_label": "Sveti Josip", "sub_label": "Sveta obitelj", "lineid": 192, "uuid": "423bd4cd-5ae1-45b9-a925-89b8fb10e658"}
+{"sub_uri": "Q620730", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Glicin", "lineid": 193, "uuid": "e541850e-f046-43bb-a28f-4807cfdabe07"}
+{"sub_uri": "Q14982", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Metanol", "lineid": 194, "uuid": "44e0d676-9bbf-4608-b31d-b1d42db07ede"}
+{"sub_uri": "Q421787", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Bakrov", "lineid": 195, "uuid": "3d1c3f2b-24dc-4ca1-864e-69d2d41edf1e"}
+{"sub_uri": "Q192454", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Deoksiriboza", "lineid": 196, "uuid": "7cf80886-65b3-40c2-987b-fbe5e99a49fb"}
+{"sub_uri": "Q804525", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "\u017deljezov hidroksid", "lineid": 198, "uuid": "40273f12-7c8b-4b72-be84-87fae44d3deb"}
+{"sub_uri": "Q208643", "obj_uri": "Q36117", "obj_label": "Borneo", "sub_label": "Indonezijski arhipelag", "lineid": 201, "uuid": "8f263c3d-6c54-4567-928e-3931fb095b69"}
+{"sub_uri": "Q190012", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Adenozin", "lineid": 203, "uuid": "d2372130-7a0b-4cb6-9b20-c45906dd0506"}
+{"sub_uri": "Q5361665", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Kerozin", "lineid": 207, "uuid": "18a48bd5-ab14-404d-8205-beda5816d801"}
+{"sub_uri": "Q189335", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Cementit", "lineid": 208, "uuid": "74edf4ae-cada-4373-b8b3-019374345acc"}
+{"sub_uri": "Q116269", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Silicijev dioksid", "lineid": 209, "uuid": "c9768ddf-8dd1-4317-8660-07e9b88944e0"}
+{"sub_uri": "Q207895", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Du\u0161ikov dioksid", "lineid": 210, "uuid": "14520c5e-f6bc-46a4-a358-b1a3d2ec275a"}
+{"sub_uri": "Q207688", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Oleinska kiselina", "lineid": 213, "uuid": "64a64163-bfb4-4743-bfe4-17640669945d"}
+{"sub_uri": "Q478654", "obj_uri": "Q8495", "obj_label": "Mlijeko", "sub_label": "Kajmak", "lineid": 214, "uuid": "de5cb322-154a-44d0-ae43-f26bc856e4fe"}
+{"sub_uri": "Q421857", "obj_uri": "Q663", "obj_label": "aluminij", "sub_label": "Aluminijev sulfat", "lineid": 215, "uuid": "004a40d6-96b7-4a19-9ee2-dd41176f784a"}
+{"sub_uri": "Q27468", "obj_uri": "Q218", "obj_label": "Rumunjska", "sub_label": "Isto\u010dna Europa", "lineid": 218, "uuid": "fcc8c5c0-4bf7-4e9b-b5a1-a6ce726a7efe"}
+{"sub_uri": "Q208105", "obj_uri": "Q5090", "obj_label": "Ri\u017ea", "sub_label": "Ri\u017eoto", "lineid": 219, "uuid": "7ffb22ad-6643-416b-8579-1b30cba8231f"}
+{"sub_uri": "Q80083", "obj_uri": "Q309", "obj_label": "povijest", "sub_label": "humanisti\u010dke znanosti", "lineid": 221, "uuid": "475d3c40-869b-436a-9ccf-34c063ac3276"}
+{"sub_uri": "Q80294", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Celuloza", "lineid": 223, "uuid": "98e43579-5c4b-43ed-969e-1246808466bc"}
+{"sub_uri": "Q41534", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "\u0160krob", "lineid": 224, "uuid": "aa41968a-f6d5-417b-bdf0-278955f4be78"}
+{"sub_uri": "Q1969730", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "Schengenski prostor", "lineid": 225, "uuid": "029181db-6c6e-43a0-82ea-2d48a5628910"}
+{"sub_uri": "Q12861", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Barut", "lineid": 227, "uuid": "1c2222af-aabf-42f9-a222-d86fd4a06085"}
+{"sub_uri": "Q184485", "obj_uri": "Q638", "obj_label": "glazba", "sub_label": "scenska umjetnost", "lineid": 228, "uuid": "af366932-0e3f-4cdc-887a-1a1f7dc790fd"}
+{"sub_uri": "Q27496", "obj_uri": "Q31", "obj_label": "Belgija", "sub_label": "Zapadna Europa", "lineid": 232, "uuid": "e5b886f2-07e3-4aa6-a6e5-b84b8c53323b"}
+{"sub_uri": "Q190865", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Kalijev permanganat", "lineid": 234, "uuid": "dca2e99f-ec28-4648-9fee-f8991737d563"}
+{"sub_uri": "Q230731", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "areni", "lineid": 243, "uuid": "a40067e7-6f7b-49ca-9a65-c5b18830a1e8"}
+{"sub_uri": "Q419205", "obj_uri": "Q708", "obj_label": "Olovo", "sub_label": "Olovov(II, IV) oksid", "lineid": 245, "uuid": "d788fabc-0f3a-4fef-9bb6-5a1a8fe61dde"}
+{"sub_uri": "Q329888", "obj_uri": "Q20", "obj_label": "Norve\u0161ka", "sub_label": "Saveznici", "lineid": 246, "uuid": "d2cab9ce-3f16-4d61-b251-dced6a2e5b8a"}
+{"sub_uri": "Q193841", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Celofan", "lineid": 249, "uuid": "22793fe1-ae06-4d4f-9584-f65930d7a83f"}
+{"sub_uri": "Q542146", "obj_uri": "Q1185", "obj_label": "Karnataka", "sub_label": "Ju\u017ena Indija", "lineid": 251, "uuid": "d50ec0a1-0e87-4ece-8fbe-935005fdb1c5"}
+{"sub_uri": "Q408925", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Du\u0161ikovodi\u010dna kiselina", "lineid": 252, "uuid": "afcd0a62-cd2b-449d-a10f-a291af2cc381"}
+{"sub_uri": "Q18", "obj_uri": "Q419", "obj_label": "Peru", "sub_label": "Ju\u017ena Amerika", "lineid": 255, "uuid": "59375671-a27e-4faa-93aa-ce58851ac165"}
+{"sub_uri": "Q243558", "obj_uri": "Q663", "obj_label": "aluminij", "sub_label": "Duraluminij", "lineid": 256, "uuid": "5bc91de0-3d22-4e75-8ba0-43022f23480b"}
+{"sub_uri": "Q130223", "obj_uri": "Q726", "obj_label": "Doma\u0107i konj", "sub_label": "Grifon", "lineid": 261, "uuid": "4c5b83d0-b3cd-4a76-bbca-561adf3a42d7"}
+{"sub_uri": "Q1049852", "obj_uri": "Q36465", "obj_label": "bra\u0161no", "sub_label": "Pati\u0161panja", "lineid": 268, "uuid": "1888ba6d-773f-49dd-875f-6bfa709976bb"}
+{"sub_uri": "Q1969730", "obj_uri": "Q31", "obj_label": "Belgija", "sub_label": "Schengenski prostor", "lineid": 270, "uuid": "d2af7a53-2b28-4318-aee9-a81f4799f2d2"}
+{"sub_uri": "Q12748", "obj_uri": "Q22656", "obj_label": "Nafta", "sub_label": "Fosilna goriva", "lineid": 271, "uuid": "bf42dce7-73a4-4fe6-8655-a9deffc57909"}
+{"sub_uri": "Q655244", "obj_uri": "Q282", "obj_label": "vino", "sub_label": "Bevanda", "lineid": 272, "uuid": "24c0522f-ae53-488c-aa2d-83869b202721"}
+{"sub_uri": "Q1969730", "obj_uri": "Q189", "obj_label": "Island", "sub_label": "Schengenski prostor", "lineid": 275, "uuid": "1a5c621b-d560-41d8-912a-13cb2101b6be"}
+{"sub_uri": "Q207722", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Pirimidin", "lineid": 277, "uuid": "c5663a75-9868-49df-8960-4b19d8ba90ea"}
+{"sub_uri": "Q18", "obj_uri": "Q298", "obj_label": "\u010cile", "sub_label": "Ju\u017ena Amerika", "lineid": 279, "uuid": "53ec1757-367a-49e1-967f-3d8a56ec8bd8"}
+{"sub_uri": "Q27468", "obj_uri": "Q159", "obj_label": "Rusija", "sub_label": "Isto\u010dna Europa", "lineid": 284, "uuid": "b5473090-f172-46f7-85cf-0aafdc14e254"}
+{"sub_uri": "Q567575", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Anomer", "lineid": 285, "uuid": "467067cd-68dc-491e-9501-4b015a0bbb80"}
+{"sub_uri": "Q4173083", "obj_uri": "Q159", "obj_label": "Rusija", "sub_label": "Euroazijski gospodarski savez", "lineid": 289, "uuid": "b28d5cb9-a3e4-4a2e-bdf0-af97292f38c3"}
+{"sub_uri": "Q1969730", "obj_uri": "Q36", "obj_label": "Poljska", "sub_label": "Schengenski prostor", "lineid": 290, "uuid": "4b6f8f8b-8af4-4a61-9e13-25ce1f6d7934"}
+{"sub_uri": "Q213580", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Pirogro\u017e\u0111ana kiselina", "lineid": 295, "uuid": "95f87cd9-937c-43f9-8084-43a4a460b607"}
+{"sub_uri": "Q19771", "obj_uri": "Q668", "obj_label": "Indija", "sub_label": "G-20", "lineid": 296, "uuid": "369b6dcd-1f75-482d-a1c9-5b1670fe5212"}
+{"sub_uri": "Q210041", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Cikli\u010dki adenozin monofosfat", "lineid": 302, "uuid": "59763a02-7bde-425b-8844-52d07f5589ed"}
+{"sub_uri": "Q220672", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Benzotriazol", "lineid": 309, "uuid": "3b8a39be-da17-4e71-a79a-0be6d16cba04"}
+{"sub_uri": "Q205654", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Pentoza", "lineid": 314, "uuid": "1c43d311-01a1-4f5b-b21d-a60c8ee79aac"}
+{"sub_uri": "Q39782", "obj_uri": "Q758", "obj_label": "Cink", "sub_label": "Mjed", "lineid": 318, "uuid": "c62cab9c-409d-4b1c-a031-640c419e0c3d"}
+{"sub_uri": "Q12837", "obj_uri": "Q29", "obj_label": "\u0160panjolska", "sub_label": "Pirenejski poluotok", "lineid": 319, "uuid": "1b9817f2-751f-4043-8a00-203e50843aa7"}
+{"sub_uri": "Q13393", "obj_uri": "Q5090", "obj_label": "Ri\u017ea", "sub_label": "Onigiri", "lineid": 320, "uuid": "aeb66e59-aec7-40f9-8af3-05e1961136a9"}
+{"sub_uri": "Q11427", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "\u010celik", "lineid": 321, "uuid": "9aec55bc-8bd3-4716-8fc7-83f4d4262448"}
+{"sub_uri": "Q76904", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Petrolej", "lineid": 322, "uuid": "401b4f8e-719f-48db-89dd-a593ae8f968f"}
+{"sub_uri": "Q12748", "obj_uri": "Q24489", "obj_label": "Ugljen", "sub_label": "Fosilna goriva", "lineid": 325, "uuid": "208778e5-3927-4940-a592-a440050e3a5e"}
+{"sub_uri": "Q326139", "obj_uri": "Q37868", "obj_label": "Alge", "sub_label": "Cvjetanje mora", "lineid": 336, "uuid": "7e2239a8-aa5a-4f82-9d6b-46340ce002e4"}
+{"sub_uri": "Q424418", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Du\u0161ikovi oksidi", "lineid": 337, "uuid": "36d6e607-606f-40f4-b04e-decd6d10662a"}
+{"sub_uri": "Q178430", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Lizin", "lineid": 342, "uuid": "b7609e43-a797-4d57-92e1-daa947d6fc82"}
+{"sub_uri": "Q303646", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Hidromorfon", "lineid": 343, "uuid": "2649f31e-c3a9-407e-8547-6900a270a112"}
+{"sub_uri": "Q424182", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Heptoza", "lineid": 344, "uuid": "a07c1210-09c7-4dc9-aea6-1de3471c24eb"}
+{"sub_uri": "Q329888", "obj_uri": "Q739", "obj_label": "Kolumbija", "sub_label": "Saveznici", "lineid": 345, "uuid": "b3e45263-8c1a-4811-b33d-37102403569d"}
+{"sub_uri": "Q26075", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Cijanovodi\u010dna kiselina", "lineid": 347, "uuid": "3640acf9-2d70-4eea-ae17-4989d34b94c3"}
+{"sub_uri": "Q462174", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Hidrati", "lineid": 348, "uuid": "0f58ad9f-e5d1-40aa-a57c-daff9d7a9093"}
+{"sub_uri": "Q407473", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Etilen-oksid", "lineid": 349, "uuid": "879f03d0-b4d5-406d-b4f1-eb93539ab13c"}
+{"sub_uri": "Q83320", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Du\u0161i\u010dna kiselina", "lineid": 350, "uuid": "c5af0195-5848-48eb-b69b-65f427dd2d6a"}
+{"sub_uri": "Q190012", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Adenozin", "lineid": 352, "uuid": "2cf3333c-d082-45cb-8199-78a856da9607"}
+{"sub_uri": "Q81041", "obj_uri": "Q25257", "obj_label": "Oborina", "sub_label": "Hidrolo\u0161ki ciklus", "lineid": 353, "uuid": "cd486e7b-fd52-4ea0-bdf2-7be2f2a75034"}
+{"sub_uri": "Q181619", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Glutamin", "lineid": 354, "uuid": "c568b442-cd1d-411d-9381-87957d5c3032"}
+{"sub_uri": "Q605761", "obj_uri": "Q5456", "obj_label": "Ande", "sub_label": "Kordiljeri", "lineid": 355, "uuid": "bf8e750f-b6ce-4a18-9664-937b3e948d09"}
+{"sub_uri": "Q21195", "obj_uri": "Q34", "obj_label": "\u0160vedska", "sub_label": "Skandinavija", "lineid": 357, "uuid": "fbca090d-5a8b-4716-9d29-e7fd4b37415b"}
+{"sub_uri": "Q182329", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Amonijev nitrat", "lineid": 360, "uuid": "1c4f5cce-1880-4088-8889-0730210e14fe"}
+{"sub_uri": "Q5401", "obj_uri": "Q48", "obj_label": "Azija", "sub_label": "Euroazija", "lineid": 362, "uuid": "351fd108-0bac-4b4e-b46c-562b5672fa3e"}
+{"sub_uri": "Q424418", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Du\u0161ikovi oksidi", "lineid": 363, "uuid": "b7b05643-5f15-47ca-87e9-b518532a1043"}
+{"sub_uri": "Q184485", "obj_uri": "Q1344", "obj_label": "Opera", "sub_label": "scenska umjetnost", "lineid": 365, "uuid": "5a0fdcca-5d77-441c-87e8-5d8578aada9f"}
+{"sub_uri": "Q132501", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Glicerol", "lineid": 369, "uuid": "705d32b2-7bae-4deb-8768-db2adacad5ad"}
+{"sub_uri": "Q83203", "obj_uri": "Q726", "obj_label": "Doma\u0107i konj", "sub_label": "Kentaur", "lineid": 370, "uuid": "f93596e4-ab68-49b1-b002-c8914662b195"}
+{"sub_uri": "Q174936", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Glikogen", "lineid": 371, "uuid": "6055b950-f77c-419a-a4c7-945e2369d413"}
+{"sub_uri": "Q210385", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Piridin", "lineid": 373, "uuid": "8992c320-696d-4922-982b-2f50680af7f6"}
+{"sub_uri": "Q715317", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Acetil koenzim A", "lineid": 377, "uuid": "0de513de-77e5-49e1-b249-b82683aa4105"}
+{"sub_uri": "Q1969730", "obj_uri": "Q211", "obj_label": "Latvija", "sub_label": "Schengenski prostor", "lineid": 378, "uuid": "923cbedd-27f3-439b-93e0-6947d4e42398"}
+{"sub_uri": "Q407891", "obj_uri": "Q658", "obj_label": "Natrij", "sub_label": "Natrijev bisulfit", "lineid": 381, "uuid": "25f172d3-1237-4708-ab90-d16ff5247633"}
+{"sub_uri": "Q188543", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Amonijev klorid", "lineid": 385, "uuid": "cdda9ee8-7a77-4e44-8b56-8f4d990d750b"}
+{"sub_uri": "Q329888", "obj_uri": "Q16", "obj_label": "Kanada", "sub_label": "Saveznici", "lineid": 387, "uuid": "4dd92109-5eaa-4ac7-b4a0-a0420a99a152"}
+{"sub_uri": "Q190901", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "amonij", "lineid": 388, "uuid": "74125efc-ddc2-4928-9aaa-b19293071021"}
+{"sub_uri": "Q2200417", "obj_uri": "Q6501338", "obj_label": "pa\u017enja", "sub_label": "spoznaja", "lineid": 390, "uuid": "d4c29099-e87c-4cb3-89be-ecfc3a2e1d81"}
+{"sub_uri": "Q410234", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Piperidin", "lineid": 402, "uuid": "ac1dc142-656b-41c1-afe1-835da0ea6364"}
+{"sub_uri": "Q4173083", "obj_uri": "Q184", "obj_label": "Bjelorusija", "sub_label": "Euroazijski gospodarski savez", "lineid": 406, "uuid": "b2e92781-ce0b-4d54-8c34-ee5b9a3b41cd"}
+{"sub_uri": "Q9595", "obj_uri": "Q11378", "obj_label": "\u0160iva", "sub_label": "Trimurti", "lineid": 407, "uuid": "39c73e75-4870-458e-81ae-d982c6b0ddab"}
+{"sub_uri": "Q407709", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Bakrov", "lineid": 409, "uuid": "6a34af6f-9f12-4933-923e-3614f3d72ed0"}
+{"sub_uri": "Q180341", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Metionin", "lineid": 410, "uuid": "7233aff6-27ed-47e1-b640-2b769f2ecd6a"}
+{"sub_uri": "Q26075", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Cijanovodi\u010dna kiselina", "lineid": 411, "uuid": "f63c2b52-d53f-4fef-b349-69e3b6a575dd"}
+{"sub_uri": "Q182849", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Kalcijev hidroksid", "lineid": 413, "uuid": "07b84291-92aa-4ea2-91d0-8f9e300af20a"}
+{"sub_uri": "Q213050", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Jantarna kiselina", "lineid": 414, "uuid": "7b3f7476-d436-49c8-8c8e-254a48f7a41f"}
+{"sub_uri": "Q19557", "obj_uri": "Q703", "obj_label": "Kalij", "sub_label": "alkalijski metali", "lineid": 416, "uuid": "cbc7b692-582b-4ce2-be47-7532cfc8a78c"}
+{"sub_uri": "Q60235", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "kofein", "lineid": 418, "uuid": "92b17a77-6492-460d-b33b-2fd255d57f3a"}
+{"sub_uri": "Q5282", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Sumporov dioksid", "lineid": 419, "uuid": "589125c3-487f-437a-931e-3ee72a0f880b"}
+{"sub_uri": "Q186357", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Bakrov(II) hidroksid", "lineid": 427, "uuid": "7b6b8cd2-b50a-4581-adc9-99d0cbbf7dfb"}
+{"sub_uri": "Q988343", "obj_uri": "Q9655", "obj_label": "arterija", "sub_label": "Krvna \u017eila", "lineid": 429, "uuid": "a62e7c3f-7361-4e4c-97cf-2ab4d9bff946"}
+{"sub_uri": "Q208118", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Psilocibin", "lineid": 431, "uuid": "d11d0520-84da-4fd6-a90d-5376b730e69c"}
+{"sub_uri": "Q242715", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Sumporov trioksid", "lineid": 432, "uuid": "993f8172-410d-4c3a-8d67-5bc566cdb033"}
+{"sub_uri": "Q544", "obj_uri": "Q2", "obj_label": "Zemlja", "sub_label": "Sun\u010dev sustav", "lineid": 442, "uuid": "61217192-44c3-47e0-a0cb-6cde4741654d"}
+{"sub_uri": "Q80294", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Celuloza", "lineid": 444, "uuid": "f4d49a1d-86eb-4430-b85c-5868f1133555"}
+{"sub_uri": "Q151324", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Propen", "lineid": 447, "uuid": "e2d1b55f-a7a1-4fa2-8cd1-2db1d8976ec5"}
+{"sub_uri": "Q34990", "obj_uri": "Q9190", "obj_label": "Knjiga Izlaska", "sub_label": "Tora", "lineid": 448, "uuid": "4adf56e7-b0e5-47e2-a6df-e84be99329ad"}
+{"sub_uri": "Q611214", "obj_uri": "Q794", "obj_label": "Iran", "sub_label": "Grupa jedanaest dr\u017eava", "lineid": 449, "uuid": "d4639c3c-726d-450e-9756-0840b5c3e8df"}
+{"sub_uri": "Q408458", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Du\u0161ikov(V) oksid", "lineid": 451, "uuid": "6357e41e-0225-4b7d-b845-d1a6380c5f00"}
+{"sub_uri": "Q245282", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Esencijalna aminokiselina", "lineid": 452, "uuid": "087cb7e4-0488-44b6-af63-48b5743efb52"}
+{"sub_uri": "Q41576", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Kokain", "lineid": 457, "uuid": "f944e781-91ad-4520-be58-60549cd47234"}
+{"sub_uri": "Q181136", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Glutaminska kiselina", "lineid": 458, "uuid": "e21a9804-e850-4d32-93e3-112945158348"}
+{"sub_uri": "Q153", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "etanol", "lineid": 459, "uuid": "e9498971-4f09-49ad-a492-684a6e1f0ba1"}
+{"sub_uri": "Q184485", "obj_uri": "Q2743", "obj_label": "Mjuzikl", "sub_label": "scenska umjetnost", "lineid": 463, "uuid": "434d0d3a-fafa-45cc-91e1-f769f7eb1229"}
+{"sub_uri": "Q5282", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Sumporov dioksid", "lineid": 464, "uuid": "fb266ead-20ca-4fdf-afcf-68e99ad2f906"}
+{"sub_uri": "Q184485", "obj_uri": "Q11635", "obj_label": "kazali\u0161te", "sub_label": "scenska umjetnost", "lineid": 470, "uuid": "c7c2390f-3fea-407f-a270-f46b60a19489"}
+{"sub_uri": "Q409990", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Eikosapentaenoi\u010dna kiselina", "lineid": 472, "uuid": "8c6603cd-289c-4c2c-bab1-e9bae70bbad9"}
+{"sub_uri": "Q180341", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Metionin", "lineid": 475, "uuid": "c70306b7-fffe-42a3-b244-0d0734730744"}
+{"sub_uri": "Q409035", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Antimonovo bjelilo", "lineid": 481, "uuid": "508b269b-575d-42ea-8290-605a450ed4be"}
+{"sub_uri": "Q27231", "obj_uri": "Q14773", "obj_label": "Makao", "sub_label": "Isto\u010dna Azija", "lineid": 482, "uuid": "c7fe26d7-08fb-4a91-a901-1398e951c66e"}
+{"sub_uri": "Q213580", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Pirogro\u017e\u0111ana kiselina", "lineid": 483, "uuid": "5c54d8ba-3dac-4c74-bd68-eb6096eca3df"}
+{"sub_uri": "Q155890", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Te\u0161ka voda", "lineid": 488, "uuid": "7d39ff3d-08d2-47d0-97b4-2326ebcfaf3c"}
+{"sub_uri": "Q183290", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Serin", "lineid": 490, "uuid": "d592b3f1-da6c-4d81-8b58-9bd390ebb6d2"}
+{"sub_uri": "Q134219", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Polisaharidi", "lineid": 493, "uuid": "272e68b5-e5d9-4777-9d7f-383f2e1e537b"}
+{"sub_uri": "Q1720857", "obj_uri": "Q5090", "obj_label": "Ri\u017ea", "sub_label": "Kabsa", "lineid": 494, "uuid": "f498983c-4b6e-4601-a78d-7b5f86ed93ba"}
+{"sub_uri": "Q544", "obj_uri": "Q405", "obj_label": "Mjesec", "sub_label": "Sun\u010dev sustav", "lineid": 495, "uuid": "d11d2810-2049-43df-a787-4fd3df590714"}
+{"sub_uri": "Q179724", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Naftalen", "lineid": 496, "uuid": "f1936093-630e-4b2e-870c-9625aacd8790"}
+{"sub_uri": "Q183440", "obj_uri": "Q37525", "obj_label": "Glukoza", "sub_label": "Karamela", "lineid": 498, "uuid": "f5970150-0014-482d-96d2-9c35c401fb63"}
+{"sub_uri": "Q425397", "obj_uri": "Q658", "obj_label": "Natrij", "sub_label": "Natrijev silikat", "lineid": 501, "uuid": "43f311ec-d7ea-4cc8-bc77-071e275a28b3"}
+{"sub_uri": "Q1131303", "obj_uri": "Q34679", "obj_label": "Pijesak", "sub_label": "Ilova\u010da", "lineid": 508, "uuid": "9dd85a36-73c4-4c3d-90c6-391b1d9c5773"}
+{"sub_uri": "Q483745", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Leucin", "lineid": 509, "uuid": "b504cdae-000b-4f01-85d3-2edd0941acd3"}
+{"sub_uri": "Q27496", "obj_uri": "Q39", "obj_label": "\u0160vicarska", "sub_label": "Zapadna Europa", "lineid": 511, "uuid": "5a978a12-8baf-41b4-a925-147b1de57a20"}
+{"sub_uri": "Q12861", "obj_uri": "Q177463", "obj_label": "Drveni ugljen", "sub_label": "Barut", "lineid": 512, "uuid": "fbabf7c8-4572-47f5-84d5-6b8e202d09a7"}
+{"sub_uri": "Q27381", "obj_uri": "Q1049", "obj_label": "Sudan", "sub_label": "Sjeverna Afrika", "lineid": 517, "uuid": "f5732c9d-cd42-4f4c-9fc8-0c6ff012a781"}
+{"sub_uri": "Q185006", "obj_uri": "Q706", "obj_label": "kalcij", "sub_label": "\u017divo vapno", "lineid": 519, "uuid": "aab194f2-a5b8-42e4-b628-a4911fff6225"}
+{"sub_uri": "Q170167", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Trinitrotoluen", "lineid": 520, "uuid": "e627bc74-ed6a-4f9e-85b6-430c3b705e6c"}
+{"sub_uri": "Q207877", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Fosfani", "lineid": 521, "uuid": "7c6fbc4f-6c7c-434e-b483-e52278668a78"}
+{"sub_uri": "Q185749", "obj_uri": "Q8495", "obj_label": "Mlijeko", "sub_label": "Kefir", "lineid": 522, "uuid": "e00ab460-9559-4f62-88a9-71a11bf0ce50"}
+{"sub_uri": "Q211086", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Klorovodik", "lineid": 524, "uuid": "9878fc32-b85d-4ce0-9790-4e08792e50fc"}
+{"sub_uri": "Q185253", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Adenozin difosfat", "lineid": 525, "uuid": "4bbd4bc0-3c67-4e0e-8911-9b54983669cc"}
+{"sub_uri": "Q47512", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Octena kiselina", "lineid": 529, "uuid": "dd8645b6-1170-4bc7-85de-d9c8415c9a09"}
+{"sub_uri": "Q611214", "obj_uri": "Q96", "obj_label": "Meksiko", "sub_label": "Grupa jedanaest dr\u017eava", "lineid": 531, "uuid": "6bb23384-1765-4404-9426-21b8ad1aa21c"}
+{"sub_uri": "Q425397", "obj_uri": "Q670", "obj_label": "Silicij", "sub_label": "Natrijev silikat", "lineid": 533, "uuid": "56057aa6-2753-4484-abd5-1369ba60d88b"}
+{"sub_uri": "Q192639", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Glikozidi", "lineid": 538, "uuid": "cd740b6b-e838-45ef-a5f8-e265033f5ee4"}
+{"sub_uri": "Q179678", "obj_uri": "Q658", "obj_label": "Natrij", "sub_label": "Mononatrijev glutaminat", "lineid": 544, "uuid": "a9cac5cb-8cc7-4a61-850d-272790ad2389"}
+{"sub_uri": "Q15277", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Adenin", "lineid": 545, "uuid": "4aa91547-e030-4765-9e47-e9f32571e7e1"}
+{"sub_uri": "Q318693", "obj_uri": "Q399", "obj_label": "Armenija", "sub_label": "Organizacija Ugovora o zajedni\u010dkoj sigurnosti", "lineid": 547, "uuid": "f718b63d-1b6a-401e-acbd-b61a2d9cfe7a"}
+{"sub_uri": "Q204952", "obj_uri": "Q758", "obj_label": "Cink", "sub_label": "Cinkov sulfid", "lineid": 552, "uuid": "2e6e8799-86ca-4490-8a09-86c74e52606c"}
+{"sub_uri": "Q410305", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Hipoksantin", "lineid": 553, "uuid": "1e333895-81a9-4124-9685-0dd6dc54fe8b"}
+{"sub_uri": "Q1969730", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Schengenski prostor", "lineid": 554, "uuid": "e03cf7b8-455a-4813-a243-2e1cc06eeabe"}
+{"sub_uri": "Q188714", "obj_uri": "Q939723", "obj_label": "Bo\u010dni brod", "sub_label": "Brod", "lineid": 561, "uuid": "282dd4cd-199e-4937-92f7-712ebcc4421e"}
+{"sub_uri": "Q27381", "obj_uri": "Q79", "obj_label": "Egipat", "sub_label": "Sjeverna Afrika", "lineid": 566, "uuid": "754bb5ed-b9f2-4d9c-b36b-86037f991616"}
+{"sub_uri": "Q5447188", "obj_uri": "Q146505", "obj_label": "Otopine", "sub_label": "Otopine", "lineid": 570, "uuid": "77958426-e33d-408f-ac7b-6cc73e1d10f9"}
+{"sub_uri": "Q611214", "obj_uri": "Q902", "obj_label": "Banglade\u0161", "sub_label": "Grupa jedanaest dr\u017eava", "lineid": 571, "uuid": "7bd39a0a-b27c-48a2-893f-7135196a2406"}
+{"sub_uri": "Q544", "obj_uri": "Q313", "obj_label": "Venera", "sub_label": "Sun\u010dev sustav", "lineid": 575, "uuid": "5a8b472d-6195-41c7-840c-8f528553ebb7"}
+{"sub_uri": "Q49546", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Aceton", "lineid": 576, "uuid": "6f5daa7a-0fcf-4fbc-94df-da40c69ce32b"}
+{"sub_uri": "Q1969730", "obj_uri": "Q32", "obj_label": "Luksemburg", "sub_label": "Schengenski prostor", "lineid": 577, "uuid": "e86085dd-94bd-46e8-a29e-d2e41274f4e5"}
+{"sub_uri": "Q218642", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Alanin", "lineid": 584, "uuid": "99139a6c-005d-4d7d-8150-5064bf7cc5cb"}
+{"sub_uri": "Q145352", "obj_uri": "Q758", "obj_label": "Cink", "sub_label": "Zamak", "lineid": 586, "uuid": "102b960e-8af5-4479-b078-54219325b8d2"}
+{"sub_uri": "Q34749", "obj_uri": "Q9418", "obj_label": "Psihologija", "sub_label": "dru\u0161tvene znanosti", "lineid": 587, "uuid": "9ff74e3b-2a7e-49e2-b42c-5799d224e358"}
+{"sub_uri": "Q1318776", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Testosteron", "lineid": 588, "uuid": "93191d9d-a808-4557-966e-294f313f9b37"}
+{"sub_uri": "Q253817", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Hidroperoksidi", "lineid": 591, "uuid": "ff6c45fa-c1ed-4b63-8564-ad805275b845"}
+{"sub_uri": "Q27468", "obj_uri": "Q184", "obj_label": "Bjelorusija", "sub_label": "Isto\u010dna Europa", "lineid": 592, "uuid": "1b4d1504-3220-4a81-ae7b-7e9463652feb"}
+{"sub_uri": "Q611214", "obj_uri": "Q79", "obj_label": "Egipat", "sub_label": "Grupa jedanaest dr\u017eava", "lineid": 597, "uuid": "bb6ed602-3f50-4939-b1e3-4f4d04b86db1"}
+{"sub_uri": "Q185076", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Cijanid", "lineid": 599, "uuid": "e333ebd9-096b-4692-8172-938f03e0e2e6"}
+{"sub_uri": "Q611214", "obj_uri": "Q881", "obj_label": "Vijetnam", "sub_label": "Grupa jedanaest dr\u017eava", "lineid": 601, "uuid": "ca5013dd-7ab0-4c9e-986d-9864a4ffeb59"}
+{"sub_uri": "Q37726", "obj_uri": "Q64418", "obj_label": "Topni\u0161tvo", "sub_label": "Kopnena vojska", "lineid": 604, "uuid": "a773bdba-313e-440f-98a5-0e03bd80e4c7"}
+{"sub_uri": "Q7802", "obj_uri": "Q36465", "obj_label": "bra\u0161no", "sub_label": "kruh", "lineid": 607, "uuid": "e1a17aec-2a8b-4484-a499-47a2f803b1de"}
+{"sub_uri": "Q186817", "obj_uri": "Q12117", "obj_label": "\u017ditarice", "sub_label": "Ka\u0161a", "lineid": 609, "uuid": "6e176536-6aec-4ef0-a3ea-626580ea700f"}
+{"sub_uri": "Q130365", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Vitamin B2", "lineid": 611, "uuid": "8b930b0d-b890-4724-9c91-71c5126697ad"}
+{"sub_uri": "Q104934", "obj_uri": "Q11412", "obj_label": "gravitacija", "sub_label": "fundamentalne interakcije", "lineid": 612, "uuid": "79da9d27-0cfd-4229-afe5-1ba1f39b94b2"}
+{"sub_uri": "Q5319", "obj_uri": "Q658", "obj_label": "Natrij", "sub_label": "Boraks", "lineid": 613, "uuid": "b20d4dcc-7da0-4bed-b7d0-d7f15fd29b57"}
+{"sub_uri": "Q637017", "obj_uri": "Q29182", "obj_label": "biskup", "sub_label": "Biskupska konferencija", "lineid": 614, "uuid": "1bd43962-ca95-4d00-b9d0-a604e59197f6"}
+{"sub_uri": "Q39731", "obj_uri": "Q33", "obj_label": "Finska", "sub_label": "Balti\u010dke republike", "lineid": 615, "uuid": "25f07a6f-6e85-484a-9a67-5e27123705fe"}
+{"sub_uri": "Q1997", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Ugljikov oksid", "lineid": 616, "uuid": "9488f14f-7c2b-4b1d-9152-e0091ffdf5be"}
+{"sub_uri": "Q171877", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Vodikov peroksid", "lineid": 618, "uuid": "b72c0352-b2b2-407f-b494-f19dea96631c"}
+{"sub_uri": "Q1969730", "obj_uri": "Q28", "obj_label": "Ma\u0111arska", "sub_label": "Schengenski prostor", "lineid": 619, "uuid": "f8b60ee3-0911-4f08-addc-be785d10ba33"}
+{"sub_uri": "Q47273", "obj_uri": "Q1073", "obj_label": "Mozak", "sub_label": "sredi\u0161nji \u017eiv\u010dani sustav", "lineid": 620, "uuid": "6626e8a8-9fbb-4734-bd0c-d1a5ec2d31b5"}
+{"sub_uri": "Q190016", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Heparin", "lineid": 621, "uuid": "059ef155-91c7-4b4e-82cf-9f6d89ebb9a3"}
+{"sub_uri": "Q80083", "obj_uri": "Q34178", "obj_label": "Bogoslovlje", "sub_label": "humanisti\u010dke znanosti", "lineid": 622, "uuid": "d36cc31e-2bfa-4647-83fb-3a1f3b237c62"}
+{"sub_uri": "Q177836", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Kalijev nitrat", "lineid": 628, "uuid": "26851b4e-b385-4bd3-923b-8866626db0e2"}
+{"sub_uri": "Q19771", "obj_uri": "Q252", "obj_label": "Indonezija", "sub_label": "G-20", "lineid": 632, "uuid": "872962f5-0473-4ea2-81d1-0ec9b2c9b467"}
+{"sub_uri": "Q181381", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Galaktoza", "lineid": 634, "uuid": "cf6e154d-caad-4898-a768-3655d0917e7a"}
+{"sub_uri": "Q39782", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Mjed", "lineid": 638, "uuid": "b43884e0-cbe2-4334-920e-fcae8207f95a"}
+{"sub_uri": "Q49", "obj_uri": "Q664609", "obj_label": "Karibi", "sub_label": "Sjeverna Amerika", "lineid": 643, "uuid": "e8ec1e6c-77e0-4abd-adc8-dd3e0d90a002"}
+{"sub_uri": "Q421801", "obj_uri": "Q706", "obj_label": "kalcij", "sub_label": "Kalcijev karbid", "lineid": 645, "uuid": "42d702d5-736f-42e3-9d05-06bf43a68758"}
+{"sub_uri": "Q185583", "obj_uri": "Q11002", "obj_label": "\u0160e\u0107eri", "sub_label": "Slatki\u0161i", "lineid": 648, "uuid": "05108cb5-15f5-4ac0-85c3-c021effc8da5"}
+{"sub_uri": "Q80863", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Adenozin trifosfat", "lineid": 649, "uuid": "e2390385-48f3-417b-b96f-a97fb7e8d91f"}
+{"sub_uri": "Q185006", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "\u017divo vapno", "lineid": 652, "uuid": "224c0dc8-dc99-429f-8333-e018665fbfd5"}
+{"sub_uri": "Q318693", "obj_uri": "Q159", "obj_label": "Rusija", "sub_label": "Organizacija Ugovora o zajedni\u010dkoj sigurnosti", "lineid": 653, "uuid": "1925adb6-56a2-48da-8f8f-474742bd0731"}
+{"sub_uri": "Q271555", "obj_uri": "Q5090", "obj_label": "Ri\u017ea", "sub_label": "Biryani", "lineid": 654, "uuid": "f999b60d-97d1-48a8-981b-b96a7eb7fae8"}
+{"sub_uri": "Q174723", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Kodein", "lineid": 656, "uuid": "6dd4ccdd-d2fb-447c-b113-01bf3e41eeb4"}
+{"sub_uri": "Q173670", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Arginin", "lineid": 658, "uuid": "b657963d-8c1a-4c61-8b6d-89dd368a5eb9"}
+{"sub_uri": "Q150440", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Heksan", "lineid": 660, "uuid": "4a1021d5-6352-479e-a64d-a13971f24ab8"}
+{"sub_uri": "Q27381", "obj_uri": "Q948", "obj_label": "Tunis", "sub_label": "Sjeverna Afrika", "lineid": 661, "uuid": "e11f3ce5-ccc8-494f-ae89-d441b998a3fa"}
+{"sub_uri": "Q7212330", "obj_uri": "Q1566", "obj_label": "Duhan", "sub_label": "Pu\u0161enje", "lineid": 662, "uuid": "3e16e737-eabc-4be7-bc48-0021c2b36508"}
+{"sub_uri": "Q658684", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "Alnico", "lineid": 664, "uuid": "e3c25e92-a3ff-4bd7-9df2-1f34ade4a3d5"}
+{"sub_uri": "Q153", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "etanol", "lineid": 665, "uuid": "01fdccee-4484-4cb9-9803-a0e3362c57f9"}
+{"sub_uri": "Q2409", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Klorovodi\u010dna kiselina", "lineid": 667, "uuid": "6aac2407-e5f5-4393-9902-dc6f31bd9fe0"}
+{"sub_uri": "Q2025", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Ugljikov oksid", "lineid": 669, "uuid": "2e430bb3-0299-4920-b4c2-98845078731b"}
+{"sub_uri": "Q27449", "obj_uri": "Q236", "obj_label": "Crna Gora", "sub_label": "Ju\u017ena Europa", "lineid": 670, "uuid": "844c4da2-ce1f-4045-9d0f-59605eab4aa4"}
+{"sub_uri": "Q483269", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "Lijevano \u017eeljezo", "lineid": 673, "uuid": "99f545fc-135a-4872-81fd-00a385f396a6"}
+{"sub_uri": "Q236118", "obj_uri": "Q733", "obj_label": "Paragvaj", "sub_label": "Ju\u017eni konus", "lineid": 674, "uuid": "f266eb6a-d7db-47ba-bd76-e2b9843edd08"}
+{"sub_uri": "Q1969730", "obj_uri": "Q37", "obj_label": "Litva", "sub_label": "Schengenski prostor", "lineid": 676, "uuid": "50048519-897e-4955-a2ad-001afd272d7e"}
+{"sub_uri": "Q27433", "obj_uri": "Q1037", "obj_label": "Ruanda", "sub_label": "Srednja Afrika", "lineid": 679, "uuid": "7403413d-7f37-4c72-8291-96e5d6e9efc4"}
+{"sub_uri": "Q544", "obj_uri": "Q319", "obj_label": "Jupiter", "sub_label": "Sun\u010dev sustav", "lineid": 681, "uuid": "6139ebd7-8ec0-4af5-af5a-94adcfb611b6"}
+{"sub_uri": "Q833202", "obj_uri": "Q668", "obj_label": "Indija", "sub_label": "BRIC", "lineid": 683, "uuid": "21d3c3d7-1e91-4af9-bdfb-7e4f64f54c80"}
+{"sub_uri": "Q102769", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Natrijev hidroksid", "lineid": 685, "uuid": "65ea38cf-28c3-4e27-a59a-622fad86ced1"}
+{"sub_uri": "Q27468", "obj_uri": "Q212", "obj_label": "Ukrajina", "sub_label": "Isto\u010dna Europa", "lineid": 688, "uuid": "612a4355-2e26-46f3-8e2d-fea9686448fa"}
+{"sub_uri": "Q32485", "obj_uri": "Q12100", "obj_label": "Ma\u010devanje", "sub_label": "Moderni petoboj", "lineid": 692, "uuid": "ea6e9342-5d63-4b2e-aa05-9833b2730792"}
+{"sub_uri": "Q80083", "obj_uri": "Q8162", "obj_label": "Jezikoslovlje", "sub_label": "humanisti\u010dke znanosti", "lineid": 695, "uuid": "ef01eada-62e3-4745-803d-0592b654e6b8"}
+{"sub_uri": "Q29221", "obj_uri": "Q34172", "obj_label": "Maslac", "sub_label": "Lisnato tijesto", "lineid": 696, "uuid": "c1b0d0e5-7a98-4e8d-b145-7b2186b9a04e"}
+{"sub_uri": "Q410749", "obj_uri": "Q708", "obj_label": "Olovo", "sub_label": "Olovov(IV) oksid", "lineid": 698, "uuid": "09e5ccba-737c-4717-ae7c-1fc86e2e8f13"}
+{"sub_uri": "Q423174", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Antrakinon", "lineid": 700, "uuid": "04aedb7d-f073-4c60-a040-778de60a255e"}
+{"sub_uri": "Q311213", "obj_uri": "Q37525", "obj_label": "Glukoza", "sub_label": "Glikirani hemoglobin", "lineid": 702, "uuid": "cf2381da-87df-4786-95dd-8eaa98ae8da3"}
+{"sub_uri": "Q60168", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Heroin", "lineid": 704, "uuid": "1b0b67a5-901f-4cde-85df-5d8aa8662dfb"}
+{"sub_uri": "Q407646", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Manit", "lineid": 705, "uuid": "d70f3de0-f3b2-4198-ba1e-c1d2df9ae102"}
+{"sub_uri": "Q83367", "obj_uri": "Q34990", "obj_label": "Tora", "sub_label": "Tanakh", "lineid": 706, "uuid": "34cd32ab-c20b-4f24-a448-87bcf857f80e"}
+{"sub_uri": "Q52062", "obj_uri": "Q33", "obj_label": "Finska", "sub_label": "Nordijska regija", "lineid": 708, "uuid": "336a15c5-84bc-45e7-beaa-f9d4964001b3"}
+{"sub_uri": "Q611214", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "Grupa jedanaest dr\u017eava", "lineid": 710, "uuid": "49a13570-ee51-428f-ac6e-f822285c4b92"}
+{"sub_uri": "Q27496", "obj_uri": "Q40", "obj_label": "Austrija", "sub_label": "Zapadna Europa", "lineid": 712, "uuid": "4a0e09ce-2070-4199-ad1c-d946414c516d"}
+{"sub_uri": "Q23444", "obj_uri": "Q3142", "obj_label": "crvena", "sub_label": "Bijela", "lineid": 714, "uuid": "1b86f959-08a1-46f1-b82c-c0630f3a6645"}
+{"sub_uri": "Q2025", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Ugljikov oksid", "lineid": 720, "uuid": "4520116f-dae1-4df3-8378-555530958f32"}
+{"sub_uri": "Q61457", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Acetaldehid", "lineid": 722, "uuid": "e5ed1c0d-242f-4fd3-9d84-c027aa149fe6"}
+{"sub_uri": "Q412356", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Silicijev karbid", "lineid": 729, "uuid": "0fe8230c-5367-4d1f-b513-1103008534b7"}
+{"sub_uri": "Q83222", "obj_uri": "Q45805", "obj_label": "Jura", "sub_label": "Mezozoik", "lineid": 734, "uuid": "b57be1da-66b0-4ea3-9620-3cefa6714313"}
+{"sub_uri": "Q181354", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Biotin", "lineid": 735, "uuid": "453fe3e7-47e6-41a4-81f7-5d9e208ce828"}
+{"sub_uri": "Q328712", "obj_uri": "Q39397", "obj_label": "Sjekira", "sub_label": "Fascio", "lineid": 737, "uuid": "a7045050-2427-444d-84ef-ed41c9071261"}
+{"sub_uri": "Q133327", "obj_uri": "Q107", "obj_label": "Prostor", "sub_label": "prostorvrijeme", "lineid": 741, "uuid": "b85fa658-7bf9-4c5d-a804-28b02d6ea5ef"}
+{"sub_uri": "Q42918", "obj_uri": "Q7430", "obj_label": "deoksiribonukleinska kiselina", "sub_label": "Mutacija", "lineid": 742, "uuid": "a621c1ba-6988-4987-836c-e0469f891bac"}
+{"sub_uri": "Q171973", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Timin", "lineid": 743, "uuid": "4cc23e2a-a4a7-477d-8f9f-046d48cf29f9"}
+{"sub_uri": "Q153", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "etanol", "lineid": 748, "uuid": "d4fd7328-c776-4263-a413-467fd5470949"}
+{"sub_uri": "Q18", "obj_uri": "Q717", "obj_label": "Venezuela", "sub_label": "Ju\u017ena Amerika", "lineid": 749, "uuid": "7ee0f953-9786-417f-84a8-8ae1db781a5f"}
+{"sub_uri": "Q721849", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "\u017deljezovi oksidi", "lineid": 750, "uuid": "ab69884b-f66c-4ef9-aab8-90042c2559d6"}
+{"sub_uri": "Q27381", "obj_uri": "Q262", "obj_label": "Al\u017eir", "sub_label": "Sjeverna Afrika", "lineid": 751, "uuid": "0dc551df-dca2-4f17-af7d-40ea34ff77e3"}
+{"sub_uri": "Q184817", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Lignin", "lineid": 752, "uuid": "2d671525-b46b-4421-965b-853bf5815e75"}
+{"sub_uri": "Q658684", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Alnico", "lineid": 753, "uuid": "4fca9830-1668-4255-acc0-7a6006a05cae"}
+{"sub_uri": "Q3960", "obj_uri": "Q83067", "obj_label": "Timor", "sub_label": "Australija", "lineid": 754, "uuid": "f14a9254-1a6f-454c-8c9b-735c1c099e5e"}
+{"sub_uri": "Q188261", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Purin", "lineid": 761, "uuid": "039a3bfa-437a-44ad-966f-400db05b8669"}
+{"sub_uri": "Q122043", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Fruktoza", "lineid": 762, "uuid": "9653035d-9a63-4f48-bddf-9f656143e4cb"}
+{"sub_uri": "Q182329", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Amonijev nitrat", "lineid": 767, "uuid": "8696234f-e32b-4e74-a061-1bfdbc0db305"}
+{"sub_uri": "Q515922", "obj_uri": "Q3409", "obj_label": "Sirius", "sub_label": "Zimski \u0161esterokut", "lineid": 768, "uuid": "34e6d737-2aa8-4700-bbff-1217a8b95d06"}
+{"sub_uri": "Q282", "obj_uri": "Q10978", "obj_label": "Gro\u017e\u0111e", "sub_label": "vino", "lineid": 769, "uuid": "b1ccdc9f-c981-44eb-83ae-23267de7a090"}
+{"sub_uri": "Q411235", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "\u017deljezov", "lineid": 775, "uuid": "c07361d9-65cd-49b9-bab5-b7649e14e734"}
+{"sub_uri": "Q178450", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Asparaginska kiselina", "lineid": 777, "uuid": "04e9c9b7-e330-461c-9c19-6e275cbfd4fb"}
+{"sub_uri": "Q11369", "obj_uri": "Q9121", "obj_label": "atom", "sub_label": "Molekula", "lineid": 781, "uuid": "99238fa1-f675-484f-8243-bddd07c57f48"}
+{"sub_uri": "Q80083", "obj_uri": "Q315", "obj_label": "jezik", "sub_label": "humanisti\u010dke znanosti", "lineid": 782, "uuid": "d4433b9d-29fc-402d-b76a-4d778b724bb8"}
+{"sub_uri": "Q71969", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Urotropin", "lineid": 783, "uuid": "aa2fdf93-259b-4ec0-abd7-49f9e510103e"}
+{"sub_uri": "Q399771", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "\u017deljezov(III) klorid", "lineid": 787, "uuid": "5acf4681-dfb6-43b3-a24f-95a4d610e079"}
+{"sub_uri": "Q177", "obj_uri": "Q10943", "obj_label": "Sir", "sub_label": "pizza", "lineid": 788, "uuid": "291aae90-4eab-4275-85f0-e931918fb8b5"}
+{"sub_uri": "Q122043", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Fruktoza", "lineid": 804, "uuid": "b53254ae-546e-453a-976a-7280b1d91900"}
+{"sub_uri": "Q2679937", "obj_uri": "Q178024", "obj_label": "Tijesto", "sub_label": "Peljmeni", "lineid": 808, "uuid": "77db85d1-4f5c-4236-b8bd-1cb4282d8c03"}
+{"sub_uri": "Q407490", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Hemiceluloza", "lineid": 809, "uuid": "3b9a823d-601a-465b-a1ba-b6ae4bd715c8"}
+{"sub_uri": "Q27449", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "Ju\u017ena Europa", "lineid": 810, "uuid": "f958432f-b029-41af-ae08-08deaa83a438"}
+{"sub_uri": "Q27468", "obj_uri": "Q214", "obj_label": "Slova\u010dka", "sub_label": "Isto\u010dna Europa", "lineid": 812, "uuid": "02c80011-7cea-4d38-a816-2c510dab7ae1"}
+{"sub_uri": "Q15277", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Adenin", "lineid": 813, "uuid": "518ee54d-508e-47e3-bff5-26baf4d9260d"}
+{"sub_uri": "Q203874", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Novo srebro", "lineid": 818, "uuid": "6e52f98e-5722-4809-abe0-373b98cb84ba"}
+{"sub_uri": "Q1969730", "obj_uri": "Q55", "obj_label": "Nizozemska", "sub_label": "Schengenski prostor", "lineid": 821, "uuid": "5e582fba-d355-4833-86da-e10f98a50bbd"}
+{"sub_uri": "Q1969730", "obj_uri": "Q29", "obj_label": "\u0160panjolska", "sub_label": "Schengenski prostor", "lineid": 825, "uuid": "9eb190ef-e2ea-481e-aaa1-e79e4361095d"}
+{"sub_uri": "Q7172", "obj_uri": "Q822", "obj_label": "Libanon", "sub_label": "Arapska liga", "lineid": 831, "uuid": "b8e03981-437b-4ed3-a014-c3d65e4284e8"}
+{"sub_uri": "Q180341", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Metionin", "lineid": 832, "uuid": "dcdfd02a-15ce-4f63-a410-6dc24dde0bd3"}
+{"sub_uri": "Q171877", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Vodikov peroksid", "lineid": 836, "uuid": "7ecee149-559d-4998-bd22-e11525444601"}
+{"sub_uri": "Q83320", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Du\u0161i\u010dna kiselina", "lineid": 837, "uuid": "76ab939c-f66a-4bda-bd5d-9392db878c1a"}
+{"sub_uri": "Q236118", "obj_uri": "Q298", "obj_label": "\u010cile", "sub_label": "Ju\u017eni konus", "lineid": 839, "uuid": "d3c193f8-a5cd-4645-a035-4bcf22298667"}
+{"sub_uri": "Q159683", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Limunska kiselina", "lineid": 840, "uuid": "f2933c2f-43dc-4b22-9773-30ea8a98cec5"}
+{"sub_uri": "Q37525", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Glukoza", "lineid": 841, "uuid": "eae3713c-3010-46a6-b844-978df7b5a5d5"}
+{"sub_uri": "Q245719", "obj_uri": "Q47680", "obj_label": "Jo\u0161ua", "sub_label": "\u0160estoknji\u017eje", "lineid": 843, "uuid": "292ce928-1a0e-4929-b897-97d5730c6719"}
+{"sub_uri": "Q335179", "obj_uri": "Q726", "obj_label": "Doma\u0107i konj", "sub_label": "Hipogrif", "lineid": 846, "uuid": "5de0d2b8-0b61-4692-a683-332953aed4c3"}
+{"sub_uri": "Q27496", "obj_uri": "Q235", "obj_label": "Monako", "sub_label": "Zapadna Europa", "lineid": 848, "uuid": "44eda2ba-aa52-4029-8ef9-5c3574c8c823"}
+{"sub_uri": "Q105522", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Uri\u010dna kiselina", "lineid": 852, "uuid": "52ddc0a2-6a5c-42c1-b1d0-6cb988d54277"}
+{"sub_uri": "Q622416", "obj_uri": "Q35872", "obj_label": "\u010camac", "sub_label": "Gliser", "lineid": 853, "uuid": "f3218791-342d-4d2b-b8f6-bb7ce6ae4043"}
+{"sub_uri": "Q1969730", "obj_uri": "Q34", "obj_label": "\u0160vedska", "sub_label": "Schengenski prostor", "lineid": 855, "uuid": "d021b52a-2686-4551-a1fd-c52b68ec2d6e"}
+{"sub_uri": "Q104334", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Uglji\u010dna kiselina", "lineid": 858, "uuid": "49463322-5dc2-42ea-a674-18e2bc9bd3f6"}
+{"sub_uri": "Q271794", "obj_uri": "Q11369", "obj_label": "Molekula", "sub_label": "Nukleosom", "lineid": 861, "uuid": "e614650b-d416-4702-bd99-b599a7ed96d0"}
+{"sub_uri": "Q179731", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Natrijev hidrogenkarbonat", "lineid": 864, "uuid": "6b302f93-9d7a-478e-bfb3-262b5c6b1aeb"}
+{"sub_uri": "Q161233", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Mravlja kiselina", "lineid": 865, "uuid": "60d0221c-5604-4d41-8c2c-49e9256a59f6"}
+{"sub_uri": "Q1420", "obj_uri": "Q188209", "obj_label": "Osovina", "sub_label": "Automobil", "lineid": 866, "uuid": "10bb56ac-a394-4b73-9c88-1c15d89b9129"}
+{"sub_uri": "Q392227", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Gvanozin-trifosfat", "lineid": 870, "uuid": "73053e5a-f743-44fe-90b2-8085d88a9f53"}
+{"sub_uri": "Q382984", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Didu\u0161ikov tetroksid", "lineid": 873, "uuid": "252b7ab2-2627-46dc-9fc9-b127b61ecc86"}
+{"sub_uri": "Q329888", "obj_uri": "Q142", "obj_label": "Francuska", "sub_label": "Saveznici", "lineid": 877, "uuid": "c9312173-2f2d-4259-8d4f-6b4cfe572900"}
+{"sub_uri": "Q183309", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Gvanidin", "lineid": 879, "uuid": "68722607-c8e4-4b8e-a882-e0c0e11a66e1"}
+{"sub_uri": "Q408458", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Du\u0161ikov(V) oksid", "lineid": 890, "uuid": "5776b919-6b40-435a-8f15-6e09f051b365"}
+{"sub_uri": "Q52948", "obj_uri": "Q11024", "obj_label": "komunikacija", "sub_label": "Me\u0111udjelovanje", "lineid": 893, "uuid": "69d54b60-64ae-4dc8-af22-4112cdb761b7"}
+{"sub_uri": "Q161480", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Dikloretan", "lineid": 895, "uuid": "29b70b50-8c6b-45db-946a-4198201d535d"}
+{"sub_uri": "Q107184", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Modra galica", "lineid": 896, "uuid": "089cbc5d-9e07-4098-8491-0f755788beb4"}
+{"sub_uri": "Q183440", "obj_uri": "Q11002", "obj_label": "\u0160e\u0107eri", "sub_label": "Karamela", "lineid": 897, "uuid": "0d4d6b86-839b-4860-9676-43ed705be36b"}
+{"sub_uri": "Q11427", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "\u010celik", "lineid": 898, "uuid": "35afb859-6ad0-41f4-86b1-f8b9de1676fd"}
+{"sub_uri": "Q658684", "obj_uri": "Q663", "obj_label": "aluminij", "sub_label": "Alnico", "lineid": 899, "uuid": "28960d8a-1b6e-4ee2-bae8-a5f6d64d6d18"}
+{"sub_uri": "Q236118", "obj_uri": "Q77", "obj_label": "Urugvaj", "sub_label": "Ju\u017eni konus", "lineid": 902, "uuid": "c4d946c1-a6e2-4486-8941-6f5b402679a4"}
+{"sub_uri": "Q14982", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Metanol", "lineid": 904, "uuid": "925f87d9-6ed8-452e-b9ab-735ec67d5201"}
+{"sub_uri": "Q279055", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Sumporov heksafluorid", "lineid": 908, "uuid": "d2c63ab6-bcd6-4644-945b-40cc2b67a001"}
+{"sub_uri": "Q4118", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Sumporna kiselina", "lineid": 910, "uuid": "ccd729cf-1feb-49cc-bb6e-1b539019ee39"}
+{"sub_uri": "Q34095", "obj_uri": "Q753", "obj_label": "Bakar", "sub_label": "Bronca", "lineid": 911, "uuid": "10d77352-e3ef-4530-ad28-d0a6ae059161"}
+{"sub_uri": "Q329888", "obj_uri": "Q96", "obj_label": "Meksiko", "sub_label": "Saveznici", "lineid": 913, "uuid": "134147cc-fb59-41c1-ae87-d816690adf6f"}
+{"sub_uri": "Q395", "obj_uri": "Q8087", "obj_label": "Geometrija", "sub_label": "matematika", "lineid": 915, "uuid": "7ba62a4c-1b8f-44ab-a45f-cc96f715f77e"}
+{"sub_uri": "Q656004", "obj_uri": "Q708", "obj_label": "Olovo", "sub_label": "Olovno bjelilo", "lineid": 920, "uuid": "ac4fec69-43f3-485a-bdc3-ab7b44c4cfe5"}
+{"sub_uri": "Q207051", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Taurin", "lineid": 924, "uuid": "f7c542f4-da02-4c09-a385-d10a096d1f7f"}
+{"sub_uri": "Q308976", "obj_uri": "Q670", "obj_label": "Silicij", "sub_label": "Silika-gel", "lineid": 925, "uuid": "e4298b15-a19a-4313-a6bd-a4534970cf8c"}
+{"sub_uri": "Q151324", "obj_uri": "Q556", "obj_label": "vodik", "sub_label": "Propen", "lineid": 926, "uuid": "641ebba5-f0f5-4cc8-a4e6-eb75e7baae3b"}
+{"sub_uri": "Q1650718", "obj_uri": "Q1364", "obj_label": "Plod", "sub_label": "Kompot", "lineid": 928, "uuid": "ae7bad5f-4831-4584-9359-91f60b5cf6f1"}
+{"sub_uri": "Q7991", "obj_uri": "Q420", "obj_label": "biologija", "sub_label": "prirodna znanost", "lineid": 929, "uuid": "7e2a80a3-dece-4bcb-9aa2-81a7b69d32ea"}
+{"sub_uri": "Q184485", "obj_uri": "Q148442", "obj_label": "Iluzionizam", "sub_label": "scenska umjetnost", "lineid": 930, "uuid": "20bfda88-0050-4f13-ae98-fc35421adef3"}
+{"sub_uri": "Q179731", "obj_uri": "Q658", "obj_label": "Natrij", "sub_label": "Natrijev hidrogenkarbonat", "lineid": 932, "uuid": "fba2837a-64c3-4786-bb2b-2e92c3e88c48"}
+{"sub_uri": "Q544", "obj_uri": "Q525", "obj_label": "Sunce", "sub_label": "Sun\u010dev sustav", "lineid": 936, "uuid": "81b488a4-937c-4803-b980-c2f18b4d5356"}
+{"sub_uri": "Q271021", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Cefalosporin", "lineid": 938, "uuid": "c1b4b91c-64c2-4bc1-952a-808e417129fb"}
+{"sub_uri": "Q732607", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Kameni ugljen", "lineid": 940, "uuid": "ac0cae1b-32d5-4dcb-95b2-b254535b2a01"}
+{"sub_uri": "Q34749", "obj_uri": "Q23404", "obj_label": "antropologija", "sub_label": "dru\u0161tvene znanosti", "lineid": 942, "uuid": "44490181-0cf9-495f-90b6-ca3fde3267b5"}
+{"sub_uri": "Q47512", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Octena kiselina", "lineid": 947, "uuid": "6ba9ed6a-50b3-4ced-b65f-fcfbd221f348"}
+{"sub_uri": "Q40540", "obj_uri": "Q161701", "obj_label": "Rak", "sub_label": "Zodijak", "lineid": 948, "uuid": "2f89a8e4-638b-42da-96e4-b006d6f5511b"}
+{"sub_uri": "Q475736", "obj_uri": "Q11427", "obj_label": "\u010celik", "sub_label": "Damascirani \u010delik", "lineid": 949, "uuid": "f5b85594-1166-45e8-91e6-66d243855f65"}
+{"sub_uri": "Q203874", "obj_uri": "Q744", "obj_label": "Nikal", "sub_label": "Novo srebro", "lineid": 951, "uuid": "8d6590f6-adfb-4e44-af25-bb747ad8c8df"}
+{"sub_uri": "Q418235", "obj_uri": "Q658", "obj_label": "Natrij", "sub_label": "natrijev laktilat", "lineid": 954, "uuid": "33090100-6de7-42b7-8ca9-ebe3c4da9055"}
+{"sub_uri": "Q178450", "obj_uri": "Q627", "obj_label": "Du\u0161ik", "sub_label": "Asparaginska kiselina", "lineid": 959, "uuid": "acb6c507-ff32-40b6-9d67-0ff25132bb90"}
+{"sub_uri": "Q21195", "obj_uri": "Q20", "obj_label": "Norve\u0161ka", "sub_label": "Skandinavija", "lineid": 960, "uuid": "a20e639e-b2cf-4e7d-ae74-2e3abb6fbf25"}
+{"sub_uri": "Q188261", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Purin", "lineid": 961, "uuid": "fedc50eb-ec6a-4320-8c63-cd5f52e322db"}
+{"sub_uri": "Q52062", "obj_uri": "Q35", "obj_label": "Danska", "sub_label": "Nordijska regija", "lineid": 963, "uuid": "ec443c26-8038-4343-be36-3922badd77a5"}
+{"sub_uri": "Q204954", "obj_uri": "Q758", "obj_label": "Cink", "sub_label": "Cinkov sulfat", "lineid": 964, "uuid": "dbf98596-a544-464d-98af-e3d89a789692"}
+{"sub_uri": "Q214769", "obj_uri": "Q629", "obj_label": "Kisik", "sub_label": "Magnezijev oksid", "lineid": 965, "uuid": "4defa4be-7100-4a91-8c25-0e280706cebe"}
+{"sub_uri": "Q419170", "obj_uri": "Q677", "obj_label": "\u017eeljezo", "sub_label": "\u017deljezov(III) oksid", "lineid": 966, "uuid": "eb6c3946-0e2b-4814-827e-f19d93973f02"}
+{"sub_uri": "Q190227", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Natrijev karbonat", "lineid": 967, "uuid": "275bc8f4-63e4-401a-a18a-9d7be35bedab"}
+{"sub_uri": "Q170545", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "fenilalanin", "lineid": 968, "uuid": "2a1f6a7b-7f4c-4795-a959-68e5b2c63bf3"}
+{"sub_uri": "Q172290", "obj_uri": "Q682", "obj_label": "Sumpor", "sub_label": "Sulfati", "lineid": 970, "uuid": "2d001715-5154-40d8-a2bf-2bb915eabfd3"}
+{"sub_uri": "Q184373", "obj_uri": "Q658", "obj_label": "Natrij", "sub_label": "Natrijev nitrat", "lineid": 971, "uuid": "998db754-862a-47ed-a5fa-a20c1e434f16"}
+{"sub_uri": "Q19771", "obj_uri": "Q16", "obj_label": "Kanada", "sub_label": "G-20", "lineid": 972, "uuid": "0c208e4b-e53d-4466-81ee-405bba8f165f"}
+{"sub_uri": "Q105522", "obj_uri": "Q623", "obj_label": "Ugljik", "sub_label": "Uri\u010dna kiselina", "lineid": 974, "uuid": "19db3358-4aef-4b71-8f9a-c15b54513d25"}

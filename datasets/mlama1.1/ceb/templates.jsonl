@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "Natawo ang [X] sa [Y]."}
+{"relation": "P20", "template": "Namatay si [X] sa [Y]."}
+{"relation": "P279", "template": "Ang [X] usa ka subclass sa [Y]."}
+{"relation": "P37", "template": "Ang opisyal nga sinultian sa [X] mao ang [Y]."}
+{"relation": "P413", "template": "Ang [X] nagdula sa posisyon [Y]."}
+{"relation": "P166", "template": "[X] gihatagan ang [Y]."}
+{"relation": "P449", "template": "Ang [X] sa sinugdan gipasubasta sa [Y]."}
+{"relation": "P69", "template": "Gitudlo sa [X] sa Unibersidad sa [Y]."}
+{"relation": "P47", "template": "[X] nakig-ambit sa utlanan sa [Y]."}
+{"relation": "P138", "template": "Ang [X] gingalan sa [Y]."}
+{"relation": "P364", "template": "Ang orihinal nga sinultian sa [X] mao ang [Y]."}
+{"relation": "P54", "template": "Ang [X] nagdula sa [Y]."}
+{"relation": "P463", "template": "Ang [X] usa ka sakop sa [Y]."}
+{"relation": "P101", "template": "Ang [X] nagtrabaho sa uma sa [Y]."}
+{"relation": "P1923", "template": "Ang [X] miapil sa [Y]."}
+{"relation": "P106", "template": "Ang [X] usa ka [Y] pinaagi sa propesyon."}
+{"relation": "P527", "template": "Ang [X] naglangkob sa [Y]."}
+{"relation": "P102", "template": "Ang [X] usa ka membro sa partidong pampulitika [Y]."}
+{"relation": "P530", "template": "Gipadayon sa [X] ang relasyon sa diplomatikong sa [Y]."}
+{"relation": "P176", "template": "Ang [X] gihimo ni [Y]."}
+{"relation": "P27", "template": "Ang [X] usa ka lungsuranon sa [Y]."}
+{"relation": "P407", "template": "Gisulat ang [X] sa [Y]."}
+{"relation": "P30", "template": "[X] nahimutang sa [Y]."}
+{"relation": "P178", "template": "Ang [X] gipalambo ni [Y]."}
+{"relation": "P1376", "template": "[X] mao ang kapital sa [Y]."}
+{"relation": "P131", "template": "[X] nahimutang sa [Y]."}
+{"relation": "P1412", "template": "Ang [X] gigamit sa pagsulti sa [Y]."}
+{"relation": "P108", "template": "Ang [X] naglihok alang sa [Y]."}
+{"relation": "P136", "template": "Ang [X] nagpatugtog sa [Y] musika."}
+{"relation": "P17", "template": "[X] nahimutang sa [Y]."}
+{"relation": "P39", "template": "Ang [X] adunay posisyon sa [Y]."}
+{"relation": "P264", "template": "Ang [X] gihawasan sa label sa musika [Y]."}
+{"relation": "P276", "template": "[X] nahimutang sa [Y]."}
+{"relation": "P937", "template": "Ang [X] gigamit sa pagtrabaho sa [Y]."}
+{"relation": "P140", "template": "Ang [X] nakig-uban sa relihiyon sa [Y]."}
+{"relation": "P1303", "template": "Ang [X] nagdula [Y]."}
+{"relation": "P127", "template": "Ang [X] gipanag-iya ni [Y]."}
+{"relation": "P103", "template": "Ang lumad nga sinultian sa [X] mao ang [Y]."}
+{"relation": "P190", "template": "Ang [X] ug [Y] mga kaluha nga lungsod."}
+{"relation": "P1001", "template": "Ang [X] usa ka ligal nga termino sa [Y]."}
+{"relation": "P31", "template": "[X] usa [Y]."}
+{"relation": "P495", "template": "Ang [X] gilalang sa [Y]."}
+{"relation": "P159", "template": "Ang headquarter sa [X] naa sa [Y]."}
+{"relation": "P36", "template": "Ang kapital sa [X] mao ang [Y]."}
+{"relation": "P740", "template": "Gitukod ang [X] sa [Y]."}
+{"relation": "P361", "template": "Ang [X] bahin sa [Y]."}
+{"relation": "date_of_birth", "template": "[X] (natawo [Y])."}
+{"relation": "place_of_birth", "template": "Natawo ang [X] sa [Y]."}
+{"relation": "place_of_death", "template": "Namatay si [X] sa [Y]."}

@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "[X] [Y] jaio zen."}
+{"relation": "P20", "template": "[X] [Y] hil zen."}
+{"relation": "P279", "template": "[X] [Y] azpi-klasea da."}
+{"relation": "P37", "template": "[X] hizkuntza ofiziala [Y] da."}
+{"relation": "P413", "template": "[X] [Y] posizioan jokatzen du."}
+{"relation": "P166", "template": "[X] [Y] saria jaso du."}
+{"relation": "P449", "template": "[X] jatorriz [Y]-en emititu zen."}
+{"relation": "P69", "template": "[X] [Y] unibertsitatean hezi zen."}
+{"relation": "P47", "template": "[X] -ek [Y] -rekin partekatzen du"}
+{"relation": "P138", "template": "[X] [Y] du izena."}
+{"relation": "P364", "template": "[X] jatorrizko hizkuntza [Y] da."}
+{"relation": "P54", "template": "[X] [Y]-ekin jolasten da."}
+{"relation": "P463", "template": "[X] [Y] taldeko kidea da."}
+{"relation": "P101", "template": "[X] [Y] eremuan lan egiten du."}
+{"relation": "P1923", "template": "[Y] -ek [X] saioan parte hartu zuen."}
+{"relation": "P106", "template": "[X] lanbidez [Y] da."}
+{"relation": "P527", "template": "[X] [Y] osatzen dute."}
+{"relation": "P102", "template": "[X] [Y] alderdi politikoko kidea da."}
+{"relation": "P530", "template": "[X] -ek [Y] -ekin harreman diplomatikoak mantentzen ditu."}
+{"relation": "P176", "template": "[X] [Y]-ek sortzen du."}
+{"relation": "P27", "template": "[X] [Y] herritarra da."}
+{"relation": "P407", "template": "[X] [Y] liburuan idatzi zen."}
+{"relation": "P30", "template": "[X] [Y] gunean dago."}
+{"relation": "P178", "template": "[X] [Y]-ek garatzen du."}
+{"relation": "P1376", "template": "[X] [Y] hiriburua da."}
+{"relation": "P131", "template": "[X] [Y] gunean dago."}
+{"relation": "P1412", "template": "[X] -n [Y] -n komunikatzeko erabiltzen da."}
+{"relation": "P108", "template": "[X] [Y] lanarentzat funtzionatzen du."}
+{"relation": "P136", "template": "[X] [Y] musika jotzen du."}
+{"relation": "P17", "template": "[X] [Y] gunean dago."}
+{"relation": "P39", "template": "[X] [Y] posizioa du."}
+{"relation": "P264", "template": "[X] musika etiketaren bidez adierazten da [Y]."}
+{"relation": "P276", "template": "[X] [Y] gunean dago."}
+{"relation": "P937", "template": "[X] [Y] -n lan egiteko erabiltzen zen."}
+{"relation": "P140", "template": "[X] [Y] erlijioarekin erlazionatuta dago."}
+{"relation": "P1303", "template": "[X] jolasten da [Y]."}
+{"relation": "P127", "template": "[X] [Y] enpresaren jabetzakoa da."}
+{"relation": "P103", "template": "[X] jatorrizko hizkuntza [Y] da."}
+{"relation": "P190", "template": "[X] eta [Y] hiri bikiak dira."}
+{"relation": "P1001", "template": "[X] legezko terminoa da [Y] -n."}
+{"relation": "P31", "template": "[X] [Y] da."}
+{"relation": "P495", "template": "[X] [Y] -en sortu zen."}
+{"relation": "P159", "template": "Egoitza nagusia [X] da [Y]."}
+{"relation": "P36", "template": "[X] hiriburua [Y] da."}
+{"relation": "P740", "template": "[X] [Y] -en sortu zen."}
+{"relation": "P361", "template": "[X] [Y] zati da."}
+{"relation": "date_of_birth", "template": "[X] (jaio [Y])"}
+{"relation": "place_of_birth", "template": "[X] [Y] jaio zen."}
+{"relation": "place_of_death", "template": "[X] [Y] hil zen."}

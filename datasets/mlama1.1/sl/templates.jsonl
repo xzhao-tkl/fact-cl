@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "[X] se je rodil v mestu [Y]."}
+{"relation": "P20", "template": "[X] je umrl v [Y]."}
+{"relation": "P279", "template": "[X] je podrazred [Y]."}
+{"relation": "P37", "template": "Uradni jezik [X] je [Y]."}
+{"relation": "P413", "template": "[X] se igra v polo\u017eaju [Y]."}
+{"relation": "P166", "template": "[X] je prejel [Y]."}
+{"relation": "P449", "template": "[X] je bil prvotno predvajan na [Y]."}
+{"relation": "P69", "template": "[X] se je izobra\u017eeval na univerzi v [Y]."}
+{"relation": "P47", "template": "[X] deli mejo z [Y]."}
+{"relation": "P138", "template": "[X] je poimenovan po [Y]."}
+{"relation": "P364", "template": "Izvirni jezik [X] je [Y]."}
+{"relation": "P54", "template": "[X] se igra z [Y]."}
+{"relation": "P463", "template": "[X] je \u010dlan [Y]."}
+{"relation": "P101", "template": "[X] deluje na podro\u010dju [Y]."}
+{"relation": "P1923", "template": "[Y] je sodeloval v [X]."}
+{"relation": "P106", "template": "[X] je po poklicu [Y]."}
+{"relation": "P527", "template": "[X] je sestavljen iz [Y]."}
+{"relation": "P102", "template": "[X] je \u010dlan politi\u010dne stranke [Y]."}
+{"relation": "P530", "template": "[X] vzdr\u017euje diplomatske odnose z [Y]."}
+{"relation": "P176", "template": "[X] proizvaja [Y]."}
+{"relation": "P27", "template": "[X] je dr\u017eavljan [Y]."}
+{"relation": "P407", "template": "[X] je bil napisan v [Y]."}
+{"relation": "P30", "template": "[X] se nahaja v [Y]."}
+{"relation": "P178", "template": "[X] je razvil [Y]."}
+{"relation": "P1376", "template": "[X] je kapital [Y]."}
+{"relation": "P131", "template": "[X] se nahaja v [Y]."}
+{"relation": "P1412", "template": "[X], ki se uporablja za komunikacijo v [Y]."}
+{"relation": "P108", "template": "[X] deluje za [Y]."}
+{"relation": "P136", "template": "[X] predvaja glasbo [Y]."}
+{"relation": "P17", "template": "[X] se nahaja v [Y]."}
+{"relation": "P39", "template": "[X] ima polo\u017eaj [Y]."}
+{"relation": "P264", "template": "[X] je predstavljena z glasbeno zalo\u017ebo [Y]."}
+{"relation": "P276", "template": "[X] se nahaja v [Y]."}
+{"relation": "P937", "template": "[X], ki je neko\u010d deloval v [Y]."}
+{"relation": "P140", "template": "[X] je povezan z religijo [Y]."}
+{"relation": "P1303", "template": "[X] predvaja [Y]."}
+{"relation": "P127", "template": "[X] je last [Y]."}
+{"relation": "P103", "template": "Doma\u010di jezik [X] je [Y]."}
+{"relation": "P190", "template": "[X] in [Y] sta mesti dvoj\u010dka."}
+{"relation": "P1001", "template": "[X] je pravni izraz v [Y]."}
+{"relation": "P31", "template": "[X] je [Y]."}
+{"relation": "P495", "template": "[X] je bil ustvarjen v [Y]."}
+{"relation": "P159", "template": "Sede\u017e podjetja [X] je v [Y]."}
+{"relation": "P36", "template": "Kapital [X] je [Y]."}
+{"relation": "P740", "template": "[X] je bil ustanovljen v [Y]."}
+{"relation": "P361", "template": "[X] je del [Y]."}
+{"relation": "date_of_birth", "template": "[X] (rojen [Y])."}
+{"relation": "place_of_birth", "template": "[X] se je rodil v [Y]."}
+{"relation": "place_of_death", "template": "[X] je umrl v [Y]."}

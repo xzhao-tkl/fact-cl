@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "Ganwyd [X] yn [Y]."}
+{"relation": "P20", "template": "Bu farw [X] yn [Y]."}
+{"relation": "P279", "template": "Mae [X] yn is-ddosbarth o [Y]."}
+{"relation": "P37", "template": "Iaith swyddogol [X] yw [Y]."}
+{"relation": "P413", "template": "Mae [X] yn chwarae yn safle [Y]."}
+{"relation": "P166", "template": "Dyfarnwyd [Y] i [X]."}
+{"relation": "P449", "template": "Darlledwyd [X] yn wreiddiol ar [Y]."}
+{"relation": "P69", "template": "Addysgwyd [X] ym Mhrifysgol [Y]."}
+{"relation": "P47", "template": "Mae [X] yn rhannu ffin \u00e2 [Y]."}
+{"relation": "P138", "template": "Enwir [X] ar \u00f4l [Y]."}
+{"relation": "P364", "template": "Iaith wreiddiol [X] yw [Y]."}
+{"relation": "P54", "template": "Mae [X] yn chwarae gyda [Y]."}
+{"relation": "P463", "template": "Mae [X] yn aelod o [Y]."}
+{"relation": "P101", "template": "Mae [X] yn gweithio ym maes [Y]."}
+{"relation": "P1923", "template": "Cymerodd [Y] ran yn y [X]."}
+{"relation": "P106", "template": "Mae [X] yn [Y] yn \u00f4l proffesiwn."}
+{"relation": "P527", "template": "Mae [X] yn cynnwys [Y]."}
+{"relation": "P102", "template": "Mae [X] yn aelod o'r blaid wleidyddol [Y]."}
+{"relation": "P530", "template": "Mae [X] yn cynnal cysylltiadau diplomyddol ag [Y]."}
+{"relation": "P176", "template": "Cynhyrchir [X] gan [Y]."}
+{"relation": "P27", "template": "Mae [X] yn ddinesydd [Y]."}
+{"relation": "P407", "template": "Ysgrifennwyd [X] yn [Y]."}
+{"relation": "P30", "template": "Mae [X] wedi'i leoli yn [Y]."}
+{"relation": "P178", "template": "Datblygir [X] gan [Y]."}
+{"relation": "P1376", "template": "[X] yw prifddinas [Y]."}
+{"relation": "P131", "template": "Mae [X] wedi'i leoli yn [Y]."}
+{"relation": "P1412", "template": "Arferai [X] gyfathrebu yn [Y]."}
+{"relation": "P108", "template": "Mae [X] yn gweithio i [Y]."}
+{"relation": "P136", "template": "Mae [X] yn chwarae cerddoriaeth [Y]."}
+{"relation": "P17", "template": "Mae [X] wedi'i leoli yn [Y]."}
+{"relation": "P39", "template": "Mae gan [X] safle [Y]."}
+{"relation": "P264", "template": "Cynrychiolir [X] gan label cerddoriaeth [Y]."}
+{"relation": "P276", "template": "Mae [X] wedi'i leoli yn [Y]."}
+{"relation": "P937", "template": "Roedd [X] yn arfer gweithio yn [Y]."}
+{"relation": "P140", "template": "Mae [X] yn gysylltiedig \u00e2'r grefydd [Y]."}
+{"relation": "P1303", "template": "Mae [X] yn chwarae [Y]."}
+{"relation": "P127", "template": "Mae [X] yn eiddo i [Y]."}
+{"relation": "P103", "template": "Iaith frodorol [X] yw [Y]."}
+{"relation": "P190", "template": "Mae [X] ac [Y] yn ddinasoedd efeilliaid."}
+{"relation": "P1001", "template": "Mae [X] yn derm cyfreithiol yn [Y]."}
+{"relation": "P31", "template": "Mae [X] yn [Y]."}
+{"relation": "P495", "template": "Cr\u00ebwyd [X] yn [Y]."}
+{"relation": "P159", "template": "Mae pencadlys [X] yn [Y]."}
+{"relation": "P36", "template": "Prifddinas [X] yw [Y]."}
+{"relation": "P740", "template": "Sefydlwyd [X] yn [Y]."}
+{"relation": "P361", "template": "Mae [X] yn rhan o [Y]."}
+{"relation": "date_of_birth", "template": "[X] (ganwyd [Y])."}
+{"relation": "place_of_birth", "template": "Ganwyd [X] yn [Y]."}
+{"relation": "place_of_death", "template": "Bu farw [X] yn [Y]."}

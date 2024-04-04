@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "[X] [Y] 'da do\u011fdu."}
+{"relation": "P20", "template": "[X] [Y] 'da \u00f6ld\u00fc."}
+{"relation": "P279", "template": "[X], [Y] 'nin bir alt s\u0131n\u0131f\u0131d\u0131r."}
+{"relation": "P37", "template": "[X] 'un resmi dili [Y]' dir."}
+{"relation": "P413", "template": "[X], [Y] konumunda oynar."}
+{"relation": "P166", "template": "[X], [Y] ile \u00f6d\u00fcllendirildi."}
+{"relation": "P449", "template": "[X] ba\u015flang\u0131\u00e7ta [Y] 'da yay\u0131nland\u0131."}
+{"relation": "P69", "template": "[X], [Y] \u00dcniversitesi'nde e\u011fitim g\u00f6rd\u00fc."}
+{"relation": "P47", "template": "[X], [Y] ile s\u0131n\u0131r payla\u015f\u0131yor."}
+{"relation": "P138", "template": "[X], [Y] 'dan sonra adland\u0131r\u0131l\u0131r."}
+{"relation": "P364", "template": "[X] 'un orijinal dili [Y]' dir."}
+{"relation": "P54", "template": "[X], [Y] ile oynuyor."}
+{"relation": "P463", "template": "[X], [Y] \u00fcyesidir."}
+{"relation": "P101", "template": "[X], [Y] alan\u0131nda \u00e7al\u0131\u015f\u0131r."}
+{"relation": "P1923", "template": "[Y] [X] 'a kat\u0131ld\u0131."}
+{"relation": "P106", "template": "[X] mesle\u011fi olan bir [Y]."}
+{"relation": "P527", "template": "[X] [Y] 'den olu\u015fur."}
+{"relation": "P102", "template": "[X], [Y] siyasi partisinin bir \u00fcyesidir."}
+{"relation": "P530", "template": "[X] [Y] ile diplomatik ili\u015fkiler s\u00fcrd\u00fcrmektedir."}
+{"relation": "P176", "template": "[X], [Y] taraf\u0131ndan \u00fcretilir."}
+{"relation": "P27", "template": "[X] [Y] vatanda\u015f\u0131d\u0131r."}
+{"relation": "P407", "template": "[X], [Y] dilinde yaz\u0131lm\u0131\u015ft\u0131r."}
+{"relation": "P30", "template": "[X], [Y] 'da bulunur."}
+{"relation": "P178", "template": "[X], [Y] taraf\u0131ndan geli\u015ftirilmi\u015ftir."}
+{"relation": "P1376", "template": "[X], [Y] 'n\u0131n ba\u015fkentidir."}
+{"relation": "P131", "template": "[X], [Y] 'da bulunur."}
+{"relation": "P1412", "template": "[X] [Y] 'da ileti\u015fim kurmak i\u00e7in kullan\u0131l\u0131r."}
+{"relation": "P108", "template": "[X], [Y] i\u00e7in \u00e7al\u0131\u015f\u0131r."}
+{"relation": "P136", "template": "[X] [Y] m\u00fczik \u00e7alar."}
+{"relation": "P17", "template": "[X], [Y] 'da bulunur."}
+{"relation": "P39", "template": "[X], [Y] konumundad\u0131r."}
+{"relation": "P264", "template": "[X], [Y] m\u00fczik etiketi ile temsil edilir."}
+{"relation": "P276", "template": "[X], [Y] 'da bulunur."}
+{"relation": "P937", "template": "[X] [Y] 'da \u00e7al\u0131\u015f\u0131rd\u0131."}
+{"relation": "P140", "template": "[X] [Y] dinine ba\u011fl\u0131d\u0131r."}
+{"relation": "P1303", "template": "[X] [Y] oynar."}
+{"relation": "P127", "template": "[X], [Y] \u015firketine aittir."}
+{"relation": "P103", "template": "[X] 'un ana dili [Y]' dir."}
+{"relation": "P190", "template": "[X] ve [Y] ikiz \u015fehirlerdir."}
+{"relation": "P1001", "template": "[X], [Y] i\u00e7in yasal bir terimdir."}
+{"relation": "P31", "template": "[X] bir [Y] 'dir."}
+{"relation": "P495", "template": "[X], [Y] 'da olu\u015fturuldu."}
+{"relation": "P159", "template": "[X] \u015firketinin genel merkezi [Y] 'dedir."}
+{"relation": "P36", "template": "[X] 'un ba\u015fkenti [Y]' dir."}
+{"relation": "P740", "template": "[X] [Y] 'da kuruldu."}
+{"relation": "P361", "template": "[X], [Y] 'nin bir par\u00e7as\u0131d\u0131r."}
+{"relation": "date_of_birth", "template": "[X] ([Y] do\u011fdu)."}
+{"relation": "place_of_birth", "template": "[X] [Y] 'de do\u011fdu."}
+{"relation": "place_of_death", "template": "[X] [Y] 'de \u00f6ld\u00fc."}

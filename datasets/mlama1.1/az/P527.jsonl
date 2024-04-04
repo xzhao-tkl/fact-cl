@@ -1,0 +1,332 @@
+{"sub_uri": "Q188154", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "pektin madd\u0259l\u0259ri", "lineid": 0, "uuid": "76a74800-3782-4ed7-9126-474354b9a7e4"}
+{"sub_uri": "Q177540", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Parafin", "lineid": 2, "uuid": "24d7ff57-0d76-4836-bfa9-3fc68438b356"}
+{"sub_uri": "Q37726", "obj_uri": "Q29171", "obj_label": "piyada", "sub_label": "Quru qo\u015funlar\u0131", "lineid": 7, "uuid": "20f67766-d6c9-4b44-b099-e33b49d7de66"}
+{"sub_uri": "Q19771", "obj_uri": "Q38", "obj_label": "\u0130taliya", "sub_label": "G20", "lineid": 9, "uuid": "4916857e-9058-49cd-b417-ffa8744c9f37"}
+{"sub_uri": "Q27449", "obj_uri": "Q29", "obj_label": "\u0130spaniya", "sub_label": "C\u0259nubi Avropa", "lineid": 12, "uuid": "1b2ed718-9151-4fc3-8027-e9de6684f673"}
+{"sub_uri": "Q16521", "obj_uri": "Q7239", "obj_label": "Orqanizm", "sub_label": "takson", "lineid": 17, "uuid": "73abebd0-0739-4630-9d57-5db34e05c4d5"}
+{"sub_uri": "Q408050", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Dimetil efir yanaca\u011f\u0131", "lineid": 19, "uuid": "b561c994-2403-40e7-a6d6-7810edc5081c"}
+{"sub_uri": "Q39731", "obj_uri": "Q191", "obj_label": "Estoniya", "sub_label": "Baltikyan\u0131 \u00f6lk\u0259l\u0259r", "lineid": 22, "uuid": "a8a9a738-4a90-455c-9c08-42f05a54ed46"}
+{"sub_uri": "Q37726", "obj_uri": "Q47315", "obj_label": "s\u00fcvari", "sub_label": "Quru qo\u015funlar\u0131", "lineid": 24, "uuid": "4892c098-925b-4724-95fd-8ffd5bb461ce"}
+{"sub_uri": "Q27449", "obj_uri": "Q224", "obj_label": "Xorvatiya", "sub_label": "C\u0259nubi Avropa", "lineid": 27, "uuid": "fec3592b-15aa-45d9-a0e2-f31a6a492ce8"}
+{"sub_uri": "Q218642", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Alanin", "lineid": 29, "uuid": "24921cdb-70ab-4750-9146-faa8555d31ca"}
+{"sub_uri": "Q83320", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Nitrat tur\u015fusu", "lineid": 35, "uuid": "c150562c-6d27-47e9-9d1f-2da3da4678a5"}
+{"sub_uri": "Q80083", "obj_uri": "Q735", "obj_label": "inc\u0259s\u0259n\u0259t", "sub_label": "humanitar elml\u0259r", "lineid": 39, "uuid": "d3824a3e-3a5d-4e79-81c1-00756cb4cc2b"}
+{"sub_uri": "Q39350", "obj_uri": "Q42918", "obj_label": "Mutasiya", "sub_label": "N\u00f6vl\u0259\u015fm\u0259", "lineid": 44, "uuid": "d6b1f7e9-4d69-42f9-ab1e-7890a0b2ec79"}
+{"sub_uri": "Q244451", "obj_uri": "Q3783", "obj_label": "Amazon \u00e7ay\u0131", "sub_label": "Amazon oval\u0131\u011f\u0131", "lineid": 46, "uuid": "6bf3b014-9fa6-49bf-bc52-be288e9f6629"}
+{"sub_uri": "Q8066", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Amintur\u015fular", "lineid": 47, "uuid": "bc47eb37-0d06-4182-b953-d7bd30804821"}
+{"sub_uri": "Q195", "obj_uri": "Q11002", "obj_label": "\u015e\u0259k\u0259r", "sub_label": "\u015eokolad", "lineid": 49, "uuid": "5f813b71-1f38-46af-a87d-e1dc3b5bcae5"}
+{"sub_uri": "Q210385", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Piridin", "lineid": 59, "uuid": "b37c2365-f661-46f3-817c-2c8137acfe03"}
+{"sub_uri": "Q13317", "obj_uri": "Q8495", "obj_label": "S\u00fcd", "sub_label": "Yoqurt", "lineid": 60, "uuid": "ccd8f9f8-b22a-4beb-92ce-eecff2cc3c34"}
+{"sub_uri": "Q245752", "obj_uri": "Q503", "obj_label": "Banan", "sub_label": "Bananl\u0131 split", "lineid": 63, "uuid": "af3d425f-fcf7-4a8a-9967-556deefb2fc7"}
+{"sub_uri": "Q182168", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Nitratlar", "lineid": 65, "uuid": "15a3068d-35f9-43f6-bb27-9b9d255d5704"}
+{"sub_uri": "Q578170", "obj_uri": "Q1221", "obj_label": "Aydaho", "sub_label": "Kontinental AB\u015e", "lineid": 66, "uuid": "c8b1151a-1e43-4fa7-88f5-1864fdf84da2"}
+{"sub_uri": "Q578170", "obj_uri": "Q1612", "obj_label": "Arkanzas", "sub_label": "Kontinental AB\u015e", "lineid": 70, "uuid": "263829db-26e4-4209-8f1b-8a2147a00b59"}
+{"sub_uri": "Q52062", "obj_uri": "Q34", "obj_label": "\u0130sve\u00e7", "sub_label": "Skandinav \u00f6lk\u0259l\u0259ri", "lineid": 71, "uuid": "17caa892-c8a4-48c3-adbf-e56e53820296"}
+{"sub_uri": "Q8162", "obj_uri": "Q37437", "obj_label": "Sintaksis", "sub_label": "dil\u00e7ilik", "lineid": 74, "uuid": "ae2ce56a-2fc4-4769-a939-d0734550875b"}
+{"sub_uri": "Q151335", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Butilen", "lineid": 77, "uuid": "0271c26a-c311-446b-9267-1be975b4b43d"}
+{"sub_uri": "Q544", "obj_uri": "Q111", "obj_label": "Mars", "sub_label": "G\u00fcn\u0259\u015f sistemi", "lineid": 83, "uuid": "087a435a-1d33-4073-a19a-002dbd83714e"}
+{"sub_uri": "Q41534", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Ni\u015fasta", "lineid": 88, "uuid": "c2db4593-c26c-4e8a-a2f2-5dc1a218b55d"}
+{"sub_uri": "Q329888", "obj_uri": "Q408", "obj_label": "Avstraliya", "sub_label": "Antihitler koalisiyas\u0131", "lineid": 91, "uuid": "a2e007be-336f-49d4-998a-e8c7ee9cb2b4"}
+{"sub_uri": "Q207832", "obj_uri": "Q34172", "obj_label": "K\u0259r\u0259 ya\u011f\u0131", "sub_label": "Kruassan", "lineid": 94, "uuid": "a8bed31f-01f9-476f-a0e3-99c6d072dabc"}
+{"sub_uri": "Q422789", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Silisiumlu \u00fczvi birl\u0259\u015fm\u0259l\u0259r", "lineid": 97, "uuid": "ff178dc6-0c2f-444c-a9fe-49c46e991732"}
+{"sub_uri": "Q23640", "obj_uri": "Q1073", "obj_label": "Beyin", "sub_label": "ba\u015f", "lineid": 98, "uuid": "c1c5a031-c095-46ae-a3df-644915ca9d03"}
+{"sub_uri": "Q544", "obj_uri": "Q193", "obj_label": "Saturn", "sub_label": "G\u00fcn\u0259\u015f sistemi", "lineid": 105, "uuid": "dd5767ed-d19e-4825-8801-07c5c4d4f032"}
+{"sub_uri": "Q133516", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Monosaxarid", "lineid": 109, "uuid": "95cc6a11-078f-49dd-b3ae-90c613b2bbbd"}
+{"sub_uri": "Q409564", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Kapril tur\u015fusu", "lineid": 110, "uuid": "f0987324-48d0-4a5f-bd15-d452f0dbd744"}
+{"sub_uri": "Q27449", "obj_uri": "Q45", "obj_label": "Portuqaliya", "sub_label": "C\u0259nubi Avropa", "lineid": 112, "uuid": "acfcc633-321a-4a1f-ba38-0a9b232e4bea"}
+{"sub_uri": "Q150429", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Pentan", "lineid": 115, "uuid": "692cb777-8d80-42c0-bf9c-ce0d992c11e9"}
+{"sub_uri": "Q161210", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Formaldehid", "lineid": 121, "uuid": "70671489-1ed3-4c43-9da8-2b9605b65476"}
+{"sub_uri": "Q154", "obj_uri": "Q153", "obj_label": "Etanol", "sub_label": "Alkoqollu i\u00e7kil\u0259r", "lineid": 123, "uuid": "4cc920f1-e4e6-4c60-9a52-1171167564fd"}
+{"sub_uri": "Q4087", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Ammonyak", "lineid": 126, "uuid": "22065c8c-2eb2-4f51-bcbb-df0a1ce63b7b"}
+{"sub_uri": "Q407473", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Etilenoksid", "lineid": 127, "uuid": "952da63d-1920-4345-b7e1-b2605e675de7"}
+{"sub_uri": "Q272502", "obj_uri": "Q36465", "obj_label": "un", "sub_label": "Bagel", "lineid": 128, "uuid": "efa62437-ee66-4cb0-a5e6-40c974c8163e"}
+{"sub_uri": "Q19771", "obj_uri": "Q408", "obj_label": "Avstraliya", "sub_label": "G20", "lineid": 130, "uuid": "f96bfc54-81cd-4178-b2ca-6698e448a537"}
+{"sub_uri": "Q2270", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Benzol", "lineid": 132, "uuid": "226dd54f-3782-40d7-b679-7758007f8668"}
+{"sub_uri": "Q4421", "obj_uri": "Q10884", "obj_label": "a\u011fac", "sub_label": "Me\u015f\u0259", "lineid": 133, "uuid": "42bbd954-742a-4f70-9097-e253bff09282"}
+{"sub_uri": "Q1969730", "obj_uri": "Q39", "obj_label": "\u0130sve\u00e7r\u0259", "sub_label": "\u015eengen zonas\u0131", "lineid": 134, "uuid": "1204cc62-ff21-48b1-b6db-1626b846f22f"}
+{"sub_uri": "Q18", "obj_uri": "Q77", "obj_label": "Uruqvay", "sub_label": "C\u0259nubi Amerika", "lineid": 135, "uuid": "3f0c9962-380b-419f-b53e-71974946a7e2"}
+{"sub_uri": "Q211891", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Nitrit tur\u015fusu", "lineid": 136, "uuid": "b0c0199c-1c92-4bfb-84b7-66c56b57e9e2"}
+{"sub_uri": "Q1161185", "obj_uri": "Q8072", "obj_label": "Vulkan", "sub_label": "Vulkanik ada", "lineid": 145, "uuid": "500dc19c-d217-4047-93c2-7d6bfd0e589f"}
+{"sub_uri": "Q193411", "obj_uri": "Q8495", "obj_label": "S\u00fcd", "sub_label": "Brie", "lineid": 146, "uuid": "9dfc32c9-49d5-492d-bec4-003da36d79b5"}
+{"sub_uri": "Q2663713", "obj_uri": "Q159", "obj_label": "Rusiya", "sub_label": "Avrasiya G\u00f6mr\u00fck \u0130ttifaq\u0131", "lineid": 152, "uuid": "94300845-2ddd-43c0-8830-04490f5bd7f4"}
+{"sub_uri": "Q4173083", "obj_uri": "Q399", "obj_label": "Erm\u0259nistan", "sub_label": "Avrasiya \u0130qtisadi Birliyi", "lineid": 153, "uuid": "1dc81773-aedc-47e0-b225-43c63fd7789b"}
+{"sub_uri": "Q27496", "obj_uri": "Q142", "obj_label": "Fransa", "sub_label": "Q\u0259rbi Avropa", "lineid": 155, "uuid": "2ce44c48-8f5d-4acd-bc79-90947340d4f5"}
+{"sub_uri": "Q52062", "obj_uri": "Q189", "obj_label": "\u0130slandiya", "sub_label": "Skandinav \u00f6lk\u0259l\u0259ri", "lineid": 159, "uuid": "3f2e44fa-59c3-4f39-8fb0-a647b818bb77"}
+{"sub_uri": "Q16391", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Butanol-1", "lineid": 163, "uuid": "9db08316-0b06-42c9-a026-810a9836fc60"}
+{"sub_uri": "Q19771", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "G20", "lineid": 164, "uuid": "254b30f4-ccf6-4256-ad33-5bb01acb6041"}
+{"sub_uri": "Q170304", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Dopamin", "lineid": 165, "uuid": "3c35c5f5-f1c9-4089-9c2b-d77471dbd5d5"}
+{"sub_uri": "Q648352", "obj_uri": "Q5090", "obj_label": "D\u00fcy\u00fc", "sub_label": "Bibimbap", "lineid": 167, "uuid": "e4906e8b-dc9c-496a-be7f-0fca68fdabb5"}
+{"sub_uri": "Q12837", "obj_uri": "Q1410", "obj_label": "C\u0259b\u0259li-Tariq", "sub_label": "Pireney yar\u0131madas\u0131", "lineid": 169, "uuid": "ab9f7bda-6212-418d-b1b9-ea56c4f60070"}
+{"sub_uri": "Q614448", "obj_uri": "Q7802", "obj_label": "\u00e7\u00f6r\u0259k", "sub_label": "Brusketta", "lineid": 171, "uuid": "d169d75c-56a7-430f-ac07-e2d839a450a3"}
+{"sub_uri": "Q133516", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Monosaxarid", "lineid": 172, "uuid": "9ef1a73e-fdf6-4ae9-917e-732d58d715a1"}
+{"sub_uri": "Q2001841", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Formiatlar", "lineid": 175, "uuid": "0efee761-7236-46c3-94de-b1aa2aab0bba"}
+{"sub_uri": "Q419133", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Germanium oksid (IV)", "lineid": 178, "uuid": "d13f407f-bcab-42ba-98eb-a0bcdb58b159"}
+{"sub_uri": "Q1018075", "obj_uri": "Q7802", "obj_label": "\u00e7\u00f6r\u0259k", "sub_label": "Buterbrod", "lineid": 179, "uuid": "967683a2-b960-4b5d-b7d0-689071a1b318"}
+{"sub_uri": "Q27496", "obj_uri": "Q55", "obj_label": "Niderland", "sub_label": "Q\u0259rbi Avropa", "lineid": 181, "uuid": "2fde969f-9798-463c-87da-bce754a53112"}
+{"sub_uri": "Q19771", "obj_uri": "Q142", "obj_label": "Fransa", "sub_label": "G20", "lineid": 182, "uuid": "83b7252f-dea5-450d-b217-51333faee277"}
+{"sub_uri": "Q14982", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Metanol", "lineid": 187, "uuid": "101ed6e5-4f2c-42f2-8954-d6d8b11477a4"}
+{"sub_uri": "Q23767", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Kalsium karbonat", "lineid": 188, "uuid": "0c1e2fe0-a617-4c56-a167-194e5f07d890"}
+{"sub_uri": "Q620730", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Aminosirk\u0259 tur\u015fusu", "lineid": 193, "uuid": "e541850e-f046-43bb-a28f-4807cfdabe07"}
+{"sub_uri": "Q14982", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Metanol", "lineid": 194, "uuid": "44e0d676-9bbf-4608-b31d-b1d42db07ede"}
+{"sub_uri": "Q421787", "obj_uri": "Q753", "obj_label": "mis", "sub_label": "Mis (II)oksid", "lineid": 195, "uuid": "3d1c3f2b-24dc-4ca1-864e-69d2d41edf1e"}
+{"sub_uri": "Q578170", "obj_uri": "Q824", "obj_label": "Oreqon", "sub_label": "Kontinental AB\u015e", "lineid": 197, "uuid": "39aa7ae3-a18e-4e3f-856f-364c4973b3e4"}
+{"sub_uri": "Q208643", "obj_uri": "Q36117", "obj_label": "Kalimantan", "sub_label": "Malay arxipelaq\u0131", "lineid": 201, "uuid": "8f263c3d-6c54-4567-928e-3931fb095b69"}
+{"sub_uri": "Q832791", "obj_uri": "Q10943", "obj_label": "Pendir", "sub_label": "Fokat\u00e7a", "lineid": 204, "uuid": "aeff19a9-476f-4cb8-88f0-e400ec275eb0"}
+{"sub_uri": "Q116269", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "L\u00fcssatit", "lineid": 209, "uuid": "c9768ddf-8dd1-4317-8660-07e9b88944e0"}
+{"sub_uri": "Q3051553", "obj_uri": "Q8495", "obj_label": "S\u00fcd", "sub_label": "Kulfi", "lineid": 211, "uuid": "4ee9351b-7820-4096-b271-26782cf18d91"}
+{"sub_uri": "Q578170", "obj_uri": "Q16551", "obj_label": "Vermont", "sub_label": "Kontinental AB\u015e", "lineid": 212, "uuid": "0d25047a-959f-43ed-b2a4-cbb029a34a01"}
+{"sub_uri": "Q207688", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Olein", "lineid": 213, "uuid": "64a64163-bfb4-4743-bfe4-17640669945d"}
+{"sub_uri": "Q478654", "obj_uri": "Q8495", "obj_label": "S\u00fcd", "sub_label": "Qaymaq", "lineid": 214, "uuid": "de5cb322-154a-44d0-ae43-f26bc856e4fe"}
+{"sub_uri": "Q27468", "obj_uri": "Q218", "obj_label": "Rum\u0131niya", "sub_label": "\u015e\u0259rqi Avropa", "lineid": 218, "uuid": "fcc8c5c0-4bf7-4e9b-b5a1-a6ce726a7efe"}
+{"sub_uri": "Q80083", "obj_uri": "Q309", "obj_label": "tarix", "sub_label": "humanitar elml\u0259r", "lineid": 221, "uuid": "475d3c40-869b-436a-9ccf-34c063ac3276"}
+{"sub_uri": "Q578170", "obj_uri": "Q99", "obj_label": "Kaliforniya", "sub_label": "Kontinental AB\u015e", "lineid": 222, "uuid": "00bf028b-6e37-4b06-9323-425297131f40"}
+{"sub_uri": "Q80294", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Sell\u00fcloza", "lineid": 223, "uuid": "98e43579-5c4b-43ed-969e-1246808466bc"}
+{"sub_uri": "Q41534", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Ni\u015fasta", "lineid": 224, "uuid": "aa41968a-f6d5-417b-bdf0-278955f4be78"}
+{"sub_uri": "Q1969730", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "\u015eengen zonas\u0131", "lineid": 225, "uuid": "029181db-6c6e-43a0-82ea-2d48a5628910"}
+{"sub_uri": "Q12861", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Bar\u0131t", "lineid": 227, "uuid": "1c2222af-aabf-42f9-a222-d86fd4a06085"}
+{"sub_uri": "Q497073", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Oleum", "lineid": 229, "uuid": "631f772c-2ea0-4c8e-aaac-7d28a316c4a6"}
+{"sub_uri": "Q272198", "obj_uri": "Q11002", "obj_label": "\u015e\u0259k\u0259r", "sub_label": "Marshmallow", "lineid": 230, "uuid": "bd477870-c574-4afb-8db0-9153cf2cd9fd"}
+{"sub_uri": "Q27496", "obj_uri": "Q31", "obj_label": "Bel\u00e7ika", "sub_label": "Q\u0259rbi Avropa", "lineid": 232, "uuid": "e5b886f2-07e3-4aa6-a6e5-b84b8c53323b"}
+{"sub_uri": "Q578170", "obj_uri": "Q816", "obj_label": "Arizona", "sub_label": "Kontinental AB\u015e", "lineid": 233, "uuid": "255a544c-ac54-426a-bc70-af15f65246f0"}
+{"sub_uri": "Q190865", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Kalium permanganat", "lineid": 234, "uuid": "dca2e99f-ec28-4648-9fee-f8991737d563"}
+{"sub_uri": "Q618355", "obj_uri": "Q89", "obj_label": "Alma", "sub_label": "Alma \u015fir\u0259si", "lineid": 240, "uuid": "e981c45a-cb0e-48cb-86e4-ef053169642e"}
+{"sub_uri": "Q141293", "obj_uri": "Q8495", "obj_label": "S\u00fcd", "sub_label": "Q\u0259hr\u0259manmara\u015f dondurmas\u0131", "lineid": 241, "uuid": "e7b93a6c-ab06-48b6-9a8e-7cb9e4d89436"}
+{"sub_uri": "Q230731", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "aromatik karbohidrogenl\u0259r", "lineid": 243, "uuid": "a40067e7-6f7b-49ca-9a65-c5b18830a1e8"}
+{"sub_uri": "Q329888", "obj_uri": "Q20", "obj_label": "Norve\u00e7", "sub_label": "Antihitler koalisiyas\u0131", "lineid": 246, "uuid": "d2cab9ce-3f16-4d61-b251-dced6a2e5b8a"}
+{"sub_uri": "Q542146", "obj_uri": "Q1185", "obj_label": "Karnataka", "sub_label": "C\u0259nubi Hindistan", "lineid": 251, "uuid": "d50ec0a1-0e87-4ece-8fbe-935005fdb1c5"}
+{"sub_uri": "Q150843", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Heksadekan", "lineid": 253, "uuid": "d20e8628-33d9-4b12-890b-1010705a1bfd"}
+{"sub_uri": "Q18", "obj_uri": "Q419", "obj_label": "Peru", "sub_label": "C\u0259nubi Amerika", "lineid": 255, "uuid": "59375671-a27e-4faa-93aa-ce58851ac165"}
+{"sub_uri": "Q130223", "obj_uri": "Q726", "obj_label": "Ev at\u0131", "sub_label": "Qrifon", "lineid": 261, "uuid": "4c5b83d0-b3cd-4a76-bbca-561adf3a42d7"}
+{"sub_uri": "Q62825", "obj_uri": "Q1449", "obj_label": "Genuya", "sub_label": "D\u0259niz respublikalar\u0131", "lineid": 269, "uuid": "c9b621c1-aaad-4d60-94d9-7f407e21a6a4"}
+{"sub_uri": "Q1969730", "obj_uri": "Q31", "obj_label": "Bel\u00e7ika", "sub_label": "\u015eengen zonas\u0131", "lineid": 270, "uuid": "d2af7a53-2b28-4318-aee9-a81f4799f2d2"}
+{"sub_uri": "Q12748", "obj_uri": "Q22656", "obj_label": "neft", "sub_label": "Qal\u0131q yanacaqlar", "lineid": 271, "uuid": "bf42dce7-73a4-4fe6-8655-a9deffc57909"}
+{"sub_uri": "Q1969730", "obj_uri": "Q189", "obj_label": "\u0130slandiya", "sub_label": "\u015eengen zonas\u0131", "lineid": 275, "uuid": "1a5c621b-d560-41d8-912a-13cb2101b6be"}
+{"sub_uri": "Q18", "obj_uri": "Q298", "obj_label": "\u00c7ili", "sub_label": "C\u0259nubi Amerika", "lineid": 279, "uuid": "53ec1757-367a-49e1-967f-3d8a56ec8bd8"}
+{"sub_uri": "Q424284", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Piridazin", "lineid": 281, "uuid": "95894cdf-2d71-4268-b7a2-43ef2e384458"}
+{"sub_uri": "Q27468", "obj_uri": "Q159", "obj_label": "Rusiya", "sub_label": "\u015e\u0259rqi Avropa", "lineid": 284, "uuid": "b5473090-f172-46f7-85cf-0aafdc14e254"}
+{"sub_uri": "Q2663713", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "Avrasiya G\u00f6mr\u00fck \u0130ttifaq\u0131", "lineid": 287, "uuid": "7d0be01e-9d9c-4dc4-8157-0a9c18356b4e"}
+{"sub_uri": "Q4173083", "obj_uri": "Q159", "obj_label": "Rusiya", "sub_label": "Avrasiya \u0130qtisadi Birliyi", "lineid": 289, "uuid": "b28d5cb9-a3e4-4a2e-bdf0-af97292f38c3"}
+{"sub_uri": "Q1969730", "obj_uri": "Q36", "obj_label": "Pol\u015fa", "sub_label": "\u015eengen zonas\u0131", "lineid": 290, "uuid": "4b6f8f8b-8af4-4a61-9e13-25ce1f6d7934"}
+{"sub_uri": "Q542146", "obj_uri": "Q677037", "obj_label": "Telanqana", "sub_label": "C\u0259nubi Hindistan", "lineid": 291, "uuid": "adbfa367-3fcc-4394-84ea-8df80c648ce5"}
+{"sub_uri": "Q19771", "obj_uri": "Q668", "obj_label": "Hindistan", "sub_label": "G20", "lineid": 296, "uuid": "369b6dcd-1f75-482d-a1c9-5b1670fe5212"}
+{"sub_uri": "Q220672", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Benzotriazol", "lineid": 309, "uuid": "3b8a39be-da17-4e71-a79a-0be6d16cba04"}
+{"sub_uri": "Q39782", "obj_uri": "Q758", "obj_label": "Sink", "sub_label": "b\u00fcr\u00fcnc", "lineid": 318, "uuid": "c62cab9c-409d-4b1c-a031-640c419e0c3d"}
+{"sub_uri": "Q12837", "obj_uri": "Q29", "obj_label": "\u0130spaniya", "sub_label": "Pireney yar\u0131madas\u0131", "lineid": 319, "uuid": "1b9817f2-751f-4043-8a00-203e50843aa7"}
+{"sub_uri": "Q11427", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "polad", "lineid": 321, "uuid": "9aec55bc-8bd3-4716-8fc7-83f4d4262448"}
+{"sub_uri": "Q76904", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "A\u011f n\u00f6y\u00fcd", "lineid": 322, "uuid": "401b4f8e-719f-48db-89dd-a593ae8f968f"}
+{"sub_uri": "Q12748", "obj_uri": "Q24489", "obj_label": "Da\u015f k\u00f6m\u00fcr", "sub_label": "Qal\u0131q yanacaqlar", "lineid": 325, "uuid": "208778e5-3927-4940-a592-a440050e3a5e"}
+{"sub_uri": "Q30186", "obj_uri": "Q195", "obj_label": "\u015eokolad", "sub_label": "\u015eokoladl\u0131 tort", "lineid": 334, "uuid": "bfdcbf5b-523f-4126-986a-13dea00f57f1"}
+{"sub_uri": "Q424418", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Azot oksidl\u0259ri", "lineid": 337, "uuid": "36d6e607-606f-40f4-b04e-decd6d10662a"}
+{"sub_uri": "Q329888", "obj_uri": "Q739", "obj_label": "Kolumbiya", "sub_label": "Antihitler koalisiyas\u0131", "lineid": 345, "uuid": "b3e45263-8c1a-4811-b33d-37102403569d"}
+{"sub_uri": "Q26075", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Sianid tur\u015fusu", "lineid": 347, "uuid": "3640acf9-2d70-4eea-ae17-4989d34b94c3"}
+{"sub_uri": "Q462174", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Hidratlar", "lineid": 348, "uuid": "0f58ad9f-e5d1-40aa-a57c-daff9d7a9093"}
+{"sub_uri": "Q407473", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Etilenoksid", "lineid": 349, "uuid": "879f03d0-b4d5-406d-b4f1-eb93539ab13c"}
+{"sub_uri": "Q83320", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Nitrat tur\u015fusu", "lineid": 350, "uuid": "c5af0195-5848-48eb-b69b-65f427dd2d6a"}
+{"sub_uri": "Q81041", "obj_uri": "Q25257", "obj_label": "Atmosfer ya\u011f\u0131nt\u0131lar\u0131", "sub_label": "Su d\u00f6vran\u0131", "lineid": 353, "uuid": "cd486e7b-fd52-4ea0-bdf2-7be2f2a75034"}
+{"sub_uri": "Q181619", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Qlutamin", "lineid": 354, "uuid": "c568b442-cd1d-411d-9381-87957d5c3032"}
+{"sub_uri": "Q208172", "obj_uri": "Q36465", "obj_label": "un", "sub_label": "Baget \u00e7\u00f6r\u0259yi", "lineid": 356, "uuid": "14867c28-ae33-48a4-b7ed-ac46275d156f"}
+{"sub_uri": "Q21195", "obj_uri": "Q34", "obj_label": "\u0130sve\u00e7", "sub_label": "Skandinaviya", "lineid": 357, "uuid": "fbca090d-5a8b-4716-9d29-e7fd4b37415b"}
+{"sub_uri": "Q5401", "obj_uri": "Q48", "obj_label": "Asiya", "sub_label": "Avrasiya", "lineid": 362, "uuid": "351fd108-0bac-4b4e-b46c-562b5672fa3e"}
+{"sub_uri": "Q424418", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Azot oksidl\u0259ri", "lineid": 363, "uuid": "b7b05643-5f15-47ca-87e9-b518532a1043"}
+{"sub_uri": "Q132501", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Qliserin", "lineid": 369, "uuid": "705d32b2-7bae-4deb-8768-db2adacad5ad"}
+{"sub_uri": "Q83203", "obj_uri": "Q726", "obj_label": "Ev at\u0131", "sub_label": "Kentavrlar", "lineid": 370, "uuid": "f93596e4-ab68-49b1-b002-c8914662b195"}
+{"sub_uri": "Q210385", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Piridin", "lineid": 373, "uuid": "8992c320-696d-4922-982b-2f50680af7f6"}
+{"sub_uri": "Q1969730", "obj_uri": "Q211", "obj_label": "Latviya", "sub_label": "\u015eengen zonas\u0131", "lineid": 378, "uuid": "923cbedd-27f3-439b-93e0-6947d4e42398"}
+{"sub_uri": "Q407891", "obj_uri": "Q658", "obj_label": "Natrium", "sub_label": "Natrium bisulfit", "lineid": 381, "uuid": "25f172d3-1237-4708-ab90-d16ff5247633"}
+{"sub_uri": "Q329888", "obj_uri": "Q16", "obj_label": "Kanada", "sub_label": "Antihitler koalisiyas\u0131", "lineid": 387, "uuid": "4dd92109-5eaa-4ac7-b4a0-a0420a99a152"}
+{"sub_uri": "Q2200417", "obj_uri": "Q6501338", "obj_label": "Diqq\u0259t", "sub_label": "koqnitivlik", "lineid": 390, "uuid": "d4c29099-e87c-4cb3-89be-ecfc3a2e1d81"}
+{"sub_uri": "Q328692", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "\u0130midazol", "lineid": 394, "uuid": "0d32878c-d48e-4d74-8af8-782eb5bbc5d5"}
+{"sub_uri": "Q328121", "obj_uri": "Q1490", "obj_label": "Tokio", "sub_label": "B\u00f6y\u00fck Tokio", "lineid": 396, "uuid": "6bb60d63-7fe3-48ab-a429-dc0212fdc3f9"}
+{"sub_uri": "Q410234", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Piperidin", "lineid": 402, "uuid": "ac1dc142-656b-41c1-afe1-835da0ea6364"}
+{"sub_uri": "Q4173083", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "Avrasiya \u0130qtisadi Birliyi", "lineid": 406, "uuid": "b2e92781-ce0b-4d54-8c34-ee5b9a3b41cd"}
+{"sub_uri": "Q9595", "obj_uri": "Q11378", "obj_label": "\u015eiva", "sub_label": "Trimurti", "lineid": 407, "uuid": "39c73e75-4870-458e-81ae-d982c6b0ddab"}
+{"sub_uri": "Q26075", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Sianid tur\u015fusu", "lineid": 411, "uuid": "f63c2b52-d53f-4fef-b349-69e3b6a575dd"}
+{"sub_uri": "Q182849", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Kalsium hidroksid", "lineid": 413, "uuid": "07b84291-92aa-4ea2-91d0-8f9e300af20a"}
+{"sub_uri": "Q19557", "obj_uri": "Q703", "obj_label": "Kalium", "sub_label": "Q\u0259l\u0259vi metallar", "lineid": 416, "uuid": "cbc7b692-582b-4ce2-be47-7532cfc8a78c"}
+{"sub_uri": "Q60235", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Kofein", "lineid": 418, "uuid": "92b17a77-6492-460d-b33b-2fd255d57f3a"}
+{"sub_uri": "Q5282", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "k\u00fck\u00fcrd qaz\u0131ndan t\u0259mizl\u0259nm\u0259 \u00fcsullar\u0131", "lineid": 419, "uuid": "589125c3-487f-437a-931e-3ee72a0f880b"}
+{"sub_uri": "Q2920963", "obj_uri": "Q11004", "obj_label": "t\u0259r\u0259v\u0259z", "sub_label": "sulu yem\u0259k", "lineid": 425, "uuid": "8dec5e41-1bdb-439c-a86a-d6b48acb7b5e"}
+{"sub_uri": "Q243992", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Furan", "lineid": 428, "uuid": "a5e52db0-796a-44cf-a1e5-b43bb4fb8c5b"}
+{"sub_uri": "Q988343", "obj_uri": "Q9655", "obj_label": "arteriyalar", "sub_label": "Qan damarlar\u0131", "lineid": 429, "uuid": "a62e7c3f-7361-4e4c-97cf-2ab4d9bff946"}
+{"sub_uri": "Q70612", "obj_uri": "Q11002", "obj_label": "\u015e\u0259k\u0259r", "sub_label": "Qranita", "lineid": 430, "uuid": "65dda557-5672-481b-82e4-cd695419a5ee"}
+{"sub_uri": "Q242715", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Sulfat anhidridi", "lineid": 432, "uuid": "993f8172-410d-4c3a-8d67-5bc566cdb033"}
+{"sub_uri": "Q544", "obj_uri": "Q2", "obj_label": "Yer", "sub_label": "G\u00fcn\u0259\u015f sistemi", "lineid": 442, "uuid": "61217192-44c3-47e0-a0cb-6cde4741654d"}
+{"sub_uri": "Q80294", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Sell\u00fcloza", "lineid": 444, "uuid": "f4d49a1d-86eb-4430-b85c-5868f1133555"}
+{"sub_uri": "Q151324", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Propilen", "lineid": 447, "uuid": "e2d1b55f-a7a1-4fa2-8cd1-2db1d8976ec5"}
+{"sub_uri": "Q34990", "obj_uri": "Q9190", "obj_label": "Rusiya Premyer Liqas\u0131n\u0131n bombardirl\u0259r siyah\u0131s\u0131", "sub_label": "T\u00f6vrat", "lineid": 448, "uuid": "4adf56e7-b0e5-47e2-a6df-e84be99329ad"}
+{"sub_uri": "Q150731", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Undekan", "lineid": 453, "uuid": "d8b57229-1b2f-4260-9f92-47f5f885b256"}
+{"sub_uri": "Q41576", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Kokain", "lineid": 457, "uuid": "f944e781-91ad-4520-be58-60549cd47234"}
+{"sub_uri": "Q153", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Etanol", "lineid": 459, "uuid": "e9498971-4f09-49ad-a492-684a6e1f0ba1"}
+{"sub_uri": "Q409292", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Piperazin", "lineid": 461, "uuid": "3f26a044-baaa-4ae2-836a-68fd7d67639c"}
+{"sub_uri": "Q422785", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "K\u00fck\u00fcrdl\u00fc \u00fczvi birl\u0259\u015fm\u0259l\u0259r", "lineid": 462, "uuid": "af3fb02f-5ece-4f4c-ac1e-53e7f5a0a689"}
+{"sub_uri": "Q5282", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "k\u00fck\u00fcrd qaz\u0131ndan t\u0259mizl\u0259nm\u0259 \u00fcsullar\u0131", "lineid": 464, "uuid": "fb266ead-20ca-4fdf-afcf-68e99ad2f906"}
+{"sub_uri": "Q714179", "obj_uri": "Q195", "obj_label": "\u015eokolad", "sub_label": "Snickers", "lineid": 466, "uuid": "28d72049-c69d-4223-8670-bde3117f3be3"}
+{"sub_uri": "Q1414887", "obj_uri": "Q178024", "obj_label": "X\u0259mir", "sub_label": "Lahmacun", "lineid": 467, "uuid": "ed0f0b5a-e276-4712-8c70-1e703b95c21e"}
+{"sub_uri": "Q196680", "obj_uri": "Q677", "obj_label": "D\u0259mir", "sub_label": "D\u0259mir (II) oksid", "lineid": 476, "uuid": "12632a1f-5bae-46bb-9f54-3892e5814bc2"}
+{"sub_uri": "Q59134", "obj_uri": "Q5090", "obj_label": "D\u00fcy\u00fc", "sub_label": "Firni", "lineid": 480, "uuid": "9f87338d-a4be-406d-a279-3bcaa815dc19"}
+{"sub_uri": "Q27231", "obj_uri": "Q14773", "obj_label": "Makao", "sub_label": "\u015e\u0259rqi Asiya", "lineid": 482, "uuid": "c7fe26d7-08fb-4a91-a901-1398e951c66e"}
+{"sub_uri": "Q155890", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "A\u011f\u0131r su", "lineid": 488, "uuid": "7d39ff3d-08d2-47d0-97b4-2326ebcfaf3c"}
+{"sub_uri": "Q134219", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Heteropolisaxaridl\u0259r", "lineid": 493, "uuid": "272e68b5-e5d9-4777-9d7f-383f2e1e537b"}
+{"sub_uri": "Q544", "obj_uri": "Q405", "obj_label": "Ay", "sub_label": "G\u00fcn\u0259\u015f sistemi", "lineid": 495, "uuid": "d11d2810-2049-43df-a787-4fd3df590714"}
+{"sub_uri": "Q179724", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Naftalin", "lineid": 496, "uuid": "f1936093-630e-4b2e-870c-9625aacd8790"}
+{"sub_uri": "Q27496", "obj_uri": "Q39", "obj_label": "\u0130sve\u00e7r\u0259", "sub_label": "Q\u0259rbi Avropa", "lineid": 511, "uuid": "5a978a12-8baf-41b4-a925-147b1de57a20"}
+{"sub_uri": "Q4783300", "obj_uri": "Q11004", "obj_label": "t\u0259r\u0259v\u0259z", "sub_label": "\u018fr\u0259b salat\u0131", "lineid": 514, "uuid": "8ff6a75d-51fe-4d9b-86e1-56883ba45425"}
+{"sub_uri": "Q578170", "obj_uri": "Q1558", "obj_label": "Kanzas", "sub_label": "Kontinental AB\u015e", "lineid": 516, "uuid": "2ef2cfe4-b406-4853-9949-1e192c927d41"}
+{"sub_uri": "Q27381", "obj_uri": "Q1049", "obj_label": "Sudan", "sub_label": "\u0634\u0645\u0627\u0644\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627", "lineid": 517, "uuid": "f5732c9d-cd42-4f4c-9fc8-0c6ff012a781"}
+{"sub_uri": "Q185006", "obj_uri": "Q706", "obj_label": "Kalsium", "sub_label": "Kalsium-oksid", "lineid": 519, "uuid": "aab194f2-a5b8-42e4-b628-a4911fff6225"}
+{"sub_uri": "Q170167", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Trinitrotoluol", "lineid": 520, "uuid": "e627bc74-ed6a-4f9e-85b6-430c3b705e6c"}
+{"sub_uri": "Q185749", "obj_uri": "Q8495", "obj_label": "S\u00fcd", "sub_label": "Kefir", "lineid": 522, "uuid": "e00ab460-9559-4f62-88a9-71a11bf0ce50"}
+{"sub_uri": "Q411436", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Qur\u011fu\u015fun(II) sulfid", "lineid": 523, "uuid": "c177ebde-9081-4bcb-97dc-e9511ee30295"}
+{"sub_uri": "Q47512", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Sirk\u0259 tur\u015fusu", "lineid": 529, "uuid": "dd8645b6-1170-4bc7-85de-d9c8415c9a09"}
+{"sub_uri": "Q192639", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Ql\u00fckozit", "lineid": 538, "uuid": "cd740b6b-e838-45ef-a5f8-e265033f5ee4"}
+{"sub_uri": "Q2234483", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Dioksolan", "lineid": 542, "uuid": "5014b8d3-bfa5-488f-bf85-bcfb449eeb86"}
+{"sub_uri": "Q15277", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Adenin", "lineid": 545, "uuid": "4aa91547-e030-4765-9e47-e9f32571e7e1"}
+{"sub_uri": "Q578170", "obj_uri": "Q173", "obj_label": "Alabama", "sub_label": "Kontinental AB\u015e", "lineid": 546, "uuid": "f3de7393-7c6b-4495-9ef9-f189943afa8e"}
+{"sub_uri": "Q318693", "obj_uri": "Q399", "obj_label": "Erm\u0259nistan", "sub_label": "Kollektiv T\u0259hl\u00fck\u0259sizlik M\u00fcqavil\u0259si T\u0259\u015fkilat\u0131", "lineid": 547, "uuid": "f718b63d-1b6a-401e-acbd-b61a2d9cfe7a"}
+{"sub_uri": "Q2663713", "obj_uri": "Q232", "obj_label": "Qazax\u0131stan", "sub_label": "Avrasiya G\u00f6mr\u00fck \u0130ttifaq\u0131", "lineid": 549, "uuid": "f05dbe65-0203-4e3f-9137-07841b997d4c"}
+{"sub_uri": "Q410243", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Morfolin", "lineid": 551, "uuid": "3ec0ecad-e429-446c-8a2a-122e4b3d8077"}
+{"sub_uri": "Q1969730", "obj_uri": "Q45", "obj_label": "Portuqaliya", "sub_label": "\u015eengen zonas\u0131", "lineid": 554, "uuid": "e03cf7b8-455a-4813-a243-2e1cc06eeabe"}
+{"sub_uri": "Q3707847", "obj_uri": "Q326653", "obj_label": "m\u00fchasib", "sub_label": "M\u00fchasibat", "lineid": 555, "uuid": "3a03bb2d-985d-416c-91e8-31f7f317e59f"}
+{"sub_uri": "Q27381", "obj_uri": "Q79", "obj_label": "Misir", "sub_label": "\u0634\u0645\u0627\u0644\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627", "lineid": 566, "uuid": "754bb5ed-b9f2-4d9c-b36b-86037f991616"}
+{"sub_uri": "Q411309", "obj_uri": "Q703", "obj_label": "Kalium", "sub_label": "Kalium z\u0259yi", "lineid": 567, "uuid": "e0292afd-57fa-4396-b267-d7232be97ea6"}
+{"sub_uri": "Q152834", "obj_uri": "Q1364", "obj_label": "Meyv\u0259", "sub_label": "Meyv\u0259li salat", "lineid": 569, "uuid": "60804268-c0af-479b-b6d1-8e097689bb34"}
+{"sub_uri": "Q544", "obj_uri": "Q313", "obj_label": "Venera", "sub_label": "G\u00fcn\u0259\u015f sistemi", "lineid": 575, "uuid": "5a8b472d-6195-41c7-840c-8f528553ebb7"}
+{"sub_uri": "Q49546", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Aseton", "lineid": 576, "uuid": "6f5daa7a-0fcf-4fbc-94df-da40c69ce32b"}
+{"sub_uri": "Q1969730", "obj_uri": "Q32", "obj_label": "L\u00fcksemburq", "sub_label": "\u015eengen zonas\u0131", "lineid": 577, "uuid": "e86085dd-94bd-46e8-a29e-d2e41274f4e5"}
+{"sub_uri": "Q305364", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Tiofen", "lineid": 579, "uuid": "6144a43a-c771-4d50-bb60-67f21818566f"}
+{"sub_uri": "Q578170", "obj_uri": "Q1397", "obj_label": "Ohayo", "sub_label": "Kontinental AB\u015e", "lineid": 580, "uuid": "e04055f7-0e90-4708-80e7-097fbb470d86"}
+{"sub_uri": "Q578170", "obj_uri": "Q1527", "obj_label": "Minnesota", "sub_label": "Kontinental AB\u015e", "lineid": 581, "uuid": "a96879ed-24c2-4e80-b4e7-641fa150b589"}
+{"sub_uri": "Q218642", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Alanin", "lineid": 584, "uuid": "99139a6c-005d-4d7d-8150-5064bf7cc5cb"}
+{"sub_uri": "Q34749", "obj_uri": "Q9418", "obj_label": "psixologiya", "sub_label": "ictimai elml\u0259r", "lineid": 587, "uuid": "9ff74e3b-2a7e-49e2-b42c-5799d224e358"}
+{"sub_uri": "Q1318776", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Testosteron", "lineid": 588, "uuid": "93191d9d-a808-4557-966e-294f313f9b37"}
+{"sub_uri": "Q338869", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Vinilxlorid", "lineid": 589, "uuid": "c64799b2-401c-44d8-b6da-956176011270"}
+{"sub_uri": "Q27468", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "\u015e\u0259rqi Avropa", "lineid": 592, "uuid": "1b4d1504-3220-4a81-ae7b-7e9463652feb"}
+{"sub_uri": "Q37726", "obj_uri": "Q64418", "obj_label": "Artilleriya", "sub_label": "Quru qo\u015funlar\u0131", "lineid": 604, "uuid": "a773bdba-313e-440f-98a5-0e03bd80e4c7"}
+{"sub_uri": "Q7802", "obj_uri": "Q36465", "obj_label": "un", "sub_label": "\u00e7\u00f6r\u0259k", "lineid": 607, "uuid": "e1a17aec-2a8b-4484-a499-47a2f803b1de"}
+{"sub_uri": "Q186817", "obj_uri": "Q12117", "obj_label": "D\u0259nli bitkil\u0259r", "sub_label": "S\u0131y\u0131q", "lineid": 609, "uuid": "6e176536-6aec-4ef0-a3ea-626580ea700f"}
+{"sub_uri": "Q104934", "obj_uri": "Q11412", "obj_label": "Cazib\u0259 q\u00fcvv\u0259si", "sub_label": "Fundamental qar\u015f\u0131l\u0131ql\u0131 t\u0259sirl\u0259r", "lineid": 612, "uuid": "79da9d27-0cfd-4229-afe5-1ba1f39b94b2"}
+{"sub_uri": "Q39731", "obj_uri": "Q33", "obj_label": "Finlandiya", "sub_label": "Baltikyan\u0131 \u00f6lk\u0259l\u0259r", "lineid": 615, "uuid": "25f07a6f-6e85-484a-9a67-5e27123705fe"}
+{"sub_uri": "Q1997", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Karbon qaz\u0131", "lineid": 616, "uuid": "9488f14f-7c2b-4b1d-9152-e0091ffdf5be"}
+{"sub_uri": "Q411309", "obj_uri": "Q663", "obj_label": "Al\u00fcminium", "sub_label": "Kalium z\u0259yi", "lineid": 617, "uuid": "8bcfb13a-ad66-4203-98f2-8a80c4c3defb"}
+{"sub_uri": "Q171877", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Hidrogen peroksid", "lineid": 618, "uuid": "b72c0352-b2b2-407f-b494-f19dea96631c"}
+{"sub_uri": "Q1969730", "obj_uri": "Q28", "obj_label": "Macar\u0131stan", "sub_label": "\u015eengen zonas\u0131", "lineid": 619, "uuid": "f8b60ee3-0911-4f08-addc-be785d10ba33"}
+{"sub_uri": "Q47273", "obj_uri": "Q1073", "obj_label": "Beyin", "sub_label": "M\u0259rk\u0259zi sinir sistemi", "lineid": 620, "uuid": "6626e8a8-9fbb-4734-bd0c-d1a5ec2d31b5"}
+{"sub_uri": "Q190016", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Heparin", "lineid": 621, "uuid": "059ef155-91c7-4b4e-82cf-9f6d89ebb9a3"}
+{"sub_uri": "Q80083", "obj_uri": "Q34178", "obj_label": "teologiya", "sub_label": "humanitar elml\u0259r", "lineid": 622, "uuid": "d36cc31e-2bfa-4647-83fb-3a1f3b237c62"}
+{"sub_uri": "Q1189467", "obj_uri": "Q1397", "obj_label": "Ohayo", "sub_label": "\u015e\u0259rq \u015eimali M\u0259rk\u0259z \u015ftatlar\u0131", "lineid": 626, "uuid": "d2782b73-bbd9-4398-931e-fc1cf56c34dd"}
+{"sub_uri": "Q578170", "obj_uri": "Q1261", "obj_label": "Kolorado", "sub_label": "Kontinental AB\u015e", "lineid": 630, "uuid": "c56ab060-3ead-4c5c-948c-8900b266742c"}
+{"sub_uri": "Q2001841", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Formiatlar", "lineid": 631, "uuid": "2eb62bbf-9d68-43b4-b4e4-b1f195114a22"}
+{"sub_uri": "Q19771", "obj_uri": "Q252", "obj_label": "\u0130ndoneziya", "sub_label": "G20", "lineid": 632, "uuid": "872962f5-0473-4ea2-81d1-0ec9b2c9b467"}
+{"sub_uri": "Q3668413", "obj_uri": "Q36465", "obj_label": "un", "sub_label": "\u018fri\u015ft\u0259", "lineid": 636, "uuid": "666555d0-0e70-4b6d-9a28-7115657e67bd"}
+{"sub_uri": "Q35056", "obj_uri": "Q178024", "obj_label": "X\u0259mir", "sub_label": "Resept:Xvorost", "lineid": 637, "uuid": "9cd3f8c3-065d-43b8-833c-81f5ca5e60c7"}
+{"sub_uri": "Q39782", "obj_uri": "Q753", "obj_label": "mis", "sub_label": "b\u00fcr\u00fcnc", "lineid": 638, "uuid": "b43884e0-cbe2-4334-920e-fcae8207f95a"}
+{"sub_uri": "Q288266", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Ac\u0131 duz", "lineid": 641, "uuid": "b74be417-31f7-4eeb-993b-4ec10fd7c6f9"}
+{"sub_uri": "Q4831844", "obj_uri": "Q10990", "obj_label": "\u018ft", "sub_label": "Tefteli", "lineid": 642, "uuid": "6ef1f74e-b9ed-4ec1-b94d-da97633d5ec1"}
+{"sub_uri": "Q49", "obj_uri": "Q664609", "obj_label": "Karib h\u00f6vz\u0259si", "sub_label": "\u015eimali Amerika", "lineid": 643, "uuid": "e8ec1e6c-77e0-4abd-adc8-dd3e0d90a002"}
+{"sub_uri": "Q288266", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Ac\u0131 duz", "lineid": 646, "uuid": "311c8522-6a65-4737-9cf5-cdc8e255823c"}
+{"sub_uri": "Q185583", "obj_uri": "Q11002", "obj_label": "\u015e\u0259k\u0259r", "sub_label": "Konfet", "lineid": 648, "uuid": "05108cb5-15f5-4ac0-85c3-c021effc8da5"}
+{"sub_uri": "Q578170", "obj_uri": "Q1214", "obj_label": "Vayominq", "sub_label": "Kontinental AB\u015e", "lineid": 650, "uuid": "a0a0beb3-d2a0-4ae5-bf1a-fb71e540019b"}
+{"sub_uri": "Q185006", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Kalsium-oksid", "lineid": 652, "uuid": "224c0dc8-dc99-429f-8333-e018665fbfd5"}
+{"sub_uri": "Q318693", "obj_uri": "Q159", "obj_label": "Rusiya", "sub_label": "Kollektiv T\u0259hl\u00fck\u0259sizlik M\u00fcqavil\u0259si T\u0259\u015fkilat\u0131", "lineid": 653, "uuid": "1925adb6-56a2-48da-8f8f-474742bd0731"}
+{"sub_uri": "Q271555", "obj_uri": "Q5090", "obj_label": "D\u00fcy\u00fc", "sub_label": "Biryani", "lineid": 654, "uuid": "f999b60d-97d1-48a8-981b-b96a7eb7fae8"}
+{"sub_uri": "Q635999", "obj_uri": "Q1364", "obj_label": "Meyv\u0259", "sub_label": "komposta", "lineid": 655, "uuid": "38f88ec3-adf6-43c4-b475-c4a4ea66d9f8"}
+{"sub_uri": "Q173670", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Arginin", "lineid": 658, "uuid": "b657963d-8c1a-4c61-8b6d-89dd368a5eb9"}
+{"sub_uri": "Q150440", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Heksan", "lineid": 660, "uuid": "4a1021d5-6352-479e-a64d-a13971f24ab8"}
+{"sub_uri": "Q27381", "obj_uri": "Q948", "obj_label": "Tunis", "sub_label": "\u0634\u0645\u0627\u0644\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627", "lineid": 661, "uuid": "e11f3ce5-ccc8-494f-ae89-d441b998a3fa"}
+{"sub_uri": "Q7212330", "obj_uri": "Q1566", "obj_label": "T\u00fct\u00fcn", "sub_label": "T\u00fct\u00fcn\u00e7\u0259km\u0259", "lineid": 662, "uuid": "3e16e737-eabc-4be7-bc48-0021c2b36508"}
+{"sub_uri": "Q153", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Etanol", "lineid": 665, "uuid": "01fdccee-4484-4cb9-9803-a0e3362c57f9"}
+{"sub_uri": "Q2409", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Xlorid tur\u015fusu", "lineid": 667, "uuid": "6aac2407-e5f5-4393-9902-dc6f31bd9fe0"}
+{"sub_uri": "Q2025", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Qaz\u0131n n\u00f6vl\u0259ri", "lineid": 669, "uuid": "2e430bb3-0299-4920-b4c2-98845078731b"}
+{"sub_uri": "Q27449", "obj_uri": "Q236", "obj_label": "Monteneqro", "sub_label": "C\u0259nubi Avropa", "lineid": 670, "uuid": "844c4da2-ce1f-4045-9d0f-59605eab4aa4"}
+{"sub_uri": "Q578170", "obj_uri": "Q1393", "obj_label": "Delaver", "sub_label": "Kontinental AB\u015e", "lineid": 671, "uuid": "7b4c7473-ce2f-4533-86ee-de0df238a16f"}
+{"sub_uri": "Q483269", "obj_uri": "Q677", "obj_label": "D\u0259mir", "sub_label": "\u00c7uqun", "lineid": 673, "uuid": "99f545fc-135a-4872-81fd-00a385f396a6"}
+{"sub_uri": "Q151993", "obj_uri": "Q1295", "obj_label": "Dortmund", "sub_label": "Rur b\u00f6lg\u0259si", "lineid": 675, "uuid": "9da0a072-f4e0-42cf-84e1-4602246f57fa"}
+{"sub_uri": "Q1969730", "obj_uri": "Q37", "obj_label": "Litva", "sub_label": "\u015eengen zonas\u0131", "lineid": 676, "uuid": "50048519-897e-4955-a2ad-001afd272d7e"}
+{"sub_uri": "Q578170", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Kontinental AB\u015e", "lineid": 677, "uuid": "3f70c66a-422c-4525-9e08-b8abf043f7c9"}
+{"sub_uri": "Q27433", "obj_uri": "Q1037", "obj_label": "Ruanda", "sub_label": "M\u0259rk\u0259zi Afrika", "lineid": 679, "uuid": "7403413d-7f37-4c72-8291-96e5d6e9efc4"}
+{"sub_uri": "Q544", "obj_uri": "Q319", "obj_label": "Yupiter", "sub_label": "G\u00fcn\u0259\u015f sistemi", "lineid": 681, "uuid": "6139ebd7-8ec0-4af5-af5a-94adcfb611b6"}
+{"sub_uri": "Q207220", "obj_uri": "Q36465", "obj_label": "un", "sub_label": "Maffin", "lineid": 686, "uuid": "0e94ede2-5491-4b6e-b572-3d5adf12b1df"}
+{"sub_uri": "Q27468", "obj_uri": "Q212", "obj_label": "Ukrayna", "sub_label": "\u015e\u0259rqi Avropa", "lineid": 688, "uuid": "612a4355-2e26-46f3-8e2d-fea9686448fa"}
+{"sub_uri": "Q32485", "obj_uri": "Q12100", "obj_label": "Q\u0131l\u0131ncoynatma", "sub_label": "M\u00fcasir be\u015fn\u00f6v\u00e7\u00fcl\u00fck", "lineid": 692, "uuid": "ea6e9342-5d63-4b2e-aa05-9833b2730792"}
+{"sub_uri": "Q80083", "obj_uri": "Q8162", "obj_label": "dil\u00e7ilik", "sub_label": "humanitar elml\u0259r", "lineid": 695, "uuid": "ef01eada-62e3-4745-803d-0592b654e6b8"}
+{"sub_uri": "Q60168", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Heroin", "lineid": 704, "uuid": "1b0b67a5-901f-4cde-85df-5d8aa8662dfb"}
+{"sub_uri": "Q83367", "obj_uri": "Q34990", "obj_label": "T\u00f6vrat", "sub_label": "Tanax", "lineid": 706, "uuid": "34cd32ab-c20b-4f24-a448-87bcf857f80e"}
+{"sub_uri": "Q338965", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Tiofenol", "lineid": 707, "uuid": "19c31517-9f2e-4962-8208-6f400a6fc8b6"}
+{"sub_uri": "Q52062", "obj_uri": "Q33", "obj_label": "Finlandiya", "sub_label": "Skandinav \u00f6lk\u0259l\u0259ri", "lineid": 708, "uuid": "336a15c5-84bc-45e7-beaa-f9d4964001b3"}
+{"sub_uri": "Q425094", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Fl\u00fcorkarbon v\u0259 xlorfl\u00fcorkarbon ya\u011flar\u0131", "lineid": 711, "uuid": "3c73a226-46a1-44cf-989a-1122247b1e70"}
+{"sub_uri": "Q27496", "obj_uri": "Q40", "obj_label": "Avstriya", "sub_label": "Q\u0259rbi Avropa", "lineid": 712, "uuid": "4a0e09ce-2070-4199-ad1c-d946414c516d"}
+{"sub_uri": "Q23444", "obj_uri": "Q3142", "obj_label": "q\u0131rm\u0131z\u0131", "sub_label": "a\u011f", "lineid": 714, "uuid": "1b86f959-08a1-46f1-b82c-c0630f3a6645"}
+{"sub_uri": "Q207338", "obj_uri": "Q80284", "obj_label": "alt", "sub_label": "simli kvartet", "lineid": 719, "uuid": "f3cb0844-e553-4ff5-8ef9-78282161f739"}
+{"sub_uri": "Q2025", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Qaz\u0131n n\u00f6vl\u0259ri", "lineid": 720, "uuid": "4520116f-dae1-4df3-8378-555530958f32"}
+{"sub_uri": "Q61457", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Asetaldehid", "lineid": 722, "uuid": "e5ed1c0d-242f-4fd3-9d84-c027aa149fe6"}
+{"sub_uri": "Q83222", "obj_uri": "Q45805", "obj_label": "Yura d\u00f6vr\u00fc", "sub_label": "Mezozoy", "lineid": 734, "uuid": "b57be1da-66b0-4ea3-9620-3cefa6714313"}
+{"sub_uri": "Q2234483", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Dioksolan", "lineid": 739, "uuid": "5aa539a1-e387-4dbd-ae28-62011e961fbe"}
+{"sub_uri": "Q42918", "obj_uri": "Q7430", "obj_label": "dezoksiribonuklein tur\u015fusu", "sub_label": "Mutasiya", "lineid": 742, "uuid": "a621c1ba-6988-4987-836c-e0469f891bac"}
+{"sub_uri": "Q171973", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Timin", "lineid": 743, "uuid": "4cc23e2a-a4a7-477d-8f9f-046d48cf29f9"}
+{"sub_uri": "Q153", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Etanol", "lineid": 748, "uuid": "d4fd7328-c776-4263-a413-467fd5470949"}
+{"sub_uri": "Q18", "obj_uri": "Q717", "obj_label": "Venesuela", "sub_label": "C\u0259nubi Amerika", "lineid": 749, "uuid": "7ee0f953-9786-417f-84a8-8ae1db781a5f"}
+{"sub_uri": "Q27381", "obj_uri": "Q262", "obj_label": "\u018flc\u0259zair", "sub_label": "\u0634\u0645\u0627\u0644\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627", "lineid": 751, "uuid": "0dc551df-dca2-4f17-af7d-40ea34ff77e3"}
+{"sub_uri": "Q3960", "obj_uri": "Q83067", "obj_label": "Timor", "sub_label": "Avstraliya", "lineid": 754, "uuid": "f14a9254-1a6f-454c-8c9b-735c1c099e5e"}
+{"sub_uri": "Q189294", "obj_uri": "Q663", "obj_label": "Al\u00fcminium", "sub_label": "D\u00f6vri sistemin 13-c\u00fc qrupu", "lineid": 755, "uuid": "1c47f03e-99fa-42d8-b1df-9a3d47037e70"}
+{"sub_uri": "Q282", "obj_uri": "Q10978", "obj_label": "\u00dcz\u00fcm", "sub_label": "\u015e\u0259rab", "lineid": 769, "uuid": "b1ccdc9f-c981-44eb-83ae-23267de7a090"}
+{"sub_uri": "Q178450", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Asparagin tur\u015fusu", "lineid": 777, "uuid": "04e9c9b7-e330-461c-9c19-6e275cbfd4fb"}
+{"sub_uri": "Q578170", "obj_uri": "Q1212", "obj_label": "Montana", "sub_label": "Kontinental AB\u015e", "lineid": 778, "uuid": "452d8f26-340a-4cc3-b0b1-3e376f67342c"}
+{"sub_uri": "Q412377", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Malein anhidridi", "lineid": 780, "uuid": "c0679505-6781-4ac0-9fb5-f7e83d4aacd1"}
+{"sub_uri": "Q11369", "obj_uri": "Q9121", "obj_label": "Atom", "sub_label": "Molekul", "lineid": 781, "uuid": "99238fa1-f675-484f-8243-bddd07c57f48"}
+{"sub_uri": "Q80083", "obj_uri": "Q315", "obj_label": "Dil", "sub_label": "humanitar elml\u0259r", "lineid": 782, "uuid": "d4433b9d-29fc-402d-b76a-4d778b724bb8"}
+{"sub_uri": "Q71969", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Urotropin", "lineid": 783, "uuid": "aa2fdf93-259b-4ec0-abd7-49f9e510103e"}
+{"sub_uri": "Q177", "obj_uri": "Q10943", "obj_label": "Pendir", "sub_label": "pitsa", "lineid": 788, "uuid": "291aae90-4eab-4275-85f0-e931918fb8b5"}
+{"sub_uri": "Q207338", "obj_uri": "Q8355", "obj_label": "skripka", "sub_label": "simli kvartet", "lineid": 791, "uuid": "071b41c6-a734-4b25-bca7-1213562b5476"}
+{"sub_uri": "Q578170", "obj_uri": "Q771", "obj_label": "Massa\u00e7usets", "sub_label": "Kontinental AB\u015e", "lineid": 797, "uuid": "76dec1d2-a67f-425c-8716-9cbdf0034b23"}
+{"sub_uri": "Q578170", "obj_uri": "Q1227", "obj_label": "Nevada", "sub_label": "Kontinental AB\u015e", "lineid": 800, "uuid": "3decbeed-da50-4c4a-bb03-4fc4843eada9"}
+{"sub_uri": "Q1242466", "obj_uri": "Q195", "obj_label": "\u015eokolad", "sub_label": "Qana\u015f", "lineid": 802, "uuid": "7bfdef86-21f3-4c23-bca7-97265976962c"}
+{"sub_uri": "Q80250", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Tsiklopropan", "lineid": 803, "uuid": "ccc19950-646f-48e2-b480-7238710edf35"}
+{"sub_uri": "Q27449", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "C\u0259nubi Avropa", "lineid": 810, "uuid": "f958432f-b029-41af-ae08-08deaa83a438"}
+{"sub_uri": "Q578170", "obj_uri": "Q812", "obj_label": "Florida", "sub_label": "Kontinental AB\u015e", "lineid": 811, "uuid": "cddec5ed-e52e-49ac-add5-c4f8d69fe09d"}
+{"sub_uri": "Q27468", "obj_uri": "Q214", "obj_label": "Slovakiya", "sub_label": "\u015e\u0259rqi Avropa", "lineid": 812, "uuid": "02c80011-7cea-4d38-a816-2c510dab7ae1"}
+{"sub_uri": "Q15277", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Adenin", "lineid": 813, "uuid": "518ee54d-508e-47e3-bff5-26baf4d9260d"}
+{"sub_uri": "Q1969730", "obj_uri": "Q55", "obj_label": "Niderland", "sub_label": "\u015eengen zonas\u0131", "lineid": 821, "uuid": "5e582fba-d355-4833-86da-e10f98a50bbd"}
+{"sub_uri": "Q1969730", "obj_uri": "Q29", "obj_label": "\u0130spaniya", "sub_label": "\u015eengen zonas\u0131", "lineid": 825, "uuid": "9eb190ef-e2ea-481e-aaa1-e79e4361095d"}
+{"sub_uri": "Q80232", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Tsiklobutan", "lineid": 829, "uuid": "4354e850-51f0-4d2a-a2db-66337113a017"}
+{"sub_uri": "Q7172", "obj_uri": "Q822", "obj_label": "Livan", "sub_label": "\u018fr\u0259b D\u00f6vl\u0259tl\u0259ri Liqas\u0131", "lineid": 831, "uuid": "b8e03981-437b-4ed3-a014-c3d65e4284e8"}
+{"sub_uri": "Q171877", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Hidrogen peroksid", "lineid": 836, "uuid": "7ecee149-559d-4998-bd22-e11525444601"}
+{"sub_uri": "Q83320", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Nitrat tur\u015fusu", "lineid": 837, "uuid": "76ab939c-f66a-4bda-bd5d-9392db878c1a"}
+{"sub_uri": "Q159683", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Limon tur\u015fusu", "lineid": 840, "uuid": "f2933c2f-43dc-4b22-9773-30ea8a98cec5"}
+{"sub_uri": "Q37525", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Ql\u00fckoza", "lineid": 841, "uuid": "eae3713c-3010-46a6-b844-978df7b5a5d5"}
+{"sub_uri": "Q27496", "obj_uri": "Q235", "obj_label": "Monako", "sub_label": "Q\u0259rbi Avropa", "lineid": 848, "uuid": "44eda2ba-aa52-4029-8ef9-5c3574c8c823"}
+{"sub_uri": "Q1969730", "obj_uri": "Q34", "obj_label": "\u0130sve\u00e7", "sub_label": "\u015eengen zonas\u0131", "lineid": 855, "uuid": "d021b52a-2686-4551-a1fd-c52b68ec2d6e"}
+{"sub_uri": "Q104334", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Karbonat tur\u015fusu", "lineid": 858, "uuid": "49463322-5dc2-42ea-a674-18e2bc9bd3f6"}
+{"sub_uri": "Q161233", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Qar\u0131\u015fqa tur\u015fusu", "lineid": 865, "uuid": "60d0221c-5604-4d41-8c2c-49e9256a59f6"}
+{"sub_uri": "Q1420", "obj_uri": "Q188209", "obj_label": "Ox", "sub_label": "avtomobil", "lineid": 866, "uuid": "10bb56ac-a394-4b73-9c88-1c15d89b9129"}
+{"sub_uri": "Q408050", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Dimetil efir yanaca\u011f\u0131", "lineid": 876, "uuid": "5659cb16-ce82-456a-ae9b-ab9e5eace00a"}
+{"sub_uri": "Q329888", "obj_uri": "Q142", "obj_label": "Fransa", "sub_label": "Antihitler koalisiyas\u0131", "lineid": 877, "uuid": "c9312173-2f2d-4259-8d4f-6b4cfe572900"}
+{"sub_uri": "Q213788", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Nitritl\u0259r", "lineid": 878, "uuid": "3e4c1a6c-d8fe-42fb-9429-60bf80dd5b1f"}
+{"sub_uri": "Q183309", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Quanidin", "lineid": 879, "uuid": "68722607-c8e4-4b8e-a882-e0c0e11a66e1"}
+{"sub_uri": "Q52948", "obj_uri": "Q11024", "obj_label": "\u00fcnsiyy\u0259t", "sub_label": "qar\u015f\u0131l\u0131ql\u0131 \u0259laq\u0259", "lineid": 893, "uuid": "69d54b60-64ae-4dc8-af22-4112cdb761b7"}
+{"sub_uri": "Q161480", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "1,2-dixloretan", "lineid": 895, "uuid": "29b70b50-8c6b-45db-946a-4198201d535d"}
+{"sub_uri": "Q11427", "obj_uri": "Q677", "obj_label": "D\u0259mir", "sub_label": "polad", "lineid": 898, "uuid": "35afb859-6ad0-41f4-86b1-f8b9de1676fd"}
+{"sub_uri": "Q14982", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Metanol", "lineid": 904, "uuid": "925f87d9-6ed8-452e-b9ab-735ec67d5201"}
+{"sub_uri": "Q4118", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Sulfat tur\u015fusu", "lineid": 910, "uuid": "ccd729cf-1feb-49cc-bb6e-1b539019ee39"}
+{"sub_uri": "Q34095", "obj_uri": "Q753", "obj_label": "mis", "sub_label": "tunc", "lineid": 911, "uuid": "10d77352-e3ef-4530-ad28-d0a6ae059161"}
+{"sub_uri": "Q329888", "obj_uri": "Q96", "obj_label": "Meksika", "sub_label": "Antihitler koalisiyas\u0131", "lineid": 913, "uuid": "134147cc-fb59-41c1-ae87-d816690adf6f"}
+{"sub_uri": "Q395", "obj_uri": "Q8087", "obj_label": "h\u0259nd\u0259s\u0259", "sub_label": "riyaziyyat", "lineid": 915, "uuid": "7ba62a4c-1b8f-44ab-a45f-cc96f715f77e"}
+{"sub_uri": "Q308976", "obj_uri": "Q670", "obj_label": "Silisium", "sub_label": "Silikogel", "lineid": 925, "uuid": "e4298b15-a19a-4313-a6bd-a4534970cf8c"}
+{"sub_uri": "Q151324", "obj_uri": "Q556", "obj_label": "hidrogen", "sub_label": "Propilen", "lineid": 926, "uuid": "641ebba5-f0f5-4cc8-a4e6-eb75e7baae3b"}
+{"sub_uri": "Q578170", "obj_uri": "Q1166", "obj_label": "Mi\u00e7iqan", "sub_label": "Kontinental AB\u015e", "lineid": 927, "uuid": "94cb1b1e-ddd0-4570-ba71-48f70f611d7d"}
+{"sub_uri": "Q1650718", "obj_uri": "Q1364", "obj_label": "Meyv\u0259", "sub_label": "Kompot", "lineid": 928, "uuid": "ae7bad5f-4831-4584-9359-91f60b5cf6f1"}
+{"sub_uri": "Q7991", "obj_uri": "Q420", "obj_label": "biologiya", "sub_label": "T\u0259bi\u0259t elml\u0259ri", "lineid": 929, "uuid": "7e2a80a3-dece-4bcb-9aa2-81a7b69d32ea"}
+{"sub_uri": "Q1068623", "obj_uri": "Q131214", "obj_label": "Antena", "sub_label": "Teleq\u00fcll\u0259", "lineid": 933, "uuid": "b3d439c9-f6c2-481d-9c9f-6fa0272275fc"}
+{"sub_uri": "Q544", "obj_uri": "Q525", "obj_label": "G\u00fcn\u0259\u015f", "sub_label": "G\u00fcn\u0259\u015f sistemi", "lineid": 936, "uuid": "81b488a4-937c-4803-b980-c2f18b4d5356"}
+{"sub_uri": "Q271021", "obj_uri": "Q629", "obj_label": "Oksigen", "sub_label": "Sefalosporinl\u0259r", "lineid": 938, "uuid": "c1b4b91c-64c2-4bc1-952a-808e417129fb"}
+{"sub_uri": "Q34749", "obj_uri": "Q23404", "obj_label": "antropologiya", "sub_label": "ictimai elml\u0259r", "lineid": 942, "uuid": "44490181-0cf9-495f-90b6-ca3fde3267b5"}
+{"sub_uri": "Q47512", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "Sirk\u0259 tur\u015fusu", "lineid": 947, "uuid": "6ba9ed6a-50b3-4ced-b65f-fcfbd221f348"}
+{"sub_uri": "Q40540", "obj_uri": "Q161701", "obj_label": "X\u0259r\u00e7\u0259ng", "sub_label": "Zodiak", "lineid": 948, "uuid": "2f89a8e4-638b-42da-96e4-b006d6f5511b"}
+{"sub_uri": "Q1189467", "obj_uri": "Q1537", "obj_label": "Viskonsin", "sub_label": "\u015e\u0259rq \u015eimali M\u0259rk\u0259z \u015ftatlar\u0131", "lineid": 950, "uuid": "d6898016-c111-49cf-b42d-304b47ed9324"}
+{"sub_uri": "Q410387", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Etanolamin", "lineid": 956, "uuid": "1d3c0248-cf7d-4109-9170-f6a4cfdcdd11"}
+{"sub_uri": "Q178450", "obj_uri": "Q627", "obj_label": "Azot", "sub_label": "Asparagin tur\u015fusu", "lineid": 959, "uuid": "acb6c507-ff32-40b6-9d67-0ff25132bb90"}
+{"sub_uri": "Q21195", "obj_uri": "Q20", "obj_label": "Norve\u00e7", "sub_label": "Skandinaviya", "lineid": 960, "uuid": "a20e639e-b2cf-4e7d-ae74-2e3abb6fbf25"}
+{"sub_uri": "Q52062", "obj_uri": "Q35", "obj_label": "Danimarka", "sub_label": "Skandinav \u00f6lk\u0259l\u0259ri", "lineid": 963, "uuid": "ec443c26-8038-4343-be36-3922badd77a5"}
+{"sub_uri": "Q419170", "obj_uri": "Q677", "obj_label": "D\u0259mir", "sub_label": "Ferritl\u0259r", "lineid": 966, "uuid": "eb6c3946-0e2b-4814-827e-f19d93973f02"}
+{"sub_uri": "Q170545", "obj_uri": "Q623", "obj_label": "Karbon", "sub_label": "fenilalanin", "lineid": 968, "uuid": "2a1f6a7b-7f4c-4795-a959-68e5b2c63bf3"}
+{"sub_uri": "Q172290", "obj_uri": "Q682", "obj_label": "K\u00fck\u00fcrd", "sub_label": "Sulfatlar", "lineid": 970, "uuid": "2d001715-5154-40d8-a2bf-2bb915eabfd3"}
+{"sub_uri": "Q19771", "obj_uri": "Q16", "obj_label": "Kanada", "sub_label": "G20", "lineid": 972, "uuid": "0c208e4b-e53d-4466-81ee-405bba8f165f"}

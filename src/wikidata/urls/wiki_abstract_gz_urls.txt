@@ -1,0 +1,266 @@
+{
+  "ms": [
+    "https://archive.org/download/mswiki-20181101/mswiki-20181101-abstract.xml.gz"
+  ],
+  "ca": [
+    "https://archive.org/download/cawiki-20181101/cawiki-20181101-abstract.xml.gz"
+  ],
+  "ko": [
+    "https://archive.org/download/kowiki-20181101/kowiki-20181101-abstract.xml.gz"
+  ],
+  "he": [
+    "https://archive.org/download/hewiki-20181101/hewiki-20181101-abstract.xml.gz",
+    "https://archive.org/download/hewiki-20181101/hewiki-20181101-abstract1.xml.gz",
+    "https://archive.org/download/hewiki-20181101/hewiki-20181101-abstract2.xml.gz",
+    "https://archive.org/download/hewiki-20181101/hewiki-20181101-abstract3.xml.gz",
+    "https://archive.org/download/hewiki-20181101/hewiki-20181101-abstract4.xml.gz",
+    "https://archive.org/download/hewiki-20181101/hewiki-20181101-abstract5.xml.gz",
+    "https://archive.org/download/hewiki-20181101/hewiki-20181101-abstract6.xml.gz"
+  ],
+  "fi": [
+    "https://archive.org/download/fiwiki-20181101/fiwiki-20181101-abstract.xml.gz"
+  ],
+  "ga": [
+    "https://archive.org/download/gawiki-20181101/gawiki-20181101-abstract.xml.gz"
+  ],
+  "ka": [
+    "https://archive.org/download/kawiki-20181101/kawiki-20181101-abstract.xml.gz"
+  ],
+  "en": [
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract1.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract10.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract11.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract12.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract13.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract14.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract15.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract16.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract17.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract18.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract19.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract2.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract20.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract21.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract22.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract23.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract24.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract25.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract26.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract27.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract3.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract4.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract5.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract6.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract7.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract8.xml.gz",
+    "https://archive.org/download/enwiki-20181120/enwiki-20181120-abstract9.xml.gz"
+  ],
+  "th": [
+    "https://archive.org/download/thwiki-20181101/thwiki-20181101-abstract.xml.gz"
+  ],
+  "nl": [
+    "https://archive.org/download/nlwiki-20181120/nlwiki-20181120-abstract.xml.gz",
+    "https://archive.org/download/nlwiki-20181120/nlwiki-20181120-abstract1.xml.gz",
+    "https://archive.org/download/nlwiki-20181120/nlwiki-20181120-abstract2.xml.gz",
+    "https://archive.org/download/nlwiki-20181120/nlwiki-20181120-abstract3.xml.gz",
+    "https://archive.org/download/nlwiki-20181120/nlwiki-20181120-abstract4.xml.gz",
+    "https://archive.org/download/nlwiki-20181120/nlwiki-20181120-abstract5.xml.gz",
+    "https://archive.org/download/nlwiki-20181120/nlwiki-20181120-abstract6.xml.gz"
+  ],
+  "zh": [
+    "https://archive.org/download/zhwiki-20181101/zhwiki-20181101-abstract.xml.gz",
+    "https://archive.org/download/zhwiki-20181101/zhwiki-20181101-abstract1.xml.gz",
+    "https://archive.org/download/zhwiki-20181101/zhwiki-20181101-abstract2.xml.gz",
+    "https://archive.org/download/zhwiki-20181101/zhwiki-20181101-abstract3.xml.gz",
+    "https://archive.org/download/zhwiki-20181101/zhwiki-20181101-abstract4.xml.gz",
+    "https://archive.org/download/zhwiki-20181101/zhwiki-20181101-abstract5.xml.gz",
+    "https://archive.org/download/zhwiki-20181101/zhwiki-20181101-abstract6.xml.gz"
+  ],
+  "ja": [
+    "https://archive.org/download/jawiki-20181120/jawiki-20181120-abstract.xml.gz",
+    "https://archive.org/download/jawiki-20181120/jawiki-20181120-abstract1.xml.gz",
+    "https://archive.org/download/jawiki-20181120/jawiki-20181120-abstract2.xml.gz",
+    "https://archive.org/download/jawiki-20181120/jawiki-20181120-abstract3.xml.gz",
+    "https://archive.org/download/jawiki-20181120/jawiki-20181120-abstract4.xml.gz",
+    "https://archive.org/download/jawiki-20181120/jawiki-20181120-abstract5.xml.gz",
+    "https://archive.org/download/jawiki-20181120/jawiki-20181120-abstract6.xml.gz"
+  ],
+  "eu": [
+    "https://archive.org/download/euwiki-20181101/euwiki-20181101-abstract.xml.gz"
+  ],
+  "da": [
+    "https://archive.org/download/dawiki-20181101/dawiki-20181101-abstract.xml.gz"
+  ],
+  "pt": [
+    "https://archive.org/download/ptwiki-20181101/ptwiki-20181101-abstract.xml.gz",
+    "https://archive.org/download/ptwiki-20181101/ptwiki-20181101-abstract1.xml.gz",
+    "https://archive.org/download/ptwiki-20181101/ptwiki-20181101-abstract2.xml.gz",
+    "https://archive.org/download/ptwiki-20181101/ptwiki-20181101-abstract3.xml.gz",
+    "https://archive.org/download/ptwiki-20181101/ptwiki-20181101-abstract4.xml.gz",
+    "https://archive.org/download/ptwiki-20181101/ptwiki-20181101-abstract5.xml.gz",
+    "https://archive.org/download/ptwiki-20181101/ptwiki-20181101-abstract6.xml.gz"
+  ],
+  "ru": [
+    "https://archive.org/download/ruwiki-20181001/ruwiki-20181001-abstract.xml.gz",
+    "https://archive.org/download/ruwiki-20181001/ruwiki-20181001-abstract1.xml.gz",
+    "https://archive.org/download/ruwiki-20181001/ruwiki-20181001-abstract2.xml.gz",
+    "https://archive.org/download/ruwiki-20181001/ruwiki-20181001-abstract3.xml.gz",
+    "https://archive.org/download/ruwiki-20181001/ruwiki-20181001-abstract4.xml.gz",
+    "https://archive.org/download/ruwiki-20181001/ruwiki-20181001-abstract5.xml.gz",
+    "https://archive.org/download/ruwiki-20181001/ruwiki-20181001-abstract6.xml.gz"
+  ],
+  "fr": [
+    "https://archive.org/download/frwiki-20181101/frwiki-20181101-abstract.xml.gz",
+    "https://archive.org/download/frwiki-20181101/frwiki-20181101-abstract1.xml.gz",
+    "https://archive.org/download/frwiki-20181101/frwiki-20181101-abstract2.xml.gz",
+    "https://archive.org/download/frwiki-20181101/frwiki-20181101-abstract3.xml.gz",
+    "https://archive.org/download/frwiki-20181101/frwiki-20181101-abstract4.xml.gz",
+    "https://archive.org/download/frwiki-20181101/frwiki-20181101-abstract5.xml.gz",
+    "https://archive.org/download/frwiki-20181101/frwiki-20181101-abstract6.xml.gz"
+  ],
+  "sr": [
+    "https://archive.org/download/srwiki-20181101/srwiki-20181101-abstract.xml.gz"
+  ],
+  "et": [
+    "https://archive.org/download/etwiki-20181101/etwiki-20181101-abstract.xml.gz"
+  ],
+  "sv": [
+    "https://archive.org/download/svwiki-20181101/svwiki-20181101-abstract.xml.gz"
+  ],
+  "hy": [
+    "https://archive.org/download/hywiki-20181101/hywiki-20181101-abstract.xml.gz"
+  ],
+  "cy": [
+    "https://archive.org/download/cywiki-20181101/cywiki-20181101-abstract.xml.gz"
+  ],
+  "sq": [
+    "https://archive.org/download/sqwiki-20181101/sqwiki-20181101-abstract.xml.gz"
+  ],
+  "it": [
+    "https://archive.org/download/itwiki-20181120/itwiki-20181120-abstract.xml.gz",
+    "https://archive.org/download/itwiki-20181120/itwiki-20181120-abstract1.xml.gz",
+    "https://archive.org/download/itwiki-20181120/itwiki-20181120-abstract2.xml.gz",
+    "https://archive.org/download/itwiki-20181120/itwiki-20181120-abstract3.xml.gz",
+    "https://archive.org/download/itwiki-20181120/itwiki-20181120-abstract4.xml.gz",
+    "https://archive.org/download/itwiki-20181120/itwiki-20181120-abstract5.xml.gz",
+    "https://archive.org/download/itwiki-20181120/itwiki-20181120-abstract6.xml.gz"
+  ],
+  "hi": [
+    "https://archive.org/download/hiwiki-20181101/hiwiki-20181101-abstract.xml.gz"
+  ],
+  "hr": [
+    "https://archive.org/download/hrwiki-20181101/hrwiki-20181101-abstract.xml.gz"
+  ],
+  "es": [
+    "https://archive.org/download/eswiki-20181120/eswiki-20181120-abstract.xml.gz",
+    "https://archive.org/download/eswiki-20181120/eswiki-20181120-abstract1.xml.gz",
+    "https://archive.org/download/eswiki-20181120/eswiki-20181120-abstract2.xml.gz",
+    "https://archive.org/download/eswiki-20181120/eswiki-20181120-abstract3.xml.gz",
+    "https://archive.org/download/eswiki-20181120/eswiki-20181120-abstract4.xml.gz",
+    "https://archive.org/download/eswiki-20181120/eswiki-20181120-abstract5.xml.gz",
+    "https://archive.org/download/eswiki-20181120/eswiki-20181120-abstract6.xml.gz"
+  ],
+  "hu": [
+    "https://archive.org/download/huwiki-20181120/huwiki-20181120-abstract.xml.gz",
+    "https://archive.org/download/huwiki-20181120/huwiki-20181120-abstract1.xml.gz",
+    "https://archive.org/download/huwiki-20181120/huwiki-20181120-abstract2.xml.gz",
+    "https://archive.org/download/huwiki-20181120/huwiki-20181120-abstract3.xml.gz",
+    "https://archive.org/download/huwiki-20181120/huwiki-20181120-abstract4.xml.gz",
+    "https://archive.org/download/huwiki-20181120/huwiki-20181120-abstract5.xml.gz",
+    "https://archive.org/download/huwiki-20181120/huwiki-20181120-abstract6.xml.gz"
+  ],
+  "bg": [
+    "https://archive.org/download/bgwiki-20181101/bgwiki-20181101-abstract.xml.gz"
+  ],
+  "ta": [
+    "https://archive.org/download/tawiki-20181101/tawiki-20181101-abstract.xml.gz"
+  ],
+  "sl": [
+    "https://archive.org/download/slwiki-20181101/slwiki-20181101-abstract.xml.gz"
+  ],
+  "bn": [
+    "https://archive.org/download/bnwiki-20181101/bnwiki-20181101-abstract.xml.gz"
+  ],
+  "de": [
+    "https://archive.org/download/dewiki-20181120/dewiki-20181120-abstract.xml.gz",
+    "https://archive.org/download/dewiki-20181120/dewiki-20181120-abstract1.xml.gz",
+    "https://archive.org/download/dewiki-20181120/dewiki-20181120-abstract2.xml.gz",
+    "https://archive.org/download/dewiki-20181120/dewiki-20181120-abstract3.xml.gz",
+    "https://archive.org/download/dewiki-20181120/dewiki-20181120-abstract4.xml.gz",
+    "https://archive.org/download/dewiki-20181120/dewiki-20181120-abstract5.xml.gz",
+    "https://archive.org/download/dewiki-20181120/dewiki-20181120-abstract6.xml.gz"
+  ],
+  "id": [
+    "https://archive.org/download/idwiki-20181101/idwiki-20181101-abstract.xml.gz"
+  ],
+  "uk": [
+    "https://archive.org/download/ukwiki-20181001/ukwiki-20181001-abstract.xml.gz"
+  ],
+  "be": [
+    "https://archive.org/download/bewiki-20181101/bewiki-20181101-abstract.xml.gz"
+  ],
+  "ceb": [
+    "https://archive.org/download/cebwiki-20181101/cebwiki-20181101-abstract.xml.gz"
+  ],
+  "el": [
+    "https://archive.org/download/elwiki-20181001/elwiki-20181001-abstract.xml.gz"
+  ],
+  "fa": [
+    "https://archive.org/download/fawiki-20181101/fawiki-20181101-abstract.xml.gz"
+  ],
+  "pl": [
+    "https://archive.org/download/plwiki-20181101/plwiki-20181101-abstract.xml.gz",
+    "https://archive.org/download/plwiki-20181101/plwiki-20181101-abstract1.xml.gz",
+    "https://archive.org/download/plwiki-20181101/plwiki-20181101-abstract2.xml.gz",
+    "https://archive.org/download/plwiki-20181101/plwiki-20181101-abstract3.xml.gz",
+    "https://archive.org/download/plwiki-20181101/plwiki-20181101-abstract4.xml.gz",
+    "https://archive.org/download/plwiki-20181101/plwiki-20181101-abstract5.xml.gz",
+    "https://archive.org/download/plwiki-20181101/plwiki-20181101-abstract6.xml.gz"
+  ],
+  "az": [
+    "https://archive.org/download/azwiki-20181101/azwiki-20181101-abstract.xml.gz"
+  ],
+  "ar": [
+    "https://archive.org/download/arwiki-20181101/arwiki-20181101-abstract.xml.gz",
+    "https://archive.org/download/arwiki-20181101/arwiki-20181101-abstract1.xml.gz",
+    "https://archive.org/download/arwiki-20181101/arwiki-20181101-abstract2.xml.gz",
+    "https://archive.org/download/arwiki-20181101/arwiki-20181101-abstract3.xml.gz",
+    "https://archive.org/download/arwiki-20181101/arwiki-20181101-abstract4.xml.gz",
+    "https://archive.org/download/arwiki-20181101/arwiki-20181101-abstract5.xml.gz",
+    "https://archive.org/download/arwiki-20181101/arwiki-20181101-abstract6.xml.gz"
+  ],
+  "la": [
+    "https://archive.org/download/lawiki-20181001/lawiki-20181001-abstract.xml.gz"
+  ],
+  "gl": [
+    "https://archive.org/download/glwiki-20181101/glwiki-20181101-abstract.xml.gz"
+  ],
+  "lt": [
+    "https://archive.org/download/ltwiki-20181101/ltwiki-20181101-abstract.xml.gz"
+  ],
+  "cs": [
+    "https://archive.org/download/cswiki-20181101/cswiki-20181101-abstract.xml.gz"
+  ],
+  "sk": [
+    "https://archive.org/download/skwiki-20181101/skwiki-20181101-abstract.xml.gz"
+  ],
+  "lv": [
+    "https://archive.org/download/lvwiki-20181101/lvwiki-20181101-abstract.xml.gz"
+  ],
+  "tr": [
+    "https://archive.org/download/trwiki-20181101/trwiki-20181101-abstract.xml.gz"
+  ],
+  "af": [
+    "https://archive.org/download/afwiki-20181101/afwiki-20181101-abstract.xml.gz"
+  ],
+  "vi": [
+    "https://archive.org/download/viwiki-20181101/viwiki-20181101-abstract.xml.gz"
+  ],
+  "ur": [
+    "https://archive.org/download/urwiki-20181101/urwiki-20181101-abstract.xml.gz"
+  ],
+  "ro": [
+    "https://archive.org/download/rowiki-20181101/rowiki-20181101-abstract.xml.gz"
+  ]
+}

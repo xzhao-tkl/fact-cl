@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "[X] dilahirkan di [Y]."}
+{"relation": "P20", "template": "[X] meninggal pada [Y]."}
+{"relation": "P279", "template": "[X] adalah subkelas [Y]."}
+{"relation": "P37", "template": "Bahasa rasmi [X] ialah [Y]."}
+{"relation": "P413", "template": "[X] bermain dalam kedudukan [Y]."}
+{"relation": "P166", "template": "[X] dianugerahkan [Y]."}
+{"relation": "P449", "template": "[X] pada mulanya ditayangkan pada [Y]."}
+{"relation": "P69", "template": "[X] mendapat pendidikan di Universiti [Y]."}
+{"relation": "P47", "template": "[X] berkongsi sempadan dengan [Y]."}
+{"relation": "P138", "template": "[X] dinamakan [Y]."}
+{"relation": "P364", "template": "Bahasa asal [X] ialah [Y]."}
+{"relation": "P54", "template": "[X] bermain dengan [Y]."}
+{"relation": "P463", "template": "[X] adalah ahli [Y]."}
+{"relation": "P101", "template": "[X] bekerja di bidang [Y]."}
+{"relation": "P1923", "template": "[Y] mengambil bahagian dalam [X]."}
+{"relation": "P106", "template": "[X] adalah [Y] mengikut profesion."}
+{"relation": "P527", "template": "[X] terdiri daripada [Y]."}
+{"relation": "P102", "template": "[X] adalah ahli parti politik [Y]."}
+{"relation": "P530", "template": "[X] mengekalkan hubungan diplomatik dengan [Y]."}
+{"relation": "P176", "template": "[X] dihasilkan oleh [Y]."}
+{"relation": "P27", "template": "[X] adalah warganegara [Y]."}
+{"relation": "P407", "template": "[X] ditulis dalam [Y]."}
+{"relation": "P30", "template": "[X] terletak di [Y]."}
+{"relation": "P178", "template": "[X] dikembangkan oleh [Y]."}
+{"relation": "P1376", "template": "[X] adalah ibu kota [Y]."}
+{"relation": "P131", "template": "[X] terletak di [Y]."}
+{"relation": "P1412", "template": "[X] digunakan untuk berkomunikasi dalam [Y]."}
+{"relation": "P108", "template": "[X] berfungsi untuk [Y]."}
+{"relation": "P136", "template": "[X] memainkan muzik [Y]."}
+{"relation": "P17", "template": "[X] terletak di [Y]."}
+{"relation": "P39", "template": "[X] mempunyai kedudukan [Y]."}
+{"relation": "P264", "template": "[X] diwakili oleh label muzik [Y]."}
+{"relation": "P276", "template": "[X] terletak di [Y]."}
+{"relation": "P937", "template": "[X] dulu bekerja di [Y]."}
+{"relation": "P140", "template": "[X] berafiliasi dengan agama [Y]."}
+{"relation": "P1303", "template": "[X] bermain [Y]."}
+{"relation": "P127", "template": "[X] dimiliki oleh [Y]."}
+{"relation": "P103", "template": "Bahasa ibunda [X] ialah [Y]."}
+{"relation": "P190", "template": "[X] dan [Y] adalah bandar berkembar."}
+{"relation": "P1001", "template": "[X] adalah istilah undang-undang dalam [Y]."}
+{"relation": "P31", "template": "[X] ialah [Y]."}
+{"relation": "P495", "template": "[X] dibuat di [Y]."}
+{"relation": "P159", "template": "Ibu pejabat [X] berada di [Y]."}
+{"relation": "P36", "template": "Modal [X] ialah [Y]."}
+{"relation": "P740", "template": "[X] ditubuhkan di [Y]."}
+{"relation": "P361", "template": "[X] adalah sebahagian daripada [Y]."}
+{"relation": "date_of_birth", "template": "[X] (lahir [Y])."}
+{"relation": "place_of_birth", "template": "[X] dilahirkan di [Y]."}
+{"relation": "place_of_death", "template": "[X] meninggal pada [Y]."}

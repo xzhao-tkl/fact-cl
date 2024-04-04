@@ -1,0 +1,279 @@
+{"sub_uri": "Q172916", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n XXI", "lineid": 2, "uuid": "48a2b323-a09c-4af3-ae3f-8df5a80a68a5"}
+{"sub_uri": "Q43727", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Le\u00f3n XII", "lineid": 3, "uuid": "d897d65f-e084-4a22-b423-7a2d5c3641d8"}
+{"sub_uri": "Q103423", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Mari\u00f1o II", "lineid": 4, "uuid": "faebad63-6f77-4692-a05f-ef1ee140ed0f"}
+{"sub_uri": "Q395751", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Agostino Vallini", "lineid": 6, "uuid": "2e8c1ec1-0672-4234-afc9-005bb5a6d78c"}
+{"sub_uri": "Q1269091", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Samson Dol", "lineid": 7, "uuid": "0b6c86e9-87d2-42ee-a402-0b6ef87230b5"}
+{"sub_uri": "Q171520", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Urbano III", "lineid": 9, "uuid": "e185e49e-778b-441d-aa7f-d10e5707abc2"}
+{"sub_uri": "Q124754", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "P\u00edo VII", "lineid": 10, "uuid": "ab7fe0dc-5313-4e4b-ab3f-0cda7f08b49d"}
+{"sub_uri": "Q347010", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Prisciliano", "lineid": 15, "uuid": "98e4ce14-00a8-4541-a59e-18ea68611efe"}
+{"sub_uri": "Q4295", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Pierre Ab\u00e9lard", "lineid": 16, "uuid": "15991b1e-e490-4a18-b8c5-f8683e501336"}
+{"sub_uri": "Q511502", "obj_uri": "Q171692", "obj_label": "Patriarca", "sub_label": "El\u00edas II", "lineid": 18, "uuid": "a7093de6-d0e0-4eb1-8c81-e407f0ed752e"}
+{"sub_uri": "Q553415", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Giuseppe Lazzarotto", "lineid": 19, "uuid": "461da34c-30b4-44cc-953f-7de4b485ffc1"}
+{"sub_uri": "Q101430", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Paulo IV", "lineid": 20, "uuid": "455583af-782e-4e6a-9beb-cb64c19885bc"}
+{"sub_uri": "Q171238", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Celestino IV", "lineid": 25, "uuid": "29dd537e-1eeb-4590-a76c-2d11be2653c2"}
+{"sub_uri": "Q182489", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Le\u00f3n VII", "lineid": 27, "uuid": "dc01cc44-f2f8-47e3-8587-5e224a5a7f52"}
+{"sub_uri": "Q78983", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Helmut Zilk", "lineid": 30, "uuid": "43f5417f-786f-463b-af75-ce93840464fe"}
+{"sub_uri": "Q43939", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Anselmo de Canterbury", "lineid": 33, "uuid": "814c0d6b-ddaa-4de7-9ee7-70b6c6831b6d"}
+{"sub_uri": "Q43922", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Le\u00f3n XIII", "lineid": 37, "uuid": "07103527-e339-4659-b096-6f2eca9da6d6"}
+{"sub_uri": "Q133108", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente XII", "lineid": 39, "uuid": "9fdc12cf-f2df-4cd5-8f71-6cab2cb145c1"}
+{"sub_uri": "Q155956", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente X", "lineid": 43, "uuid": "a898af7d-98d3-4aa7-8aab-16a2c098ead0"}
+{"sub_uri": "Q172377", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Hilario", "lineid": 46, "uuid": "cf133ee8-5edf-44a5-8797-aa1fa180de4d"}
+{"sub_uri": "Q43922", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Le\u00f3n XIII", "lineid": 47, "uuid": "2184eed1-e05c-4f38-bfee-8cd2b55326bb"}
+{"sub_uri": "Q918301", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Celso Benigno Luigi Costantini", "lineid": 53, "uuid": "060da1e4-2675-496b-9fd9-6c68210241c3"}
+{"sub_uri": "Q29480", "obj_uri": "Q43292", "obj_label": "Sult\u00e1n", "sub_label": "Abu Zakariya", "lineid": 57, "uuid": "4f326981-abad-44bb-86d9-e8edced067bd"}
+{"sub_uri": "Q525978", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "John Dew", "lineid": 60, "uuid": "07dc40f2-2281-4bfa-bcbf-611d60dabd0a"}
+{"sub_uri": "Q661840", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Giorgio Orsoni", "lineid": 61, "uuid": "ce0b7ca2-230f-4903-9f2a-66af65014f37"}
+{"sub_uri": "Q2494", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Bieito XVI", "lineid": 63, "uuid": "8ae398e3-debb-46db-8db1-52be285cadfe"}
+{"sub_uri": "Q171626", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Urbano VI", "lineid": 69, "uuid": "e13d661d-a143-4950-9948-191d5bcadc96"}
+{"sub_uri": "Q227978", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n XIX", "lineid": 74, "uuid": "d2daf796-1a10-43f8-b706-2328007ad6d8"}
+{"sub_uri": "Q383322", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Estevo I", "lineid": 75, "uuid": "b4dab15f-d483-466a-b2ae-c92d2cd83415"}
+{"sub_uri": "Q124462", "obj_uri": "Q171692", "obj_label": "Patriarca", "sub_label": "Meyer Guggenheim", "lineid": 76, "uuid": "4408aa49-3e95-4cb0-a6d7-bd2a811472d9"}
+{"sub_uri": "Q132692", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Gregorio XV", "lineid": 78, "uuid": "203e3a28-ca3c-4776-97cf-acd4d49c5b02"}
+{"sub_uri": "Q101294", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Alexandre VIII", "lineid": 82, "uuid": "578dd54c-e166-424e-aa20-1dd767fcd2a4"}
+{"sub_uri": "Q125984", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Anastasio III, antipapa", "lineid": 83, "uuid": "188b15cc-86d2-4d40-b3c4-84190d36deb5"}
+{"sub_uri": "Q101266", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio X", "lineid": 84, "uuid": "8c34abec-14d7-463d-8f13-554371fd182c"}
+{"sub_uri": "Q124754", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo VII", "lineid": 88, "uuid": "ed18b9c7-b003-468e-a045-9619ff0ffbf5"}
+{"sub_uri": "Q44100", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Walter Kasper", "lineid": 92, "uuid": "cd65b2b0-b1ff-4565-8d96-1473599074e6"}
+{"sub_uri": "Q709718", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Aldhelmo de Sherborne", "lineid": 93, "uuid": "5728c96a-9ab3-4d81-a424-a85ceff4850b"}
+{"sub_uri": "Q684969", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Bruno Forte", "lineid": 104, "uuid": "ed734f22-531a-4286-bd53-2970c3fd9e37"}
+{"sub_uri": "Q650878", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Otto Suhr", "lineid": 109, "uuid": "b1953554-95ac-4318-aeae-e3dc69ceec97"}
+{"sub_uri": "Q30578", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Urbano II", "lineid": 110, "uuid": "84fa26ff-61f2-4db2-97d4-141e77756e34"}
+{"sub_uri": "Q43689", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Ambrosio de Mil\u00e1n", "lineid": 115, "uuid": "facb1cc5-0a5d-4ff2-ad3a-24d1bb3598c5"}
+{"sub_uri": "Q199612", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Vitaliano", "lineid": 117, "uuid": "58b126ba-a62b-4860-b0ca-d5ed5ddd5c06"}
+{"sub_uri": "Q504828", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Jean-Marie Villot", "lineid": 120, "uuid": "7d9d183a-48fe-46c6-afe2-69c1b675cd46"}
+{"sub_uri": "Q24194", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Andrei Sheptytskyi", "lineid": 126, "uuid": "ca7195e4-a13b-4a14-adeb-f1533794b47d"}
+{"sub_uri": "Q562489", "obj_uri": "Q83307", "obj_label": "Ministro", "sub_label": "Antonio Maura", "lineid": 129, "uuid": "c3761abe-6edc-4bdc-9978-890b0627dcca"}
+{"sub_uri": "Q60178", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Johannes Trithemius", "lineid": 132, "uuid": "29e454df-97ef-4eb8-84ba-4eabae56352a"}
+{"sub_uri": "Q989", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n Paulo II, papa", "lineid": 133, "uuid": "38351598-b544-45b8-83ec-627ddfeb8551"}
+{"sub_uri": "Q55772", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Franciszek Macharski", "lineid": 135, "uuid": "a50aa4b3-1b56-425b-bafa-f045f214ab7c"}
+{"sub_uri": "Q170297", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Bonifacio III", "lineid": 139, "uuid": "1a25a87f-be5c-4836-9252-c8796aa9278b"}
+{"sub_uri": "Q101437", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo II", "lineid": 140, "uuid": "8d9d895e-c49f-4585-b38c-1c7cb60308cf"}
+{"sub_uri": "Q131162", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Dionisio", "lineid": 141, "uuid": "9c5d904d-8fce-4992-b78a-143f07bd313c"}
+{"sub_uri": "Q3463964", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Meilyr", "lineid": 142, "uuid": "eceedae9-1c8a-4b5d-a00c-028cf4aa2708"}
+{"sub_uri": "Q4108928", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Piotr Gamrat", "lineid": 143, "uuid": "7d9cb0c0-d743-4b46-9ab2-502f995a4a7a"}
+{"sub_uri": "Q3565552", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Dimitrios Trakatellis", "lineid": 144, "uuid": "cdfdd4ba-b49b-40a4-88cb-d77f4c55458b"}
+{"sub_uri": "Q160907", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Bonifacio I", "lineid": 145, "uuid": "a14a7c20-200a-4c84-a8dd-e8e45e828880"}
+{"sub_uri": "Q154526", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Eginard", "lineid": 149, "uuid": "de32674e-6fb2-4551-bab0-762db2b49efa"}
+{"sub_uri": "Q134588", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Nicolao V", "lineid": 150, "uuid": "a06a82ae-9dd8-45dc-a7b6-19f7185891f9"}
+{"sub_uri": "Q208961", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Brand\u00e1n", "lineid": 152, "uuid": "c7ba6d53-bda4-4cf3-8379-3f621d608089"}
+{"sub_uri": "Q132711", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Paulo V", "lineid": 154, "uuid": "249a1033-144e-4dd4-8019-42ede1731b56"}
+{"sub_uri": "Q83159", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente VII", "lineid": 159, "uuid": "165a85ce-0adb-43ba-94a2-e5c13142426f"}
+{"sub_uri": "Q538094", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Connop Thirlwall", "lineid": 162, "uuid": "19c804a7-50bd-4630-98eb-dc259cecc33c"}
+{"sub_uri": "Q151967", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Brais de Sebaste", "lineid": 163, "uuid": "c7750d82-07f6-4bba-8c05-de8fdc92a757"}
+{"sub_uri": "Q974734", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Phillips Brooks", "lineid": 166, "uuid": "d780aaf3-ff39-4cbb-b8cd-85190ba91175"}
+{"sub_uri": "Q527068", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Wilfrid Napier", "lineid": 170, "uuid": "578640e4-f713-49d8-98ca-83f0dbf24f45"}
+{"sub_uri": "Q128076", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Inocencio III", "lineid": 173, "uuid": "21563381-5edc-4865-b17e-888767511712"}
+{"sub_uri": "Q185073", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Nestorio", "lineid": 175, "uuid": "4b26d944-9aef-43fd-bfd5-2a44e2bb6517"}
+{"sub_uri": "Q42323", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo XI", "lineid": 185, "uuid": "203f82a3-0d54-42e2-bac1-965fe378540e"}
+{"sub_uri": "Q102131", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Marcelo", "lineid": 189, "uuid": "d26f2c60-70f6-4b99-bfea-ebdce42f21ff"}
+{"sub_uri": "Q1236383", "obj_uri": "Q83307", "obj_label": "Ministro", "sub_label": "Francisco Silvela", "lineid": 192, "uuid": "efd96432-1e3e-4812-a3ba-ab7e5727d7ac"}
+{"sub_uri": "Q665962", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Paulo Evaristo Arns", "lineid": 193, "uuid": "27344bb7-7b56-4309-abe0-77e765f1c1d0"}
+{"sub_uri": "Q452773", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Arnaldo Amalric", "lineid": 203, "uuid": "7600ea40-9902-43b5-b529-5c3a997e7630"}
+{"sub_uri": "Q58573", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente II", "lineid": 206, "uuid": "00dac889-81dc-44a8-9669-118d317c2041"}
+{"sub_uri": "Q769596", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Ernesto Ruffini", "lineid": 207, "uuid": "291bb835-ac46-4fb4-93ed-ee203001eb42"}
+{"sub_uri": "Q192151", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Valent\u00edn de Terni", "lineid": 213, "uuid": "1b72ca7f-086f-43cb-8d51-527b3d875bc7"}
+{"sub_uri": "Q367219", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Paul Shan Kuo-hsi", "lineid": 214, "uuid": "148b9600-716e-4135-8195-27f111b759af"}
+{"sub_uri": "Q4443", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo VIII, papa", "lineid": 223, "uuid": "cb8b3551-1cdd-4099-ae53-bccb90a0ecd8"}
+{"sub_uri": "Q169612", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Marti\u00f1o V", "lineid": 225, "uuid": "7c053d1c-14b0-422c-9ebd-edd16648b237"}
+{"sub_uri": "Q101430", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Paulo IV", "lineid": 226, "uuid": "79714cf3-c8a1-4126-a37f-79ad8aeda3b4"}
+{"sub_uri": "Q530839", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Salvatore Pappalardo", "lineid": 231, "uuid": "a040a518-a53d-4c95-aea4-14ff61e729da"}
+{"sub_uri": "Q101286", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio XI", "lineid": 235, "uuid": "12bdb666-977f-44f2-a4c7-333c0bf01877"}
+{"sub_uri": "Q124831", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Gregorio IX", "lineid": 237, "uuid": "0e7dc3cb-7aa0-40ab-8ad8-e789a0f86fdd"}
+{"sub_uri": "Q128019", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo VI", "lineid": 244, "uuid": "948f4604-f5b5-49c3-8d7c-e953d9159573"}
+{"sub_uri": "Q1382707", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Salvatore Pennacchio", "lineid": 248, "uuid": "adc6d6cc-c507-49a7-aea9-da1766295d48"}
+{"sub_uri": "Q149315", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Silverio", "lineid": 249, "uuid": "8fb95661-7edf-4a94-88d2-362d924cc352"}
+{"sub_uri": "Q340224", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Achille Lauro", "lineid": 254, "uuid": "05d7fe6c-aa2a-4e16-805d-2ee449b7c04e"}
+{"sub_uri": "Q45201", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Rainer Maria Woelki", "lineid": 255, "uuid": "f868b6cc-9ca8-4e46-af45-d5c5a2ba6597"}
+{"sub_uri": "Q43033", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Desmond Tutu", "lineid": 256, "uuid": "69b313dd-1355-4ecf-9f72-71400c8a6639"}
+{"sub_uri": "Q49237", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Le\u00f3n X, papa", "lineid": 265, "uuid": "cc1085c1-0ce3-4dee-8fd0-aa8a8fdcfa6d"}
+{"sub_uri": "Q42887", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente I", "lineid": 267, "uuid": "27b8a640-39fc-4d92-b9cf-09ba5ebb819e"}
+{"sub_uri": "Q101294", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Alexandre VIII", "lineid": 268, "uuid": "7abf610a-2794-4a5e-941e-db8229e6eb5a"}
+{"sub_uri": "Q602077", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Antonio Franco", "lineid": 276, "uuid": "3ad1d2e8-4d63-4933-a803-aa84fa3413b8"}
+{"sub_uri": "Q178071", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Bonifacio VI", "lineid": 277, "uuid": "d989176d-50b3-4451-9a31-730292a58088"}
+{"sub_uri": "Q3394324", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Rosendo Salvado", "lineid": 279, "uuid": "8598bb30-d8e3-4f66-8254-f1c3f4ab7ecf"}
+{"sub_uri": "Q202108", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Jaime Sin", "lineid": 282, "uuid": "212123ab-de32-450a-922c-1b732614bf1f"}
+{"sub_uri": "Q124754", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "P\u00edo VII", "lineid": 289, "uuid": "51817946-6ffa-4c27-8232-27c4bc994ed4"}
+{"sub_uri": "Q43689", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Ambrosio de Mil\u00e1n", "lineid": 290, "uuid": "fdb4248d-4fbd-437d-af45-c97b59f91e01"}
+{"sub_uri": "Q1033745", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Claudio Maria Celli", "lineid": 293, "uuid": "a2555788-4d8f-4c05-a0fa-dcaf261dc067"}
+{"sub_uri": "Q195694", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Yosyf Slipyi", "lineid": 298, "uuid": "0134e238-5959-4078-9717-cb736c923a5f"}
+{"sub_uri": "Q701484", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Klaus Iohannis", "lineid": 302, "uuid": "23411692-ed5a-4267-aa5b-2352a2f0adec"}
+{"sub_uri": "Q2639031", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Illtud", "lineid": 305, "uuid": "7cc75988-cc23-4740-81fb-d51c8e43bc85"}
+{"sub_uri": "Q83159", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Clemente VII", "lineid": 307, "uuid": "584b70ae-fd02-4bda-8ea2-01bc651a0f52"}
+{"sub_uri": "Q32520", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Agosti\u00f1o de Canterbury", "lineid": 308, "uuid": "edb5663a-71f7-4d74-b8e7-6d2e1836cdc5"}
+{"sub_uri": "Q527068", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Wilfrid Napier", "lineid": 309, "uuid": "b29fd876-bd79-4f84-aff4-26ed72e1699c"}
+{"sub_uri": "Q377093", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Giacomo Lercaro", "lineid": 313, "uuid": "8abd6775-95b8-45d2-8bc4-4c5e1311b645"}
+{"sub_uri": "Q521184", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Angelo Comastri", "lineid": 318, "uuid": "5b2ac469-2b65-4853-8a21-0638f482ca5f"}
+{"sub_uri": "Q1862062", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Luigi Dadaglio", "lineid": 320, "uuid": "898e5efd-237d-449e-81a2-af25fe841e12"}
+{"sub_uri": "Q577125", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Leandro de Sevilla", "lineid": 329, "uuid": "a644b8a1-e2ea-4f6f-b912-2cb4d1ff79af"}
+{"sub_uri": "Q228649", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n XV", "lineid": 330, "uuid": "f1ea49e0-0616-4c7c-80ec-88d0ab3fb9cf"}
+{"sub_uri": "Q26901", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Luis Antonio Tagle", "lineid": 338, "uuid": "2eb5c3a5-abb7-43bc-bba1-25116ae8df1b"}
+{"sub_uri": "Q1392121", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Graciliano Ramos", "lineid": 341, "uuid": "fbcef1dc-8e71-44ff-b8dd-7d4ab25de151"}
+{"sub_uri": "Q172383", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Silvestre II", "lineid": 342, "uuid": "4d31cf4b-4716-4611-8a95-04274e177e76"}
+{"sub_uri": "Q1851906", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Pablo de Santa Mar\u00eda", "lineid": 347, "uuid": "be9db367-d64f-488f-85eb-ec80450eb64f"}
+{"sub_uri": "Q4775434", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Antoine Blanc", "lineid": 352, "uuid": "09ab67eb-487d-4216-a48c-8b6529c10cae"}
+{"sub_uri": "Q2492", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Konrad Adenauer", "lineid": 354, "uuid": "1eb032a4-da33-4c64-aa74-a1844785b268"}
+{"sub_uri": "Q161443", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Siricio", "lineid": 357, "uuid": "a2a743fe-7f27-4927-821b-f2a8ec1ceb7a"}
+{"sub_uri": "Q125631", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Urbano I", "lineid": 360, "uuid": "c4d0776f-7057-4ec8-a17f-ff37c0e2607d"}
+{"sub_uri": "Q541218", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Julio Terrazas Sandoval", "lineid": 363, "uuid": "8567cf21-9899-49f6-a5ca-abbf4e54438c"}
+{"sub_uri": "Q512156", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Sadurni\u00f1o de Tolosa", "lineid": 365, "uuid": "6525a399-a7ab-47dc-8f5b-75d7d305d661"}
+{"sub_uri": "Q169584", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Sava II de Serbia", "lineid": 368, "uuid": "2aec8e74-df6a-4270-bc73-742fc46145cc"}
+{"sub_uri": "Q733546", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Alfredo Ildefonso Schuster", "lineid": 369, "uuid": "1e18593d-ecd9-4324-b20f-8a3007dc893a"}
+{"sub_uri": "Q31722", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Jean-Louis Lefebvre de Cheverus", "lineid": 376, "uuid": "74739dbf-fd9b-42d9-b297-f47464afd1dc"}
+{"sub_uri": "Q137934", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Suger de Saint-Denis", "lineid": 378, "uuid": "b54897c0-900b-44b0-ad65-ee69826f0d50"}
+{"sub_uri": "Q932189", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Pietro Sambi", "lineid": 379, "uuid": "20f0327f-6de2-47a5-92e3-f9648cd542e5"}
+{"sub_uri": "Q60026", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Georges Cottier", "lineid": 386, "uuid": "c4835bf8-b247-4791-b7ed-6931aff2552c"}
+{"sub_uri": "Q657170", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Ariberto de Intimian", "lineid": 389, "uuid": "e8ebd500-4617-4ea1-be57-d222131e93dc"}
+{"sub_uri": "Q42323", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "P\u00edo XI", "lineid": 395, "uuid": "7666ee5c-1466-4e9a-9aa0-1642e21edae6"}
+{"sub_uri": "Q697159", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Loris Francesco Capovilla", "lineid": 399, "uuid": "7566a0a9-ed42-41e1-9393-5db8e1f75525"}
+{"sub_uri": "Q170303", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Paio I", "lineid": 401, "uuid": "7bf094b9-bba5-4c05-8e07-23a5fbb82bf7"}
+{"sub_uri": "Q765284", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Vincent Nichols", "lineid": 404, "uuid": "dc474cdc-bf0c-4f91-bcae-57918245f535"}
+{"sub_uri": "Q174029", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Fiz II", "lineid": 405, "uuid": "3ebb21e5-b5b4-4b4e-b956-29cede686e75"}
+{"sub_uri": "Q127254", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Alexandre VII", "lineid": 409, "uuid": "2388cd45-1e17-4ab1-bc88-4bbc8be57160"}
+{"sub_uri": "Q165561", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Bonifacio IX", "lineid": 411, "uuid": "ad63edf1-ce31-44aa-b9a4-71a77493705d"}
+{"sub_uri": "Q160182", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Honorio III", "lineid": 412, "uuid": "bed3cd67-6348-4aaa-8ffd-3d4f7a4b2b12"}
+{"sub_uri": "Q162080", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Fiz III", "lineid": 413, "uuid": "788043e9-ca3c-4b7e-8fe6-6720aed537d8"}
+{"sub_uri": "Q161351", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio VIII", "lineid": 415, "uuid": "32623ace-14dc-45b6-81b2-f5bf281c6f70"}
+{"sub_uri": "Q981624", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Hermes Binner", "lineid": 416, "uuid": "66406f42-33a9-48e7-82ab-f3a448f70ac1"}
+{"sub_uri": "Q227967", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Pascual II", "lineid": 417, "uuid": "87f724ff-7600-431e-8466-8243a692278a"}
+{"sub_uri": "Q129967", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente XI", "lineid": 420, "uuid": "c8cbe940-b05a-434c-8306-e6a2f84fc17a"}
+{"sub_uri": "Q273053", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Pap\u00edas de Hier\u00e1polis", "lineid": 424, "uuid": "b46b357c-5c6e-41a1-8e2e-b7dc559a6fb3"}
+{"sub_uri": "Q44170", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Ignacio de Antioqu\u00eda", "lineid": 428, "uuid": "50dbab12-6084-4e97-ab29-d5a35842ae08"}
+{"sub_uri": "Q202108", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Jaime Sin", "lineid": 432, "uuid": "55e334dc-2427-421e-8021-71307e963bb7"}
+{"sub_uri": "Q160609", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Inocencio IV", "lineid": 436, "uuid": "84f06225-492a-408d-97f9-6b12da2007c8"}
+{"sub_uri": "Q170386", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio II", "lineid": 439, "uuid": "2dfa6f94-9f1a-496c-aed0-1c4921e6c8e6"}
+{"sub_uri": "Q37970", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Gregor Mendel", "lineid": 441, "uuid": "6df18358-d9ab-4d99-9365-a9bd79920b7a"}
+{"sub_uri": "Q543393", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Giorgio La Pira", "lineid": 442, "uuid": "43af991c-df4d-4f2e-b5b8-b94af7d71cb6"}
+{"sub_uri": "Q171626", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Urbano VI", "lineid": 445, "uuid": "f50c7b4d-9954-4737-be86-74d8f15a1ec9"}
+{"sub_uri": "Q8018", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Agosti\u00f1o de Hipona", "lineid": 447, "uuid": "2e986e4f-d5ff-438f-9219-f92ae30b98b1"}
+{"sub_uri": "Q37577", "obj_uri": "Q152002", "obj_label": "pastor", "sub_label": "Jean Calvin", "lineid": 450, "uuid": "9adfb8cf-36db-415f-b279-2adc3936c72f"}
+{"sub_uri": "Q434118", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "George Pell", "lineid": 453, "uuid": "6c6b82bc-a36b-4669-9694-32bd65c0d2b3"}
+{"sub_uri": "Q550079", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Robert Sarah", "lineid": 456, "uuid": "249bfda8-23d6-46b5-8e7c-dd129dba74bd"}
+{"sub_uri": "Q465322", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Enodio de Pav\u00eda", "lineid": 461, "uuid": "f76667c6-f886-4553-aad1-3d8e6ddfb183"}
+{"sub_uri": "Q547185", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Francis Spellman", "lineid": 465, "uuid": "6f16b247-9c65-418f-bdfc-082e09dbb130"}
+{"sub_uri": "Q132708", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Inocencio XII", "lineid": 468, "uuid": "752f61c1-419f-451a-8392-ee92de2f25e4"}
+{"sub_uri": "Q223419", "obj_uri": "Q132050", "obj_label": "Gobernador", "sub_label": "Manuel Roxas", "lineid": 470, "uuid": "9d4fc0f5-0e5a-4c4e-a1c2-cf93311096eb"}
+{"sub_uri": "Q374461", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Paolo Romeo", "lineid": 475, "uuid": "236cb151-2a25-4a4a-8786-f997873b2253"}
+{"sub_uri": "Q504550", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Crescenzio Sepe", "lineid": 476, "uuid": "71568c8a-a469-417c-8648-4ba87a9d1304"}
+{"sub_uri": "Q188411", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Bernardo de Claraval", "lineid": 478, "uuid": "b1ae2ad8-f554-46e7-912b-ba353ce45a88"}
+{"sub_uri": "Q58559", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Le\u00f3n IX", "lineid": 482, "uuid": "d47fdcf6-8876-4d84-a47a-32d0c3e9f74e"}
+{"sub_uri": "Q346582", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Pascual III", "lineid": 483, "uuid": "04fb0d4e-7b7d-4331-b622-4676d57b9362"}
+{"sub_uri": "Q1293017", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Tysilio", "lineid": 485, "uuid": "84ee56be-9f0e-4feb-b9dd-3a02e5683d17"}
+{"sub_uri": "Q44011", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Gregorio Nacianceno", "lineid": 486, "uuid": "182aaa91-90c3-4ec3-8b6e-8329890387dd"}
+{"sub_uri": "Q43734", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Gregorio XVI", "lineid": 488, "uuid": "9d4e9c20-7939-4873-bab5-915a16fec13a"}
+{"sub_uri": "Q170385", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Lucio II", "lineid": 491, "uuid": "c068adb5-ced2-4edb-b579-b92fcd69f068"}
+{"sub_uri": "Q2494", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Bieito XVI", "lineid": 494, "uuid": "bdea75bc-e107-4211-ac62-5ea83c12a904"}
+{"sub_uri": "Q155961", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente IX", "lineid": 496, "uuid": "f51e00a9-4453-4b9e-87ce-1f0eef98252e"}
+{"sub_uri": "Q236326", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Columba de Iona", "lineid": 498, "uuid": "e47398d7-1c84-4100-b45f-aae8d5df951f"}
+{"sub_uri": "Q318497", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Carlo Maria Martini", "lineid": 505, "uuid": "3425c50c-bc7c-4add-82eb-8dd5e91b2af9"}
+{"sub_uri": "Q1889720", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Cadoc", "lineid": 506, "uuid": "0e0ff69d-6990-4f14-a74e-81a8473660ca"}
+{"sub_uri": "Q295509", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Lourenzo", "lineid": 513, "uuid": "73584ea5-87e6-4960-b5f7-09bf171e685f"}
+{"sub_uri": "Q593669", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Richard Cushing", "lineid": 514, "uuid": "7fbd119c-1fbf-49a4-beb6-f3df641d7f2d"}
+{"sub_uri": "Q2426702", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Vittorio Sgarbi", "lineid": 518, "uuid": "1b43c99a-cebe-478f-85f3-46b44d246d23"}
+{"sub_uri": "Q372423", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Enrique Angelelli", "lineid": 520, "uuid": "282d12c5-5172-4e3d-a584-df590d98e075"}
+{"sub_uri": "Q170395", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente VIII", "lineid": 524, "uuid": "d623817f-b2fe-45f4-84f7-13dc00b5c171"}
+{"sub_uri": "Q1383046", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Paolo Bertoli", "lineid": 525, "uuid": "fe6bc8e5-ae5d-4a1b-8147-764092fef46e"}
+{"sub_uri": "Q703999", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Marian Jaworski", "lineid": 528, "uuid": "0959076f-d3e2-4d97-a333-ee3ec2c853db"}
+{"sub_uri": "Q170871", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio V", "lineid": 533, "uuid": "257ed653-6ea9-4a17-91a7-643241c92b62"}
+{"sub_uri": "Q2604", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo XII, papa", "lineid": 536, "uuid": "8d436c61-90a2-4058-b922-d90d0682e1a4"}
+{"sub_uri": "Q542406", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Piero Fassino", "lineid": 538, "uuid": "a10fc5f5-2ca7-42d4-8b58-9fdbc4257206"}
+{"sub_uri": "Q549499", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Michele Giordano", "lineid": 540, "uuid": "8af1415a-3b4b-4ed7-a17c-6ce4f07815a7"}
+{"sub_uri": "Q703999", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Marian Jaworski", "lineid": 543, "uuid": "21122b4e-b7db-4ca0-b7c3-f8ca12d3c194"}
+{"sub_uri": "Q473539", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Giuseppe Siri", "lineid": 545, "uuid": "bf5883aa-7a12-40d9-8f94-94b779315661"}
+{"sub_uri": "Q60095", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Otto von Guericke", "lineid": 546, "uuid": "29c0469e-7f27-4f50-b8a0-7bbd72555f89"}
+{"sub_uri": "Q83029", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Gregorio XIII", "lineid": 551, "uuid": "325d90e9-2671-4976-bf82-a3ce06678ade"}
+{"sub_uri": "Q350963", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Adam Stefan Sapieha", "lineid": 553, "uuid": "6ba6cfcf-eb52-4274-b3cd-4c7cf15c9d15"}
+{"sub_uri": "Q515887", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Raymond Leo Burke", "lineid": 556, "uuid": "1e441229-44db-4994-a1c3-a55110821601"}
+{"sub_uri": "Q160609", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio IV", "lineid": 561, "uuid": "788396b7-8961-4f84-b54f-5fc907b25a51"}
+{"sub_uri": "Q543600", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Giovanni Canestri", "lineid": 563, "uuid": "d0571c8c-3f99-4b75-a342-b2a3cedbfa08"}
+{"sub_uri": "Q172383", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Silvestre II", "lineid": 572, "uuid": "5e0b5c96-2a29-47f5-b7f1-ed007b0d69c1"}
+{"sub_uri": "Q179702", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n XVIII", "lineid": 573, "uuid": "12cdad60-c1ec-4405-99be-f99bc72e8f70"}
+{"sub_uri": "Q43706", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Xo\u00e1n Cris\u00f3stomo", "lineid": 574, "uuid": "327e09dd-08ce-4c94-a850-0d60edc16722"}
+{"sub_uri": "Q720642", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Francesco Coccopalmerio", "lineid": 576, "uuid": "4a5e8c25-019d-464a-837d-2d11bfbabcca"}
+{"sub_uri": "Q380345", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Mauro de Anjou", "lineid": 577, "uuid": "4f59efbd-453b-4377-8256-c1c59c0ffd73"}
+{"sub_uri": "Q133100", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio XIII", "lineid": 579, "uuid": "18ea695c-20fd-459c-ae64-270b380893c7"}
+{"sub_uri": "Q312931", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Bonifacio VII", "lineid": 581, "uuid": "86cfbbcb-ba5f-464d-8c85-c04b67a3343a"}
+{"sub_uri": "Q10948642", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Richard Challoner", "lineid": 582, "uuid": "7702f4db-ba6d-4926-a6c7-9f90e614cbdc"}
+{"sub_uri": "Q531594", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Gianfranco Ravasi", "lineid": 589, "uuid": "775b91b3-9815-4a97-a40a-f8fc3fefb927"}
+{"sub_uri": "Q151908", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Paio II", "lineid": 591, "uuid": "aec08e1c-b394-42c2-9212-5042437e94ef"}
+{"sub_uri": "Q231256", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Francisco de Sales", "lineid": 594, "uuid": "0da150ee-e3d5-48f6-8ca1-abf58c9feea2"}
+{"sub_uri": "Q118081", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Celestino V, papa", "lineid": 604, "uuid": "4a5be153-f89b-4fec-bb10-2105aa42610c"}
+{"sub_uri": "Q317911", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Liutprando de Cremona", "lineid": 611, "uuid": "84bc7010-06dc-4230-8933-127fe53c3ba1"}
+{"sub_uri": "Q160514", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Eusebio", "lineid": 612, "uuid": "7d67f3d7-e6b7-4f92-89a0-a301718a9bc5"}
+{"sub_uri": "Q44344", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Hilario de Poitiers", "lineid": 614, "uuid": "01232d8b-b9e2-4d1e-8ed1-2ef8062804a7"}
+{"sub_uri": "Q169911", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xulio III", "lineid": 618, "uuid": "22f3cfe1-eca9-4cc4-ba3e-76d4928a389e"}
+{"sub_uri": "Q504550", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Crescenzio Sepe", "lineid": 621, "uuid": "90834d00-fb7a-474f-942e-177398c83ee3"}
+{"sub_uri": "Q981953", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Gregorio Aglipay", "lineid": 624, "uuid": "ba0639d8-faab-48b2-b199-0b1ec3726f2b"}
+{"sub_uri": "Q46090", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Silvestre III", "lineid": 625, "uuid": "62918270-eb91-4e6d-8596-ca274227c1be"}
+{"sub_uri": "Q170863", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente VI", "lineid": 629, "uuid": "c0429316-18fe-4439-97d6-eb1a6930507e"}
+{"sub_uri": "Q43739", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo X", "lineid": 630, "uuid": "74acbfa2-6440-4707-9b85-7b043be29212"}
+{"sub_uri": "Q227721", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Mari\u00f1o I", "lineid": 655, "uuid": "11757068-855b-4682-b2de-67ba704ca002"}
+{"sub_uri": "Q534798", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Alex Bodry", "lineid": 656, "uuid": "baf4ddd1-e3cc-44dd-9a7b-7dd0b0bf3d66"}
+{"sub_uri": "Q1862062", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Luigi Dadaglio", "lineid": 666, "uuid": "ffeb321f-c0ab-4834-ba5b-3b26507c69ab"}
+{"sub_uri": "Q662028", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Piero Marini", "lineid": 668, "uuid": "b3f43f01-30c1-4734-8077-6e76767ba5a1"}
+{"sub_uri": "Q602077", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Antonio Franco", "lineid": 669, "uuid": "ec58f794-6015-43ab-818b-c021f31d7d73"}
+{"sub_uri": "Q188344", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Godofredo de Monmouth", "lineid": 670, "uuid": "afa4afc0-fe5a-48d6-9952-3a23d3c1c8b1"}
+{"sub_uri": "Q570952", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Antanas Baranauskas", "lineid": 673, "uuid": "361d5def-bfde-48d9-bd5f-e8f38da65cf5"}
+{"sub_uri": "Q665962", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Paulo Evaristo Arns", "lineid": 675, "uuid": "47d54ff6-791b-4d15-b2be-2d63a4b8278a"}
+{"sub_uri": "Q172928", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente IV", "lineid": 679, "uuid": "05fdebb1-36a5-4684-b609-db5ccf64fbdd"}
+{"sub_uri": "Q302", "obj_uri": "Q190", "obj_label": "Deus", "sub_label": "Xes\u00fas de Nazaret", "lineid": 683, "uuid": "624d46f8-1583-49b3-ad36-f352026d3e1b"}
+{"sub_uri": "Q103431", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Anastasio III", "lineid": 684, "uuid": "e2c79958-c483-4c44-bc48-8f6ac4d47230"}
+{"sub_uri": "Q44842", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Giovanni Battista Re", "lineid": 687, "uuid": "af0c0f6d-9c4b-47aa-aa9e-52680502ba06"}
+{"sub_uri": "Q170654", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Calisto II", "lineid": 692, "uuid": "0ac9bcd5-fd05-4c25-b125-1780b85efc7a"}
+{"sub_uri": "Q227713", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio VII", "lineid": 696, "uuid": "5e98f255-a44d-45ec-8e7c-97e6ce6f2123"}
+{"sub_uri": "Q227694", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Gregorio XII", "lineid": 700, "uuid": "07172840-07e7-4c6b-a047-2291f3802ea2"}
+{"sub_uri": "Q133046", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Urbano V", "lineid": 704, "uuid": "435115ad-8a6b-4e1d-a496-275b6e8ce0ef"}
+{"sub_uri": "Q45176", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Wim Eijk", "lineid": 707, "uuid": "489f6df4-202c-48e3-84df-b1eb74f70154"}
+{"sub_uri": "Q983133", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Julio J. Rosales", "lineid": 709, "uuid": "bd5485de-3f8e-4aa9-b055-c844abd6fea7"}
+{"sub_uri": "Q521184", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Angelo Comastri", "lineid": 710, "uuid": "a8685554-e33c-4671-840d-d0694acaf28a"}
+{"sub_uri": "Q173000", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Hadri\u00e1n V", "lineid": 711, "uuid": "dc9b1cc4-adb1-4b75-9eb1-39d804ec7ad0"}
+{"sub_uri": "Q61896", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Johannes Joachim Degenhardt", "lineid": 712, "uuid": "fa5c9656-2188-4332-904c-b78109346d1c"}
+{"sub_uri": "Q108316", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Alexandre VI", "lineid": 716, "uuid": "9e6f5668-0b28-4190-a213-1b13f0a8c62d"}
+{"sub_uri": "Q82692", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Ennio Antonelli", "lineid": 724, "uuid": "70356903-beb0-494d-8fba-3b6a33e317fe"}
+{"sub_uri": "Q47149", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Silvestre I", "lineid": 726, "uuid": "6eadcd01-984e-47d9-a54e-5b2068a6ff58"}
+{"sub_uri": "Q171622", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Gregorio XIV", "lineid": 729, "uuid": "4fda18f1-8937-4e5e-b4d8-6e47a640cb8e"}
+{"sub_uri": "Q227976", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n X", "lineid": 730, "uuid": "9d916f59-66e3-49f1-a9fb-dab76c8e8337"}
+{"sub_uri": "Q43734", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Gregorio XVI", "lineid": 731, "uuid": "add8b0dd-1447-4478-af78-7b61f22384b4"}
+{"sub_uri": "Q44024", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Atanasio de Alexandr\u00eda", "lineid": 738, "uuid": "07017432-16c0-4cda-9029-466181a0361c"}
+{"sub_uri": "Q170863", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Clemente VI", "lineid": 740, "uuid": "5b0a5fd7-3c10-467a-9bba-90ce1130d98d"}
+{"sub_uri": "Q132708", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio XII", "lineid": 741, "uuid": "ceaaa868-8caf-4be0-a5e9-b903e9d2bc12"}
+{"sub_uri": "Q117840", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Nicolao II", "lineid": 747, "uuid": "1eb67cf6-fa39-4b68-8299-58671b2331e2"}
+{"sub_uri": "Q227719", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Marti\u00f1o IV", "lineid": 752, "uuid": "9356c51e-8fe3-4499-9cb2-4b2067d5f169"}
+{"sub_uri": "Q1532824", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Pio Taofinu\u02bbu", "lineid": 754, "uuid": "3f764dd6-1d31-4413-a18e-a74352b41580"}
+{"sub_uri": "Q222500", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Estevo IX, papa", "lineid": 756, "uuid": "7fcbcfbd-6a03-4d51-b033-5ee9217c8982"}
+{"sub_uri": "Q44258", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Basilio o Grande", "lineid": 760, "uuid": "ab282c6d-79d0-4da3-b04a-cd4884664156"}
+{"sub_uri": "Q378603", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Angelo Bagnasco", "lineid": 762, "uuid": "1857dc98-d8a2-4f52-a932-01f61ed9cfa1"}
+{"sub_uri": "Q1375676", "obj_uri": "Q49757", "obj_label": "poeta", "sub_label": "Silvio Stampiglia", "lineid": 771, "uuid": "7efef704-485e-44b9-b5ae-fd97aae98c5a"}
+{"sub_uri": "Q983133", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Julio J. Rosales", "lineid": 775, "uuid": "f3c3e189-148a-4f07-a017-a43a7fa04017"}
+{"sub_uri": "Q170499", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Formoso", "lineid": 779, "uuid": "a05846cb-98c5-4e76-96b1-4cf3a2c3d22d"}
+{"sub_uri": "Q2422904", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Thomas Cajetan Kelly", "lineid": 781, "uuid": "898bec2e-2291-4a2f-a69b-221f03690da4"}
+{"sub_uri": "Q23873", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n XXIII, papa", "lineid": 785, "uuid": "7dadf494-28f0-476d-b84c-d844195eea5f"}
+{"sub_uri": "Q133001", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Paulo III", "lineid": 786, "uuid": "2824f2a3-1ed1-49cd-bc0b-e889a4c0cf39"}
+{"sub_uri": "Q347662", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Gabriel Montalvo Higuera", "lineid": 787, "uuid": "27b05c95-7065-4aab-9cce-20af6f3bf490"}
+{"sub_uri": "Q44934", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Venance Fortunat", "lineid": 788, "uuid": "0d261211-f909-42a3-87de-345ae5347cd9"}
+{"sub_uri": "Q160369", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Calisto III", "lineid": 792, "uuid": "1bb1b87c-ae42-46b2-b089-003df75a0a8c"}
+{"sub_uri": "Q43727", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Le\u00f3n XII", "lineid": 793, "uuid": "3303770c-8f49-4b20-a9d1-34b49e3b58e4"}
+{"sub_uri": "Q171537", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Conon", "lineid": 799, "uuid": "5af75e14-32fe-4a82-bcce-4737cb374b52"}
+{"sub_uri": "Q78531", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Karl Lueger", "lineid": 801, "uuid": "49d1deb4-6627-4c6e-a994-d5c0495c0dde"}
+{"sub_uri": "Q612390", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Beuno", "lineid": 802, "uuid": "5f8b235f-a68e-43fb-8055-fa8b5f47c2d9"}
+{"sub_uri": "Q984399", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Samuel Wilberforce", "lineid": 803, "uuid": "67aa3668-e3f0-4986-9092-a9a3902cd854"}
+{"sub_uri": "Q654071", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Giovanni Saldarini", "lineid": 804, "uuid": "31088242-6376-4bc6-8b09-a001db2987f0"}
+{"sub_uri": "Q45066", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Joachim Meisner", "lineid": 807, "uuid": "32b3f503-a60c-4806-9fbf-680e0ca44816"}
+{"sub_uri": "Q131587", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Clemente XIV", "lineid": 815, "uuid": "5fd1e2c1-cfca-42a0-829f-f5bff9ed610d"}
+{"sub_uri": "Q172398", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Hadri\u00e1n III", "lineid": 818, "uuid": "c708a8af-e82b-4221-ba5e-35faf0bdede1"}
+{"sub_uri": "Q160030", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "P\u00edo III", "lineid": 819, "uuid": "cf0f0769-4538-4bd1-b327-4307a525c764"}
+{"sub_uri": "Q134646", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Bonifacio VIII", "lineid": 834, "uuid": "25156eb2-fe40-498a-9046-65b29fb3f4a2"}
+{"sub_uri": "Q45066", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Joachim Meisner", "lineid": 836, "uuid": "f99f2ff1-eb9b-4052-8381-7c610510d4a7"}
+{"sub_uri": "Q170863", "obj_uri": "Q103163", "obj_label": "Abade", "sub_label": "Clemente VI", "lineid": 839, "uuid": "38aa965d-5bde-4f5b-8589-e21625e6b3f4"}
+{"sub_uri": "Q43720", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "P\u00edo IX", "lineid": 849, "uuid": "48cf0182-058f-4117-beb6-d2905098a4c1"}
+{"sub_uri": "Q221465", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Hidacio", "lineid": 850, "uuid": "ac5a64c4-6f48-4358-a0d0-f5c179150dc2"}
+{"sub_uri": "Q142999", "obj_uri": "Q29182", "obj_label": "bispo", "sub_label": "Eusebio de Cesarea", "lineid": 852, "uuid": "fef26a15-b69e-4f43-8eb8-a97986aea469"}
+{"sub_uri": "Q57952", "obj_uri": "Q30185", "obj_label": "alcalde", "sub_label": "Manfred Rommel", "lineid": 855, "uuid": "a6ad1086-302c-435b-9464-094fc439a5f9"}
+{"sub_uri": "Q1870209", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Lorenzo Baldisseri", "lineid": 859, "uuid": "ef75ebe3-5175-47c6-8bd4-0c19ccfea479"}
+{"sub_uri": "Q170299", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Bonifacio V", "lineid": 861, "uuid": "902b553a-70af-452d-b66f-adff1c1abc3d"}
+{"sub_uri": "Q31722", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Jean-Louis Lefebvre de Cheverus", "lineid": 869, "uuid": "b4af1a7f-3356-498b-90da-c58ce3261ffc"}
+{"sub_uri": "Q720249", "obj_uri": "Q49476", "obj_label": "Arcebispo", "sub_label": "Vincenzo Paglia", "lineid": 871, "uuid": "bc22b0c2-95ee-44f9-a258-3f75e9020607"}
+{"sub_uri": "Q227963", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xo\u00e1n XVII", "lineid": 873, "uuid": "77cecedc-ce5c-496b-b830-e1a41948126c"}
+{"sub_uri": "Q2494", "obj_uri": "Q45722", "obj_label": "Cardeal", "sub_label": "Bieito XVI", "lineid": 883, "uuid": "29925b0e-4528-40f5-9805-a611d6166494"}
+{"sub_uri": "Q169288", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Inocencio VI", "lineid": 884, "uuid": "7af71e9b-5d88-421d-98bc-ac91e7f1f92a"}
+{"sub_uri": "Q80516", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Xulio II", "lineid": 887, "uuid": "3b4a5b86-d733-4c18-b524-e3faf93a4c7d"}
+{"sub_uri": "Q132845", "obj_uri": "Q19546", "obj_label": "Papa", "sub_label": "Hadri\u00e1n IV", "lineid": 889, "uuid": "d586d9f5-ed6b-4b69-9599-f1425475faa6"}

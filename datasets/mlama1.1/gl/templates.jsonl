@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "[X] naceu en [Y]."}
+{"relation": "P20", "template": "[X] morreu en [Y]."}
+{"relation": "P279", "template": "[X] \u00e9 unha subclase de [Y]."}
+{"relation": "P37", "template": "O idioma oficial de [X] \u00e9 [Y]."}
+{"relation": "P413", "template": "[X] xoga na posici\u00f3n [Y]."}
+{"relation": "P166", "template": "[X] foi premiado con [Y]."}
+{"relation": "P449", "template": "[X] foi publicado orixinalmente en [Y]."}
+{"relation": "P69", "template": "[X] foi educado na Universidade de [Y]."}
+{"relation": "P47", "template": "[X] comparte fronteira con [Y]."}
+{"relation": "P138", "template": "[X] recibe o nome de [Y]."}
+{"relation": "P364", "template": "O idioma orixinal de [X] \u00e9 [Y]."}
+{"relation": "P54", "template": "[X] xoga con [Y]."}
+{"relation": "P463", "template": "[X] \u00e9 membro de [Y]."}
+{"relation": "P101", "template": "[X] funciona no campo de [Y]."}
+{"relation": "P1923", "template": "[Y] participou no [X]."}
+{"relation": "P106", "template": "[X] \u00e9 un [Y] de profesi\u00f3n."}
+{"relation": "P527", "template": "[X] est\u00e1 composto por [Y]."}
+{"relation": "P102", "template": "[X] \u00e9 membro do partido pol\u00edtico [Y]."}
+{"relation": "P530", "template": "[X] mant\u00e9n relaci\u00f3ns diplom\u00e1ticas con [Y]."}
+{"relation": "P176", "template": "[X] \u00e9 producido por [Y]."}
+{"relation": "P27", "template": "[X] \u00e9 [Y] cidad\u00e1n."}
+{"relation": "P407", "template": "[X] escribiuse en [Y]."}
+{"relation": "P30", "template": "[X] est\u00e1 situado en [Y]."}
+{"relation": "P178", "template": "[X] est\u00e1 desenvolvido por [Y]."}
+{"relation": "P1376", "template": "[X] \u00e9 a capital de [Y]."}
+{"relation": "P131", "template": "[X] est\u00e1 situado en [Y]."}
+{"relation": "P1412", "template": "[X] usado para comunicarse en [Y]."}
+{"relation": "P108", "template": "[X] funciona para [Y]."}
+{"relation": "P136", "template": "[X] toca m\u00fasica [Y]."}
+{"relation": "P17", "template": "[X] est\u00e1 situado en [Y]."}
+{"relation": "P39", "template": "[X] ten a posici\u00f3n de [Y]."}
+{"relation": "P264", "template": "[X] est\u00e1 representado polo selo musical [Y]."}
+{"relation": "P276", "template": "[X] est\u00e1 situado en [Y]."}
+{"relation": "P937", "template": "[X] usado para traballar en [Y]."}
+{"relation": "P140", "template": "[X] est\u00e1 afiliado \u00e1 relixi\u00f3n [Y]."}
+{"relation": "P1303", "template": "[X] xoga [Y]."}
+{"relation": "P127", "template": "[X] \u00e9 propiedade de [Y]."}
+{"relation": "P103", "template": "A lingua nativa de [X] \u00e9 [Y]."}
+{"relation": "P190", "template": "[X] e [Y] son \u200b\u200bcidades xemelgas."}
+{"relation": "P1001", "template": "[X] \u00e9 un termo legal en [Y]."}
+{"relation": "P31", "template": "[X] \u00e9 un [Y]."}
+{"relation": "P495", "template": "[X] creouse en [Y]."}
+{"relation": "P159", "template": "A sede de [X] est\u00e1 en [Y]."}
+{"relation": "P36", "template": "A capital de [X] \u00e9 [Y]."}
+{"relation": "P740", "template": "[X] foi fundada en [Y]."}
+{"relation": "P361", "template": "[X] forma parte de [Y]."}
+{"relation": "date_of_birth", "template": "[X] (nacido [Y])."}
+{"relation": "place_of_birth", "template": "[X] naceu en [Y]."}
+{"relation": "place_of_death", "template": "[X] morreu en [Y]."}

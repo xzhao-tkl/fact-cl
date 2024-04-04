@@ -1,0 +1,442 @@
+{"sub_uri": "Q188154", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "pektina", "lineid": 0, "uuid": "76a74800-3782-4ed7-9126-474354b9a7e4"}
+{"sub_uri": "Q2176651", "obj_uri": "Q160213", "obj_label": "Rama (mitologia)", "sub_label": "Dasavatara", "lineid": 1, "uuid": "bccd832f-334e-471b-9527-cfbdcea7d9dd"}
+{"sub_uri": "Q177540", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Parafina", "lineid": 2, "uuid": "24d7ff57-0d76-4836-bfa9-3fc68438b356"}
+{"sub_uri": "Q37726", "obj_uri": "Q29171", "obj_label": "Infanteria", "sub_label": "lur armada", "lineid": 7, "uuid": "20f67766-d6c9-4b44-b099-e33b49d7de66"}
+{"sub_uri": "Q181699", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Karbonato", "lineid": 8, "uuid": "b8265a77-6c40-41ee-80e1-f80a32b9dd43"}
+{"sub_uri": "Q19771", "obj_uri": "Q38", "obj_label": "Italia", "sub_label": "G20", "lineid": 9, "uuid": "4916857e-9058-49cd-b417-ffa8744c9f37"}
+{"sub_uri": "Q27449", "obj_uri": "Q29", "obj_label": "Espainia", "sub_label": "Hegoaldeko Europa", "lineid": 12, "uuid": "1b2ed718-9151-4fc3-8027-e9de6684f673"}
+{"sub_uri": "Q183416", "obj_uri": "Q244", "obj_label": "Barbados", "sub_label": "Haizealdeko uharteak", "lineid": 13, "uuid": "1540dd2c-fb04-404c-b72f-d372c9c85d00"}
+{"sub_uri": "Q16521", "obj_uri": "Q7239", "obj_label": "organismo", "sub_label": "taxon", "lineid": 17, "uuid": "73abebd0-0739-4630-9d57-5db34e05c4d5"}
+{"sub_uri": "Q39731", "obj_uri": "Q191", "obj_label": "Estonia", "sub_label": "Herrialde Baltikoak", "lineid": 22, "uuid": "a8a9a738-4a90-455c-9c08-42f05a54ed46"}
+{"sub_uri": "Q184485", "obj_uri": "Q47928", "obj_label": "Zirku", "sub_label": "arte eszeniko", "lineid": 23, "uuid": "7461f093-68c0-47a6-8d3f-1bd9624e7588"}
+{"sub_uri": "Q37726", "obj_uri": "Q47315", "obj_label": "Zalditeria", "sub_label": "lur armada", "lineid": 24, "uuid": "4892c098-925b-4724-95fd-8ffd5bb461ce"}
+{"sub_uri": "Q267877", "obj_uri": "Q6584340", "obj_label": "Almibar", "sub_label": "stroopwafel", "lineid": 25, "uuid": "64441909-3853-443a-b679-f6c4910b385b"}
+{"sub_uri": "Q69488", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "MDMA", "lineid": 26, "uuid": "13e6fb8d-232c-4bed-9620-917b49c352bc"}
+{"sub_uri": "Q27449", "obj_uri": "Q224", "obj_label": "Kroazia", "sub_label": "Hegoaldeko Europa", "lineid": 27, "uuid": "fec3592b-15aa-45d9-a0e2-f31a6a492ce8"}
+{"sub_uri": "Q218642", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Alanina", "lineid": 29, "uuid": "24921cdb-70ab-4750-9146-faa8555d31ca"}
+{"sub_uri": "Q15281614", "obj_uri": "Q132020", "obj_label": "Xbox", "sub_label": "Xbox", "lineid": 32, "uuid": "393b63b3-656f-43c8-b079-85a9334096a0"}
+{"sub_uri": "Q83320", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Azido nitriko", "lineid": 35, "uuid": "c150562c-6d27-47e9-9d1f-2da3da4678a5"}
+{"sub_uri": "Q2468", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "hidrogeno fluoruro", "lineid": 36, "uuid": "e5a667ab-e513-4090-aba8-ad4671c2162d"}
+{"sub_uri": "Q256502", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "azido alfa-linoleniko", "lineid": 38, "uuid": "ec72bfa9-f0aa-439e-8995-a927b67733be"}
+{"sub_uri": "Q80083", "obj_uri": "Q735", "obj_label": "arte", "sub_label": "humanitateak", "lineid": 39, "uuid": "d3824a3e-3a5d-4e79-81c1-00756cb4cc2b"}
+{"sub_uri": "Q622460", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "karbonoaren alotropoak", "lineid": 41, "uuid": "adfcf175-b532-4c10-b231-fb593108253f"}
+{"sub_uri": "Q39350", "obj_uri": "Q42918", "obj_label": "Mutazio", "sub_label": "Espeziazio", "lineid": 44, "uuid": "d6b1f7e9-4d69-42f9-ab1e-7890a0b2ec79"}
+{"sub_uri": "Q202021", "obj_uri": "Q843813", "obj_label": "Do", "sub_label": "Eskala kromatiko", "lineid": 45, "uuid": "efb21b23-48e5-42d3-945b-abf6e2e60cd9"}
+{"sub_uri": "Q244451", "obj_uri": "Q3783", "obj_label": "Amazonas", "sub_label": "Amazonasen arroa", "lineid": 46, "uuid": "6bf3b014-9fa6-49bf-bc52-be288e9f6629"}
+{"sub_uri": "Q8066", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "aminoazido", "lineid": 47, "uuid": "bc47eb37-0d06-4182-b953-d7bd30804821"}
+{"sub_uri": "Q195", "obj_uri": "Q11002", "obj_label": "azukre", "sub_label": "Txokolate", "lineid": 49, "uuid": "5f813b71-1f38-46af-a87d-e1dc3b5bcae5"}
+{"sub_uri": "Q148836", "obj_uri": "Q733786", "obj_label": "monje", "sub_label": "Monakotza", "lineid": 54, "uuid": "0b192d73-262d-4b21-8c7d-46e59fb9038c"}
+{"sub_uri": "Q193140", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "meskalina", "lineid": 56, "uuid": "eafa6d83-cd5a-48d6-9537-7f8141473100"}
+{"sub_uri": "Q132298", "obj_uri": "Q703", "obj_label": "potasio", "sub_label": "Potasio hidroxido", "lineid": 57, "uuid": "a3d6882d-f8da-4974-9ebf-ed2f9c8311dd"}
+{"sub_uri": "Q210385", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "piridina", "lineid": 59, "uuid": "b37c2365-f661-46f3-817c-2c8137acfe03"}
+{"sub_uri": "Q13317", "obj_uri": "Q8495", "obj_label": "esne", "sub_label": "jogurt", "lineid": 60, "uuid": "ccd8f9f8-b22a-4beb-92ce-eecff2cc3c34"}
+{"sub_uri": "Q245752", "obj_uri": "Q503", "obj_label": "Banana", "sub_label": "Banana split", "lineid": 63, "uuid": "af3d425f-fcf7-4a8a-9967-556deefb2fc7"}
+{"sub_uri": "Q182168", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Nitrato", "lineid": 65, "uuid": "15a3068d-35f9-43f6-bb27-9b9d255d5704"}
+{"sub_uri": "Q423143", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Esfingomielina", "lineid": 67, "uuid": "c31bb101-9605-4d31-aa73-9262d05dea01"}
+{"sub_uri": "Q52062", "obj_uri": "Q34", "obj_label": "Suedia", "sub_label": "Herrialde nordikoak", "lineid": 71, "uuid": "17caa892-c8a4-48c3-adbf-e56e53820296"}
+{"sub_uri": "Q8162", "obj_uri": "Q37437", "obj_label": "Sintaxi", "sub_label": "hizkuntzalaritza", "lineid": 74, "uuid": "ae2ce56a-2fc4-4769-a939-d0734550875b"}
+{"sub_uri": "Q151335", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Buteno", "lineid": 77, "uuid": "0271c26a-c311-446b-9267-1be975b4b43d"}
+{"sub_uri": "Q544", "obj_uri": "Q111", "obj_label": "Marte", "sub_label": "Eguzki-sistema", "lineid": 83, "uuid": "087a435a-1d33-4073-a19a-002dbd83714e"}
+{"sub_uri": "Q407373", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Arabinosa", "lineid": 84, "uuid": "88c2b0f2-a97d-4ab3-9917-bb3070de57a1"}
+{"sub_uri": "Q41534", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "almidoi", "lineid": 88, "uuid": "c2db4593-c26c-4e8a-a2f2-5dc1a218b55d"}
+{"sub_uri": "Q329888", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Bigarren Mundu Gerrako aliatuak", "lineid": 91, "uuid": "a2e007be-336f-49d4-998a-e8c7ee9cb2b4"}
+{"sub_uri": "Q170591", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "Azido sulfidriko", "lineid": 92, "uuid": "3758f3c3-eba0-4cbe-8052-25037e79fafd"}
+{"sub_uri": "Q207832", "obj_uri": "Q34172", "obj_label": "gurin", "sub_label": "kruasan", "lineid": 94, "uuid": "a8bed31f-01f9-476f-a0e3-99c6d072dabc"}
+{"sub_uri": "Q23640", "obj_uri": "Q1073", "obj_label": "garun", "sub_label": "buru", "lineid": 98, "uuid": "c1c5a031-c095-46ae-a3df-644915ca9d03"}
+{"sub_uri": "Q544", "obj_uri": "Q193", "obj_label": "Saturno", "sub_label": "Eguzki-sistema", "lineid": 105, "uuid": "dd5767ed-d19e-4825-8801-07c5c4d4f032"}
+{"sub_uri": "Q188017", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Tirosina", "lineid": 106, "uuid": "2983173a-251f-4819-920b-ca66422a6690"}
+{"sub_uri": "Q409608", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido arakidiko", "lineid": 107, "uuid": "6f79f702-880f-4459-a998-c57ff5e9a16f"}
+{"sub_uri": "Q133516", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Monosakarido", "lineid": 109, "uuid": "95cc6a11-078f-49dd-b3ae-90c613b2bbbd"}
+{"sub_uri": "Q27449", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Hegoaldeko Europa", "lineid": 112, "uuid": "acfcc633-321a-4a1f-ba38-0a9b232e4bea"}
+{"sub_uri": "Q150429", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Pentano", "lineid": 115, "uuid": "692cb777-8d80-42c0-bf9c-ce0d992c11e9"}
+{"sub_uri": "Q183290", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Serina", "lineid": 116, "uuid": "e9699a2c-69dd-4199-a688-fbc32ca64474"}
+{"sub_uri": "Q80863", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "adenosina trifosfato", "lineid": 117, "uuid": "f45a86b7-4a29-4079-9158-c3e15d5238ac"}
+{"sub_uri": "Q752783", "obj_uri": "Q11631", "obj_label": "astronauta", "sub_label": "eskifaiadun espazio hegaldi", "lineid": 118, "uuid": "d9bb1346-eb7b-4832-aaf2-afcb55c79167"}
+{"sub_uri": "Q970537", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "gantz-azido ase", "lineid": 120, "uuid": "274ed8d3-249f-448d-8cdb-eb94f1f6d2bb"}
+{"sub_uri": "Q161210", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "formaldehido", "lineid": 121, "uuid": "70671489-1ed3-4c43-9da8-2b9605b65476"}
+{"sub_uri": "Q154", "obj_uri": "Q153", "obj_label": "etanol", "sub_label": "edari alkoholdun", "lineid": 123, "uuid": "4cc920f1-e4e6-4c60-9a52-1171167564fd"}
+{"sub_uri": "Q4087", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "amoniako", "lineid": 126, "uuid": "22065c8c-2eb2-4f51-bcbb-df0a1ce63b7b"}
+{"sub_uri": "Q272502", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "bagel", "lineid": 128, "uuid": "efa62437-ee66-4cb0-a5e6-40c974c8163e"}
+{"sub_uri": "Q19771", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "G20", "lineid": 130, "uuid": "f96bfc54-81cd-4178-b2ca-6698e448a537"}
+{"sub_uri": "Q2270", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "bentzeno", "lineid": 132, "uuid": "226dd54f-3782-40d7-b679-7758007f8668"}
+{"sub_uri": "Q4421", "obj_uri": "Q10884", "obj_label": "zuhaitz", "sub_label": "baso", "lineid": 133, "uuid": "42bbd954-742a-4f70-9097-e253bff09282"}
+{"sub_uri": "Q1969730", "obj_uri": "Q39", "obj_label": "Suitza", "sub_label": "Schengen eremua", "lineid": 134, "uuid": "1204cc62-ff21-48b1-b6db-1626b846f22f"}
+{"sub_uri": "Q18", "obj_uri": "Q77", "obj_label": "Uruguai", "sub_label": "Hego Amerika", "lineid": 135, "uuid": "3f0c9962-380b-419f-b53e-71974946a7e2"}
+{"sub_uri": "Q211891", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Azido nitroso", "lineid": 136, "uuid": "b0c0199c-1c92-4bfb-84b7-66c56b57e9e2"}
+{"sub_uri": "Q1627377", "obj_uri": "Q1364", "obj_label": "fruitu", "sub_label": "infruteszentzia", "lineid": 137, "uuid": "e54837ad-3ca7-4551-86f5-1e5d86624d0c"}
+{"sub_uri": "Q181699", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Karbonato", "lineid": 140, "uuid": "7abe400b-4fe3-427d-b1da-eabac7b91d5e"}
+{"sub_uri": "Q205654", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Pentosa", "lineid": 142, "uuid": "7751c6c1-362c-4e30-8a3a-a4620505e289"}
+{"sub_uri": "Q1331998", "obj_uri": "Q45422", "obj_label": "Legamia", "sub_label": "Marmite", "lineid": 144, "uuid": "92f97401-cac3-4874-a669-f841c311c63c"}
+{"sub_uri": "Q1161185", "obj_uri": "Q8072", "obj_label": "Sumendi", "sub_label": "Uharte bolkaniko", "lineid": 145, "uuid": "500dc19c-d217-4047-93c2-7d6bfd0e589f"}
+{"sub_uri": "Q193411", "obj_uri": "Q8495", "obj_label": "esne", "sub_label": "Brie", "lineid": 146, "uuid": "9dfc32c9-49d5-492d-bec4-003da36d79b5"}
+{"sub_uri": "Q4173083", "obj_uri": "Q399", "obj_label": "Armenia", "sub_label": "Eurasiako Batasun Ekonomikoa", "lineid": 153, "uuid": "1dc81773-aedc-47e0-b225-43c63fd7789b"}
+{"sub_uri": "Q27496", "obj_uri": "Q142", "obj_label": "Frantzia", "sub_label": "Mendebaldeko Europa", "lineid": 155, "uuid": "2ce44c48-8f5d-4acd-bc79-90947340d4f5"}
+{"sub_uri": "Q52062", "obj_uri": "Q189", "obj_label": "Islandia", "sub_label": "Herrialde nordikoak", "lineid": 159, "uuid": "3f2e44fa-59c3-4f39-8fb0-a647b818bb77"}
+{"sub_uri": "Q138553", "obj_uri": "Q192628", "obj_label": "Behiki", "sub_label": "Carbonade flamande", "lineid": 160, "uuid": "f57bca6b-bf90-4d2c-8f22-ac5efe6be189"}
+{"sub_uri": "Q181381", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Galaktosa", "lineid": 162, "uuid": "6c571ac8-6960-4281-8383-ebcad72efc86"}
+{"sub_uri": "Q19771", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "G20", "lineid": 164, "uuid": "254b30f4-ccf6-4256-ad33-5bb01acb6041"}
+{"sub_uri": "Q170304", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Dopamina", "lineid": 165, "uuid": "3c35c5f5-f1c9-4089-9c2b-d77471dbd5d5"}
+{"sub_uri": "Q12837", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_label": "Iberiar penintsula", "lineid": 169, "uuid": "ab9f7bda-6212-418d-b1b9-ea56c4f60070"}
+{"sub_uri": "Q133516", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Monosakarido", "lineid": 172, "uuid": "9ef1a73e-fdf6-4ae9-917e-732d58d715a1"}
+{"sub_uri": "Q152098", "obj_uri": "Q910204", "obj_label": "Thing (Marvel Comics)", "sub_label": "Lau Izugarriak", "lineid": 177, "uuid": "9281ad1c-6579-4f27-997b-ec31d874316d"}
+{"sub_uri": "Q27496", "obj_uri": "Q55", "obj_label": "Herbehereak", "sub_label": "Mendebaldeko Europa", "lineid": 181, "uuid": "2fde969f-9798-463c-87da-bce754a53112"}
+{"sub_uri": "Q19771", "obj_uri": "Q142", "obj_label": "Frantzia", "sub_label": "G20", "lineid": 182, "uuid": "83b7252f-dea5-450d-b217-51333faee277"}
+{"sub_uri": "Q720254", "obj_uri": "Q192628", "obj_label": "Behiki", "sub_label": "Erreki", "lineid": 184, "uuid": "f7aaa9e0-3a9b-4714-a6c7-be7c44d5b6ea"}
+{"sub_uri": "Q186474", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "L-Zisteina", "lineid": 185, "uuid": "706c5fea-e228-4a16-acac-eca3d7d85ba5"}
+{"sub_uri": "Q14982", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "metanol", "lineid": 187, "uuid": "101ed6e5-4f2c-42f2-8954-d6d8b11477a4"}
+{"sub_uri": "Q23767", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Kaltzio karbonato", "lineid": 188, "uuid": "0c1e2fe0-a617-4c56-a167-194e5f07d890"}
+{"sub_uri": "Q327362", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Tri-iodotironina", "lineid": 190, "uuid": "003bfd7f-89f1-4117-a98a-0733cbd27a8b"}
+{"sub_uri": "Q1061842", "obj_uri": "Q5090", "obj_label": "Arroz", "sub_label": "Donburi", "lineid": 191, "uuid": "6474bfd0-d278-4d91-8292-08c7dd268b39"}
+{"sub_uri": "Q618057", "obj_uri": "Q128267", "obj_label": "Josef Nazaretekoa", "sub_label": "Familia Santua", "lineid": 192, "uuid": "423bd4cd-5ae1-45b9-a925-89b8fb10e658"}
+{"sub_uri": "Q620730", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "glizina", "lineid": 193, "uuid": "e541850e-f046-43bb-a28f-4807cfdabe07"}
+{"sub_uri": "Q14982", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "metanol", "lineid": 194, "uuid": "44e0d676-9bbf-4608-b31d-b1d42db07ede"}
+{"sub_uri": "Q192454", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Desoxirribosa", "lineid": 196, "uuid": "7cf80886-65b3-40c2-987b-fbe5e99a49fb"}
+{"sub_uri": "Q860465", "obj_uri": "Q192628", "obj_label": "Behiki", "sub_label": "Rosbif", "lineid": 199, "uuid": "e735c9bf-8262-453f-abd8-8e54c2120c09"}
+{"sub_uri": "Q208643", "obj_uri": "Q36117", "obj_label": "Borneo", "sub_label": "Malaysiar uhartedia", "lineid": 201, "uuid": "8f263c3d-6c54-4567-928e-3931fb095b69"}
+{"sub_uri": "Q190012", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "adenosina", "lineid": 203, "uuid": "d2372130-7a0b-4cb6-9b20-c45906dd0506"}
+{"sub_uri": "Q832791", "obj_uri": "Q10943", "obj_label": "Gazta", "sub_label": "Focaccia", "lineid": 204, "uuid": "aeff19a9-476f-4cb8-88f0-e400ec275eb0"}
+{"sub_uri": "Q415945", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Fitol", "lineid": 205, "uuid": "34118f55-8baa-4ca5-9ead-c68c1b0648f5"}
+{"sub_uri": "Q413426", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "Tiazol", "lineid": 206, "uuid": "26b38a90-9988-46a4-91a0-17edfd8435d4"}
+{"sub_uri": "Q189335", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "zementita", "lineid": 208, "uuid": "74edf4ae-cada-4373-b8b3-019374345acc"}
+{"sub_uri": "Q116269", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Silizio dioxido", "lineid": 209, "uuid": "c9768ddf-8dd1-4317-8660-07e9b88944e0"}
+{"sub_uri": "Q207688", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Azido oleiko", "lineid": 213, "uuid": "64a64163-bfb4-4743-bfe4-17640669945d"}
+{"sub_uri": "Q27468", "obj_uri": "Q218", "obj_label": "Errumania", "sub_label": "Ekialdeko Europa", "lineid": 218, "uuid": "fcc8c5c0-4bf7-4e9b-b5a1-a6ce726a7efe"}
+{"sub_uri": "Q208105", "obj_uri": "Q5090", "obj_label": "Arroz", "sub_label": "Risotto", "lineid": 219, "uuid": "7ffb22ad-6643-416b-8579-1b30cba8231f"}
+{"sub_uri": "Q80083", "obj_uri": "Q309", "obj_label": "historia", "sub_label": "humanitateak", "lineid": 221, "uuid": "475d3c40-869b-436a-9ccf-34c063ac3276"}
+{"sub_uri": "Q80294", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "zelulosa", "lineid": 223, "uuid": "98e43579-5c4b-43ed-969e-1246808466bc"}
+{"sub_uri": "Q41534", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "almidoi", "lineid": 224, "uuid": "aa41968a-f6d5-417b-bdf0-278955f4be78"}
+{"sub_uri": "Q1969730", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "Schengen eremua", "lineid": 225, "uuid": "029181db-6c6e-43a0-82ea-2d48a5628910"}
+{"sub_uri": "Q12861", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "Bolbora", "lineid": 227, "uuid": "1c2222af-aabf-42f9-a222-d86fd4a06085"}
+{"sub_uri": "Q184485", "obj_uri": "Q638", "obj_label": "musika", "sub_label": "arte eszeniko", "lineid": 228, "uuid": "af366932-0e3f-4cdc-887a-1a1f7dc790fd"}
+{"sub_uri": "Q27496", "obj_uri": "Q31", "obj_label": "Belgika", "sub_label": "Mendebaldeko Europa", "lineid": 232, "uuid": "e5b886f2-07e3-4aa6-a6e5-b84b8c53323b"}
+{"sub_uri": "Q230731", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "hidrokarburo aromatiko", "lineid": 243, "uuid": "a40067e7-6f7b-49ca-9a65-c5b18830a1e8"}
+{"sub_uri": "Q419205", "obj_uri": "Q708", "obj_label": "berun", "sub_label": "Berun tetraoxido", "lineid": 245, "uuid": "d788fabc-0f3a-4fef-9bb6-5a1a8fe61dde"}
+{"sub_uri": "Q329888", "obj_uri": "Q20", "obj_label": "Norvegia", "sub_label": "Bigarren Mundu Gerrako aliatuak", "lineid": 246, "uuid": "d2cab9ce-3f16-4d61-b251-dced6a2e5b8a"}
+{"sub_uri": "Q193841", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Zelofan", "lineid": 249, "uuid": "22793fe1-ae06-4d4f-9584-f65930d7a83f"}
+{"sub_uri": "Q150843", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Zetano", "lineid": 253, "uuid": "d20e8628-33d9-4b12-890b-1010705a1bfd"}
+{"sub_uri": "Q212553", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Melamina", "lineid": 254, "uuid": "dd4096a0-5451-4e21-b786-0c7233a44e81"}
+{"sub_uri": "Q18", "obj_uri": "Q419", "obj_label": "Peru", "sub_label": "Hego Amerika", "lineid": 255, "uuid": "59375671-a27e-4faa-93aa-ce58851ac165"}
+{"sub_uri": "Q130223", "obj_uri": "Q726", "obj_label": "zaldi", "sub_label": "Grifo", "lineid": 261, "uuid": "4c5b83d0-b3cd-4a76-bbca-561adf3a42d7"}
+{"sub_uri": "Q633469", "obj_uri": "Q191768", "obj_label": "Txerriki", "sub_label": "Sobrasada", "lineid": 262, "uuid": "beacf3e3-809c-4848-a0af-d7ce9cff9024"}
+{"sub_uri": "Q796758", "obj_uri": "Q93189", "obj_label": "arrautza", "sub_label": "Zuringo", "lineid": 263, "uuid": "44fd03dc-e68b-4474-ad66-261652fbe9cd"}
+{"sub_uri": "Q177342", "obj_uri": "Q663", "obj_label": "aluminio", "sub_label": "Alumina", "lineid": 266, "uuid": "81c74d37-2e59-4d31-b9de-fd8040a91f72"}
+{"sub_uri": "Q1049852", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "Bizkotxo", "lineid": 268, "uuid": "1888ba6d-773f-49dd-875f-6bfa709976bb"}
+{"sub_uri": "Q62825", "obj_uri": "Q1449", "obj_label": "Genova", "sub_label": "Itsas Errepublikak", "lineid": 269, "uuid": "c9b621c1-aaad-4d60-94d9-7f407e21a6a4"}
+{"sub_uri": "Q1969730", "obj_uri": "Q31", "obj_label": "Belgika", "sub_label": "Schengen eremua", "lineid": 270, "uuid": "d2af7a53-2b28-4318-aee9-a81f4799f2d2"}
+{"sub_uri": "Q12748", "obj_uri": "Q22656", "obj_label": "Petrolio", "sub_label": "Erregai fosil", "lineid": 271, "uuid": "bf42dce7-73a4-4fe6-8655-a9deffc57909"}
+{"sub_uri": "Q1969730", "obj_uri": "Q189", "obj_label": "Islandia", "sub_label": "Schengen eremua", "lineid": 275, "uuid": "1a5c621b-d560-41d8-912a-13cb2101b6be"}
+{"sub_uri": "Q207722", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Pirimidina", "lineid": 277, "uuid": "c5663a75-9868-49df-8960-4b19d8ba90ea"}
+{"sub_uri": "Q18", "obj_uri": "Q298", "obj_label": "Txile", "sub_label": "Hego Amerika", "lineid": 279, "uuid": "53ec1757-367a-49e1-967f-3d8a56ec8bd8"}
+{"sub_uri": "Q424284", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Pirazina", "lineid": 281, "uuid": "95894cdf-2d71-4268-b7a2-43ef2e384458"}
+{"sub_uri": "Q184782", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "azido fosforiko", "lineid": 282, "uuid": "eeb4748e-6409-456d-84d3-f808276408b9"}
+{"sub_uri": "Q27468", "obj_uri": "Q159", "obj_label": "Errusia", "sub_label": "Ekialdeko Europa", "lineid": 284, "uuid": "b5473090-f172-46f7-85cf-0aafdc14e254"}
+{"sub_uri": "Q4173083", "obj_uri": "Q159", "obj_label": "Errusia", "sub_label": "Eurasiako Batasun Ekonomikoa", "lineid": 289, "uuid": "b28d5cb9-a3e4-4a2e-bdf0-af97292f38c3"}
+{"sub_uri": "Q1969730", "obj_uri": "Q36", "obj_label": "Polonia", "sub_label": "Schengen eremua", "lineid": 290, "uuid": "4b6f8f8b-8af4-4a61-9e13-25ce1f6d7934"}
+{"sub_uri": "Q409108", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Zetosa", "lineid": 293, "uuid": "948052e6-e804-44b5-ae41-9b70fa213181"}
+{"sub_uri": "Q213580", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido pirubiko", "lineid": 295, "uuid": "95f87cd9-937c-43f9-8084-43a4a460b607"}
+{"sub_uri": "Q19771", "obj_uri": "Q668", "obj_label": "India", "sub_label": "G20", "lineid": 296, "uuid": "369b6dcd-1f75-482d-a1c9-5b1670fe5212"}
+{"sub_uri": "Q210041", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Adenosin monofosfato zikliko", "lineid": 302, "uuid": "59763a02-7bde-425b-8844-52d07f5589ed"}
+{"sub_uri": "Q369309", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "fosforo pentoxido", "lineid": 305, "uuid": "d5095e16-31d8-48b6-b920-8e5b43007d48"}
+{"sub_uri": "Q413426", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Tiazol", "lineid": 307, "uuid": "44b207f7-38cf-4cc8-8579-a9c51480ea6b"}
+{"sub_uri": "Q205654", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Pentosa", "lineid": 314, "uuid": "1c43d311-01a1-4f5b-b21d-a60c8ee79aac"}
+{"sub_uri": "Q421773", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Trehalosa", "lineid": 316, "uuid": "b64f04b1-4a9b-4637-a754-22376ee3b87e"}
+{"sub_uri": "Q39782", "obj_uri": "Q758", "obj_label": "zink", "sub_label": "Letoi", "lineid": 318, "uuid": "c62cab9c-409d-4b1c-a031-640c419e0c3d"}
+{"sub_uri": "Q12837", "obj_uri": "Q29", "obj_label": "Espainia", "sub_label": "Iberiar penintsula", "lineid": 319, "uuid": "1b9817f2-751f-4043-8a00-203e50843aa7"}
+{"sub_uri": "Q11427", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "altzairu", "lineid": 321, "uuid": "9aec55bc-8bd3-4716-8fc7-83f4d4262448"}
+{"sub_uri": "Q76904", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Keroseno", "lineid": 322, "uuid": "401b4f8e-719f-48db-89dd-a593ae8f968f"}
+{"sub_uri": "Q415144", "obj_uri": "Q706", "obj_label": "kaltzio", "sub_label": "kaltzio hidrogenokarbonato", "lineid": 323, "uuid": "4b9209f5-42fe-4d7e-bb83-e34a36798f87"}
+{"sub_uri": "Q421972", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "azido maloniko", "lineid": 324, "uuid": "e79726ea-1f02-4951-a464-295cf2d6746b"}
+{"sub_uri": "Q12748", "obj_uri": "Q24489", "obj_label": "Harrikatz", "sub_label": "Erregai fosil", "lineid": 325, "uuid": "208778e5-3927-4940-a592-a440050e3a5e"}
+{"sub_uri": "Q2769472", "obj_uri": "Q600396", "obj_label": "arrain", "sub_label": "Caldeirada", "lineid": 328, "uuid": "8355e6f3-3937-404c-9c30-1aa8948e6116"}
+{"sub_uri": "Q632552", "obj_uri": "Q215987", "obj_label": "Frantziako Senatua", "sub_label": "Frantziako Parlamentua", "lineid": 329, "uuid": "b813f6a1-12d9-4d9d-9601-5180101c9e9c"}
+{"sub_uri": "Q407699", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido arakidoniko", "lineid": 330, "uuid": "0217df21-4dd5-4a2a-ac3f-b622fe55bdbe"}
+{"sub_uri": "Q407997", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Inositol", "lineid": 335, "uuid": "d42639b2-65f4-411d-8eff-8d3830979dc5"}
+{"sub_uri": "Q424418", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "nitrogeno-oxidoak", "lineid": 337, "uuid": "36d6e607-606f-40f4-b04e-decd6d10662a"}
+{"sub_uri": "Q178430", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Lisina", "lineid": 342, "uuid": "b7609e43-a797-4d57-92e1-daa947d6fc82"}
+{"sub_uri": "Q424182", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Heptosa", "lineid": 344, "uuid": "a07c1210-09c7-4dc9-aea6-1de3471c24eb"}
+{"sub_uri": "Q329888", "obj_uri": "Q739", "obj_label": "Kolonbia", "sub_label": "Bigarren Mundu Gerrako aliatuak", "lineid": 345, "uuid": "b3e45263-8c1a-4811-b33d-37102403569d"}
+{"sub_uri": "Q26075", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido zianhidriko", "lineid": 347, "uuid": "3640acf9-2d70-4eea-ae17-4989d34b94c3"}
+{"sub_uri": "Q83320", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Azido nitriko", "lineid": 350, "uuid": "c5af0195-5848-48eb-b69b-65f427dd2d6a"}
+{"sub_uri": "Q409017", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Zelobiosa", "lineid": 351, "uuid": "aa73a78a-92bd-49ee-b363-7ba353c3f706"}
+{"sub_uri": "Q190012", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "adenosina", "lineid": 352, "uuid": "2cf3333c-d082-45cb-8199-78a856da9607"}
+{"sub_uri": "Q81041", "obj_uri": "Q25257", "obj_label": "Prezipitazio", "sub_label": "Uraren zikloa", "lineid": 353, "uuid": "cd486e7b-fd52-4ea0-bdf2-7be2f2a75034"}
+{"sub_uri": "Q181619", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Glutamina", "lineid": 354, "uuid": "c568b442-cd1d-411d-9381-87957d5c3032"}
+{"sub_uri": "Q605761", "obj_uri": "Q5456", "obj_label": "Andeak", "sub_label": "Amerikar mendikatea", "lineid": 355, "uuid": "bf8e750f-b6ce-4a18-9664-937b3e948d09"}
+{"sub_uri": "Q21195", "obj_uri": "Q34", "obj_label": "Suedia", "sub_label": "Eskandinavia", "lineid": 357, "uuid": "fbca090d-5a8b-4716-9d29-e7fd4b37415b"}
+{"sub_uri": "Q182329", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "amonio nitrato", "lineid": 360, "uuid": "1c4f5cce-1880-4088-8889-0730210e14fe"}
+{"sub_uri": "Q5401", "obj_uri": "Q48", "obj_label": "Asia", "sub_label": "Eurasia", "lineid": 362, "uuid": "351fd108-0bac-4b4e-b46c-562b5672fa3e"}
+{"sub_uri": "Q424418", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "nitrogeno-oxidoak", "lineid": 363, "uuid": "b7b05643-5f15-47ca-87e9-b518532a1043"}
+{"sub_uri": "Q184485", "obj_uri": "Q1344", "obj_label": "opera", "sub_label": "arte eszeniko", "lineid": 365, "uuid": "5a0fdcca-5d77-441c-87e8-5d8578aada9f"}
+{"sub_uri": "Q132501", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "glizerina", "lineid": 369, "uuid": "705d32b2-7bae-4deb-8768-db2adacad5ad"}
+{"sub_uri": "Q83203", "obj_uri": "Q726", "obj_label": "zaldi", "sub_label": "Zentauro", "lineid": 370, "uuid": "f93596e4-ab68-49b1-b002-c8914662b195"}
+{"sub_uri": "Q174936", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Glukogeno", "lineid": 371, "uuid": "6055b950-f77c-419a-a4c7-945e2369d413"}
+{"sub_uri": "Q210385", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "piridina", "lineid": 373, "uuid": "8992c320-696d-4922-982b-2f50680af7f6"}
+{"sub_uri": "Q6559431", "obj_uri": "Q7802", "obj_label": "ogi", "sub_label": "Tosta", "lineid": 374, "uuid": "40732537-de85-4649-84e8-e802b4c61470"}
+{"sub_uri": "Q715317", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azetil-CoA", "lineid": 377, "uuid": "0de513de-77e5-49e1-b249-b82683aa4105"}
+{"sub_uri": "Q1969730", "obj_uri": "Q211", "obj_label": "Letonia", "sub_label": "Schengen eremua", "lineid": 378, "uuid": "923cbedd-27f3-439b-93e0-6947d4e42398"}
+{"sub_uri": "Q329888", "obj_uri": "Q16", "obj_label": "Kanada", "sub_label": "Bigarren Mundu Gerrako aliatuak", "lineid": 387, "uuid": "4dd92109-5eaa-4ac7-b4a0-a0420a99a152"}
+{"sub_uri": "Q190901", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "amonio", "lineid": 388, "uuid": "74125efc-ddc2-4928-9aaa-b19293071021"}
+{"sub_uri": "Q407997", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Inositol", "lineid": 391, "uuid": "225a2241-a6fe-4f57-84f4-80343bfddaa7"}
+{"sub_uri": "Q328692", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "imidazol", "lineid": 394, "uuid": "0d32878c-d48e-4d74-8af8-782eb5bbc5d5"}
+{"sub_uri": "Q328121", "obj_uri": "Q1490", "obj_label": "Tokio", "sub_label": "Tokioko metropoli eremua", "lineid": 396, "uuid": "6bb60d63-7fe3-48ab-a429-dc0212fdc3f9"}
+{"sub_uri": "Q816264", "obj_uri": "Q395", "obj_label": "matematika", "sub_label": "zientzia formal", "lineid": 397, "uuid": "edb28e79-a1c6-467d-a885-84d3130a4eb0"}
+{"sub_uri": "Q259997", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Hidroxilamina", "lineid": 399, "uuid": "dbef0652-a400-4190-91a6-01e1540af922"}
+{"sub_uri": "Q753910", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "Soba", "lineid": 400, "uuid": "0141427a-653a-4698-ac3b-28d29c46ac5c"}
+{"sub_uri": "Q410234", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "piperidina", "lineid": 402, "uuid": "ac1dc142-656b-41c1-afe1-835da0ea6364"}
+{"sub_uri": "Q25774", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido isozianiko", "lineid": 405, "uuid": "ce4c942a-f913-4a63-bb2d-0d827673eba5"}
+{"sub_uri": "Q4173083", "obj_uri": "Q184", "obj_label": "Bielorrusia", "sub_label": "Eurasiako Batasun Ekonomikoa", "lineid": 406, "uuid": "b2e92781-ce0b-4d54-8c34-ee5b9a3b41cd"}
+{"sub_uri": "Q9595", "obj_uri": "Q11378", "obj_label": "Shiva", "sub_label": "Tri-murti", "lineid": 407, "uuid": "39c73e75-4870-458e-81ae-d982c6b0ddab"}
+{"sub_uri": "Q180341", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Metionina", "lineid": 410, "uuid": "7233aff6-27ed-47e1-b640-2b769f2ecd6a"}
+{"sub_uri": "Q26075", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Azido zianhidriko", "lineid": 411, "uuid": "f63c2b52-d53f-4fef-b349-69e3b6a575dd"}
+{"sub_uri": "Q182849", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Kaltzio hidroxido", "lineid": 413, "uuid": "07b84291-92aa-4ea2-91d0-8f9e300af20a"}
+{"sub_uri": "Q19557", "obj_uri": "Q703", "obj_label": "potasio", "sub_label": "metal alkalino", "lineid": 416, "uuid": "cbc7b692-582b-4ce2-be47-7532cfc8a78c"}
+{"sub_uri": "Q60235", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Kafeina", "lineid": 418, "uuid": "92b17a77-6492-460d-b33b-2fd255d57f3a"}
+{"sub_uri": "Q854342", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "Panettone", "lineid": 421, "uuid": "e45d00e8-16d2-4a70-9b81-1720a13f33ba"}
+{"sub_uri": "Q899877", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Glikolaldehido", "lineid": 424, "uuid": "71343bf8-e631-4957-bb2f-fea38eb93614"}
+{"sub_uri": "Q2920963", "obj_uri": "Q11004", "obj_label": "Barazki", "sub_label": "Erregosi", "lineid": 425, "uuid": "8dec5e41-1bdb-439c-a86a-d6b48acb7b5e"}
+{"sub_uri": "Q243992", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Furano", "lineid": 428, "uuid": "a5e52db0-796a-44cf-a1e5-b43bb4fb8c5b"}
+{"sub_uri": "Q988343", "obj_uri": "Q9655", "obj_label": "arteria", "sub_label": "odol-hodi", "lineid": 429, "uuid": "a62e7c3f-7361-4e4c-97cf-2ab4d9bff946"}
+{"sub_uri": "Q208118", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "psilozibina", "lineid": 431, "uuid": "d11d0520-84da-4fd6-a90d-5376b730e69c"}
+{"sub_uri": "Q242715", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "sufre trioxido", "lineid": 432, "uuid": "993f8172-410d-4c3a-8d67-5bc566cdb033"}
+{"sub_uri": "Q2095629", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Pineno", "lineid": 436, "uuid": "a6db2de6-c114-44d4-a2c4-e35769c4fad4"}
+{"sub_uri": "Q201552", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Inulina", "lineid": 438, "uuid": "865c3249-f2db-4e79-adb1-61953d0836e6"}
+{"sub_uri": "Q544", "obj_uri": "Q2", "obj_label": "Lurra", "sub_label": "Eguzki-sistema", "lineid": 442, "uuid": "61217192-44c3-47e0-a0cb-6cde4741654d"}
+{"sub_uri": "Q80294", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "zelulosa", "lineid": 444, "uuid": "f4d49a1d-86eb-4430-b85c-5868f1133555"}
+{"sub_uri": "Q151324", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Propeno", "lineid": 447, "uuid": "e2d1b55f-a7a1-4fa2-8cd1-2db1d8976ec5"}
+{"sub_uri": "Q34990", "obj_uri": "Q9190", "obj_label": "Irteera", "sub_label": "Tora", "lineid": 448, "uuid": "4adf56e7-b0e5-47e2-a6df-e84be99329ad"}
+{"sub_uri": "Q245282", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "aminoazido esentzial", "lineid": 452, "uuid": "087cb7e4-0488-44b6-af63-48b5743efb52"}
+{"sub_uri": "Q150731", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "undekano", "lineid": 453, "uuid": "d8b57229-1b2f-4260-9f92-47f5f885b256"}
+{"sub_uri": "Q794810", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Glizeraldehido-3-fosfato", "lineid": 455, "uuid": "d36fb1ba-7188-4e1e-87b6-ed710e19cbc1"}
+{"sub_uri": "Q41576", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "kokaina", "lineid": 457, "uuid": "f944e781-91ad-4520-be58-60549cd47234"}
+{"sub_uri": "Q181136", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Azido glutamiko", "lineid": 458, "uuid": "e21a9804-e850-4d32-93e3-112945158348"}
+{"sub_uri": "Q153", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "etanol", "lineid": 459, "uuid": "e9498971-4f09-49ad-a492-684a6e1f0ba1"}
+{"sub_uri": "Q259997", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Hidroxilamina", "lineid": 460, "uuid": "cd9010f9-7218-49dc-808e-f5de1a805a0e"}
+{"sub_uri": "Q409292", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "piperazina", "lineid": 461, "uuid": "3f26a044-baaa-4ae2-836a-68fd7d67639c"}
+{"sub_uri": "Q184485", "obj_uri": "Q2743", "obj_label": "Musikal", "sub_label": "arte eszeniko", "lineid": 463, "uuid": "434d0d3a-fafa-45cc-91e1-f769f7eb1229"}
+{"sub_uri": "Q184485", "obj_uri": "Q11635", "obj_label": "antzerki", "sub_label": "arte eszeniko", "lineid": 470, "uuid": "c7c2390f-3fea-407f-a270-f46b60a19489"}
+{"sub_uri": "Q180341", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Metionina", "lineid": 475, "uuid": "c70306b7-fffe-42a3-b244-0d0734730744"}
+{"sub_uri": "Q27231", "obj_uri": "Q14773", "obj_label": "Macao", "sub_label": "Ekialdeko Asia", "lineid": 482, "uuid": "c7fe26d7-08fb-4a91-a901-1398e951c66e"}
+{"sub_uri": "Q213580", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Azido pirubiko", "lineid": 483, "uuid": "5c54d8ba-3dac-4c74-bd68-eb6096eca3df"}
+{"sub_uri": "Q155890", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Ur astun", "lineid": 488, "uuid": "7d39ff3d-08d2-47d0-97b4-2326ebcfaf3c"}
+{"sub_uri": "Q782794", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "Zortearen gaileta", "lineid": 489, "uuid": "75d6d848-a7c3-47fd-8c3c-02a1704ab68c"}
+{"sub_uri": "Q183290", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Serina", "lineid": 490, "uuid": "d592b3f1-da6c-4d81-8b58-9bd390ebb6d2"}
+{"sub_uri": "Q1854639", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "Dumpling", "lineid": 491, "uuid": "6f03ad29-9bb5-44e4-907e-f1352b8a1fbd"}
+{"sub_uri": "Q134219", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "polisakarido", "lineid": 493, "uuid": "272e68b5-e5d9-4777-9d7f-383f2e1e537b"}
+{"sub_uri": "Q544", "obj_uri": "Q405", "obj_label": "Ilargia", "sub_label": "Eguzki-sistema", "lineid": 495, "uuid": "d11d2810-2049-43df-a787-4fd3df590714"}
+{"sub_uri": "Q179724", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "naftaleno", "lineid": 496, "uuid": "f1936093-630e-4b2e-870c-9625aacd8790"}
+{"sub_uri": "Q407548", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Magnesio hidroxido", "lineid": 497, "uuid": "a04a22cc-95a4-461f-abe6-8ef12bc52d24"}
+{"sub_uri": "Q183440", "obj_uri": "Q37525", "obj_label": "glukosa", "sub_label": "Karamelu", "lineid": 498, "uuid": "f5970150-0014-482d-96d2-9c35c401fb63"}
+{"sub_uri": "Q1269205", "obj_uri": "Q5090", "obj_label": "Arroz", "sub_label": "Arroz-irin", "lineid": 504, "uuid": "e0afe6cf-e931-4c34-bf65-4cf841d69a3f"}
+{"sub_uri": "Q849881", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "hidronio", "lineid": 505, "uuid": "d8f05b0c-17a1-44eb-8302-3304e3fbf337"}
+{"sub_uri": "Q309033", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "merkurio fulminato", "lineid": 506, "uuid": "35444d38-37bd-4497-abcb-4242eeb2ea82"}
+{"sub_uri": "Q379138", "obj_uri": "Q11002", "obj_label": "azukre", "sub_label": "Azukrezko gozokia", "lineid": 507, "uuid": "7221e1f3-e1ac-43a0-9905-4a5fa68d1618"}
+{"sub_uri": "Q1131303", "obj_uri": "Q34679", "obj_label": "Harea", "sub_label": "Loam", "lineid": 508, "uuid": "9dd85a36-73c4-4c3d-90c6-391b1d9c5773"}
+{"sub_uri": "Q483745", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Leuzina", "lineid": 509, "uuid": "b504cdae-000b-4f01-85d3-2edd0941acd3"}
+{"sub_uri": "Q27496", "obj_uri": "Q39", "obj_label": "Suitza", "sub_label": "Mendebaldeko Europa", "lineid": 511, "uuid": "5a978a12-8baf-41b4-a925-147b1de57a20"}
+{"sub_uri": "Q12861", "obj_uri": "Q177463", "obj_label": "Egur ikatz", "sub_label": "Bolbora", "lineid": 512, "uuid": "fbabf7c8-4572-47f5-84d5-6b8e202d09a7"}
+{"sub_uri": "Q27381", "obj_uri": "Q1049", "obj_label": "Sudan", "sub_label": "Iparraldeko Afrika", "lineid": 517, "uuid": "f5732c9d-cd42-4f4c-9fc8-0c6ff012a781"}
+{"sub_uri": "Q772326", "obj_uri": "Q8495", "obj_label": "esne", "sub_label": "Banon", "lineid": 518, "uuid": "05514ed5-3f08-4295-bd56-7d3c876d9b9c"}
+{"sub_uri": "Q185006", "obj_uri": "Q706", "obj_label": "kaltzio", "sub_label": "kaltzio oxido", "lineid": 519, "uuid": "aab194f2-a5b8-42e4-b628-a4911fff6225"}
+{"sub_uri": "Q170167", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Trinitrotolueno", "lineid": 520, "uuid": "e627bc74-ed6a-4f9e-85b6-430c3b705e6c"}
+{"sub_uri": "Q207877", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Fosfina", "lineid": 521, "uuid": "7c6fbc4f-6c7c-434e-b483-e52278668a78"}
+{"sub_uri": "Q185749", "obj_uri": "Q8495", "obj_label": "esne", "sub_label": "Kefir", "lineid": 522, "uuid": "e00ab460-9559-4f62-88a9-71a11bf0ce50"}
+{"sub_uri": "Q211086", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "hidrogeno kloruro", "lineid": 524, "uuid": "9878fc32-b85d-4ce0-9790-4e08792e50fc"}
+{"sub_uri": "Q185253", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "adenosina difosfato", "lineid": 525, "uuid": "4bbd4bc0-3c67-4e0e-8911-9b54983669cc"}
+{"sub_uri": "Q47512", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "azido azetiko", "lineid": 529, "uuid": "dd8645b6-1170-4bc7-85de-d9c8415c9a09"}
+{"sub_uri": "Q1190838", "obj_uri": "Q34172", "obj_label": "gurin", "sub_label": "Napolitana", "lineid": 530, "uuid": "269e6103-6824-4998-be9e-f81c629d6fe5"}
+{"sub_uri": "Q192639", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "heterosido", "lineid": 538, "uuid": "cd740b6b-e838-45ef-a5f8-e265033f5ee4"}
+{"sub_uri": "Q421948", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "azido organiko", "lineid": 539, "uuid": "7ba7ebef-94d6-49f4-bfa2-d3e2a57b3d9d"}
+{"sub_uri": "Q179678", "obj_uri": "Q658", "obj_label": "sodio", "sub_label": "monosodio L-glutamato", "lineid": 544, "uuid": "a9cac5cb-8cc7-4a61-850d-272790ad2389"}
+{"sub_uri": "Q15277", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "adenina", "lineid": 545, "uuid": "4aa91547-e030-4765-9e47-e9f32571e7e1"}
+{"sub_uri": "Q4419229", "obj_uri": "Q670", "obj_label": "silizio", "sub_label": "Silizeno", "lineid": 550, "uuid": "40d5a5d6-7cd5-4138-801e-e2b81ff7e542"}
+{"sub_uri": "Q410305", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "hipoxantina", "lineid": 553, "uuid": "1e333895-81a9-4124-9685-0dd6dc54fe8b"}
+{"sub_uri": "Q1969730", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Schengen eremua", "lineid": 554, "uuid": "e03cf7b8-455a-4813-a243-2e1cc06eeabe"}
+{"sub_uri": "Q3707847", "obj_uri": "Q326653", "obj_label": "kontulari", "sub_label": "Liburu-eramailetza", "lineid": 555, "uuid": "3a03bb2d-985d-416c-91e8-31f7f317e59f"}
+{"sub_uri": "Q423179", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Idosa", "lineid": 557, "uuid": "9fd29da6-0f0d-47a1-bfd4-60c58c5b3133"}
+{"sub_uri": "Q423185", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Kortisona", "lineid": 558, "uuid": "88645074-85b5-44aa-90a8-887872b55520"}
+{"sub_uri": "Q188714", "obj_uri": "Q939723", "obj_label": "Albo-nabe", "sub_label": "Nabe", "lineid": 561, "uuid": "282dd4cd-199e-4937-92f7-712ebcc4421e"}
+{"sub_uri": "Q27381", "obj_uri": "Q79", "obj_label": "Egipto", "sub_label": "Iparraldeko Afrika", "lineid": 566, "uuid": "754bb5ed-b9f2-4d9c-b36b-86037f991616"}
+{"sub_uri": "Q5447188", "obj_uri": "Q146505", "obj_label": "disolbatzaile", "sub_label": "disoluzio", "lineid": 570, "uuid": "77958426-e33d-408f-ac7b-6cc73e1d10f9"}
+{"sub_uri": "Q59447", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "diterpeno", "lineid": 573, "uuid": "3ac813c3-c5bd-4d05-854a-6343aa7dcfc7"}
+{"sub_uri": "Q544", "obj_uri": "Q313", "obj_label": "Artizarra", "sub_label": "Eguzki-sistema", "lineid": 575, "uuid": "5a8b472d-6195-41c7-840c-8f528553ebb7"}
+{"sub_uri": "Q49546", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "azetona", "lineid": 576, "uuid": "6f5daa7a-0fcf-4fbc-94df-da40c69ce32b"}
+{"sub_uri": "Q1969730", "obj_uri": "Q32", "obj_label": "Luxenburgo", "sub_label": "Schengen eremua", "lineid": 577, "uuid": "e86085dd-94bd-46e8-a29e-d2e41274f4e5"}
+{"sub_uri": "Q178593", "obj_uri": "Q11369", "obj_label": "molekula", "sub_label": "makromolekula", "lineid": 583, "uuid": "2805d2fb-4798-4952-9b1d-b2cbf53e8c36"}
+{"sub_uri": "Q218642", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Alanina", "lineid": 584, "uuid": "99139a6c-005d-4d7d-8150-5064bf7cc5cb"}
+{"sub_uri": "Q757163", "obj_uri": "Q42295", "obj_label": "zuhaixka", "sub_label": "zurezko landare", "lineid": 585, "uuid": "2951b7dd-1699-47e4-a0f5-ca51313947ea"}
+{"sub_uri": "Q145352", "obj_uri": "Q758", "obj_label": "zink", "sub_label": "Zamak", "lineid": 586, "uuid": "102b960e-8af5-4479-b078-54219325b8d2"}
+{"sub_uri": "Q34749", "obj_uri": "Q9418", "obj_label": "Psikologia", "sub_label": "gizarte-zientzia", "lineid": 587, "uuid": "9ff74e3b-2a7e-49e2-b42c-5799d224e358"}
+{"sub_uri": "Q1318776", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Testosterona", "lineid": 588, "uuid": "93191d9d-a808-4557-966e-294f313f9b37"}
+{"sub_uri": "Q635675", "obj_uri": "Q152", "obj_label": "arrain", "sub_label": "Waterzooi", "lineid": 590, "uuid": "eafcb430-6d1f-4900-a229-eea5cad25e41"}
+{"sub_uri": "Q27468", "obj_uri": "Q184", "obj_label": "Bielorrusia", "sub_label": "Ekialdeko Europa", "lineid": 592, "uuid": "1b4d1504-3220-4a81-ae7b-7e9463652feb"}
+{"sub_uri": "Q828043", "obj_uri": "Q600396", "obj_label": "arrain", "sub_label": "Bouillabaisse", "lineid": 595, "uuid": "9f51e239-7f0a-4ae2-b032-5cb82af9f967"}
+{"sub_uri": "Q187045", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Azido boriko", "lineid": 598, "uuid": "537dcdf3-051b-469a-845d-d85c62f0da43"}
+{"sub_uri": "Q185076", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Zianuro", "lineid": 599, "uuid": "e333ebd9-096b-4692-8172-938f03e0e2e6"}
+{"sub_uri": "Q273822", "obj_uri": "Q333", "obj_label": "Astronomia", "sub_label": "Quadrivium", "lineid": 603, "uuid": "a34bb64a-78bd-4a72-8d2d-d19afa55429d"}
+{"sub_uri": "Q37726", "obj_uri": "Q64418", "obj_label": "Artilleria", "sub_label": "lur armada", "lineid": 604, "uuid": "a773bdba-313e-440f-98a5-0e03bd80e4c7"}
+{"sub_uri": "Q422627", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido lauriko", "lineid": 605, "uuid": "cdae25e6-93e4-4b10-b2c4-0981d5cf9f0d"}
+{"sub_uri": "Q489157", "obj_uri": "Q377164", "obj_label": "Grapa", "sub_label": "Grapagailu", "lineid": 606, "uuid": "3cc25a60-a198-4ead-a7f8-ead292a5c7b5"}
+{"sub_uri": "Q7802", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "ogi", "lineid": 607, "uuid": "e1a17aec-2a8b-4484-a499-47a2f803b1de"}
+{"sub_uri": "Q186817", "obj_uri": "Q12117", "obj_label": "Zereal", "sub_label": "Porridge", "lineid": 609, "uuid": "6e176536-6aec-4ef0-a3ea-626580ea700f"}
+{"sub_uri": "Q130365", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "B2 bitamina", "lineid": 611, "uuid": "8b930b0d-b890-4724-9c91-71c5126697ad"}
+{"sub_uri": "Q104934", "obj_uri": "Q11412", "obj_label": "grabitazio", "sub_label": "oinarrizko elkarrekintza", "lineid": 612, "uuid": "79da9d27-0cfd-4229-afe5-1ba1f39b94b2"}
+{"sub_uri": "Q5319", "obj_uri": "Q658", "obj_label": "sodio", "sub_label": "Borax", "lineid": 613, "uuid": "b20d4dcc-7da0-4bed-b7d0-d7f15fd29b57"}
+{"sub_uri": "Q637017", "obj_uri": "Q29182", "obj_label": "apezpiku", "sub_label": "apezpiku-konferentzia", "lineid": 614, "uuid": "1bd43962-ca95-4d00-b9d0-a604e59197f6"}
+{"sub_uri": "Q39731", "obj_uri": "Q33", "obj_label": "Finlandia", "sub_label": "Herrialde Baltikoak", "lineid": 615, "uuid": "25f07a6f-6e85-484a-9a67-5e27123705fe"}
+{"sub_uri": "Q1997", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Karbono dioxido", "lineid": 616, "uuid": "9488f14f-7c2b-4b1d-9152-e0091ffdf5be"}
+{"sub_uri": "Q171877", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "hidrogeno peroxido", "lineid": 618, "uuid": "b72c0352-b2b2-407f-b494-f19dea96631c"}
+{"sub_uri": "Q1969730", "obj_uri": "Q28", "obj_label": "Hungaria", "sub_label": "Schengen eremua", "lineid": 619, "uuid": "f8b60ee3-0911-4f08-addc-be785d10ba33"}
+{"sub_uri": "Q47273", "obj_uri": "Q1073", "obj_label": "garun", "sub_label": "Nerbio-sistema zentral", "lineid": 620, "uuid": "6626e8a8-9fbb-4734-bd0c-d1a5ec2d31b5"}
+{"sub_uri": "Q190016", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Heparina", "lineid": 621, "uuid": "059ef155-91c7-4b4e-82cf-9f6d89ebb9a3"}
+{"sub_uri": "Q80083", "obj_uri": "Q34178", "obj_label": "Teologia", "sub_label": "humanitateak", "lineid": 622, "uuid": "d36cc31e-2bfa-4647-83fb-3a1f3b237c62"}
+{"sub_uri": "Q19771", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "G20", "lineid": 632, "uuid": "872962f5-0473-4ea2-81d1-0ec9b2c9b467"}
+{"sub_uri": "Q181381", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Galaktosa", "lineid": 634, "uuid": "cf6e154d-caad-4898-a768-3655d0917e7a"}
+{"sub_uri": "Q39782", "obj_uri": "Q753", "obj_label": "kobre", "sub_label": "Letoi", "lineid": 638, "uuid": "b43884e0-cbe2-4334-920e-fcae8207f95a"}
+{"sub_uri": "Q408022", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "dimetilamina", "lineid": 640, "uuid": "df2d08c1-7082-4814-933d-fd958d25a556"}
+{"sub_uri": "Q4831844", "obj_uri": "Q10990", "obj_label": "Haragi", "sub_label": "Haragi-bola", "lineid": 642, "uuid": "6ef1f74e-b9ed-4ec1-b94d-da97633d5ec1"}
+{"sub_uri": "Q49", "obj_uri": "Q664609", "obj_label": "Karibea", "sub_label": "Ipar Amerika", "lineid": 643, "uuid": "e8ec1e6c-77e0-4abd-adc8-dd3e0d90a002"}
+{"sub_uri": "Q185583", "obj_uri": "Q11002", "obj_label": "azukre", "sub_label": "Gozoki", "lineid": 648, "uuid": "05108cb5-15f5-4ac0-85c3-c021effc8da5"}
+{"sub_uri": "Q80863", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "adenosina trifosfato", "lineid": 649, "uuid": "e2390385-48f3-417b-b96f-a97fb7e8d91f"}
+{"sub_uri": "Q185006", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "kaltzio oxido", "lineid": 652, "uuid": "224c0dc8-dc99-429f-8333-e018665fbfd5"}
+{"sub_uri": "Q635999", "obj_uri": "Q1364", "obj_label": "fruitu", "sub_label": "konpota", "lineid": 655, "uuid": "38f88ec3-adf6-43c4-b475-c4a4ea66d9f8"}
+{"sub_uri": "Q174723", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Kodeina", "lineid": 656, "uuid": "6dd4ccdd-d2fb-447c-b113-01bf3e41eeb4"}
+{"sub_uri": "Q173670", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Arginina", "lineid": 658, "uuid": "b657963d-8c1a-4c61-8b6d-89dd368a5eb9"}
+{"sub_uri": "Q27381", "obj_uri": "Q948", "obj_label": "Tunisia", "sub_label": "Iparraldeko Afrika", "lineid": 661, "uuid": "e11f3ce5-ccc8-494f-ae89-d441b998a3fa"}
+{"sub_uri": "Q153", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "etanol", "lineid": 665, "uuid": "01fdccee-4484-4cb9-9803-a0e3362c57f9"}
+{"sub_uri": "Q17119238", "obj_uri": "Q191768", "obj_label": "Txerriki", "sub_label": "Saltxitxoi", "lineid": 666, "uuid": "afc6a44b-020b-4e1a-9693-096d69d39a8b"}
+{"sub_uri": "Q2409", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "azido klorhidriko", "lineid": 667, "uuid": "6aac2407-e5f5-4393-9902-dc6f31bd9fe0"}
+{"sub_uri": "Q2025", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Karbono monoxido", "lineid": 669, "uuid": "2e430bb3-0299-4920-b4c2-98845078731b"}
+{"sub_uri": "Q27449", "obj_uri": "Q236", "obj_label": "Montenegro", "sub_label": "Hegoaldeko Europa", "lineid": 670, "uuid": "844c4da2-ce1f-4045-9d0f-59605eab4aa4"}
+{"sub_uri": "Q236118", "obj_uri": "Q733", "obj_label": "Paraguai", "sub_label": "Hego Konoa", "lineid": 674, "uuid": "f266eb6a-d7db-47ba-bd76-e2b9843edd08"}
+{"sub_uri": "Q151993", "obj_uri": "Q1295", "obj_label": "Dortmund", "sub_label": "Ruhr", "lineid": 675, "uuid": "9da0a072-f4e0-42cf-84e1-4602246f57fa"}
+{"sub_uri": "Q1969730", "obj_uri": "Q37", "obj_label": "Lituania", "sub_label": "Schengen eremua", "lineid": 676, "uuid": "50048519-897e-4955-a2ad-001afd272d7e"}
+{"sub_uri": "Q193572", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido saliziliko", "lineid": 678, "uuid": "fd72fc0e-391c-4175-bc39-0e2aa66e4bf7"}
+{"sub_uri": "Q27433", "obj_uri": "Q1037", "obj_label": "Ruanda", "sub_label": "Erdialdeko Afrika", "lineid": 679, "uuid": "7403413d-7f37-4c72-8291-96e5d6e9efc4"}
+{"sub_uri": "Q393811", "obj_uri": "Q572837", "obj_label": "Plika", "sub_label": "Zuri", "lineid": 680, "uuid": "a1aee3a8-16ab-4adc-834e-9a912c6009ed"}
+{"sub_uri": "Q544", "obj_uri": "Q319", "obj_label": "Jupiter", "sub_label": "Eguzki-sistema", "lineid": 681, "uuid": "6139ebd7-8ec0-4af5-af5a-94adcfb611b6"}
+{"sub_uri": "Q102769", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "sodio hidroxido", "lineid": 685, "uuid": "65ea38cf-28c3-4e27-a59a-622fad86ced1"}
+{"sub_uri": "Q207220", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "Muffin", "lineid": 686, "uuid": "0e94ede2-5491-4b6e-b572-3d5adf12b1df"}
+{"sub_uri": "Q27468", "obj_uri": "Q212", "obj_label": "Ukraina", "sub_label": "Ekialdeko Europa", "lineid": 688, "uuid": "612a4355-2e26-46f3-8e2d-fea9686448fa"}
+{"sub_uri": "Q32485", "obj_uri": "Q12100", "obj_label": "eskrima", "sub_label": "Pentatloi moderno", "lineid": 692, "uuid": "ea6e9342-5d63-4b2e-aa05-9833b2730792"}
+{"sub_uri": "Q80083", "obj_uri": "Q8162", "obj_label": "hizkuntzalaritza", "sub_label": "humanitateak", "lineid": 695, "uuid": "ef01eada-62e3-4745-803d-0592b654e6b8"}
+{"sub_uri": "Q29221", "obj_uri": "Q34172", "obj_label": "gurin", "sub_label": "Hostore", "lineid": 696, "uuid": "c1b0d0e5-7a98-4e8d-b145-7b2186b9a04e"}
+{"sub_uri": "Q849881", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "hidronio", "lineid": 697, "uuid": "131d1f55-cdc0-4ad5-8f17-1b224b5c643f"}
+{"sub_uri": "Q423174", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "antrakinona", "lineid": 700, "uuid": "04aedb7d-f073-4c60-a040-778de60a255e"}
+{"sub_uri": "Q60168", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Heroina", "lineid": 704, "uuid": "1b0b67a5-901f-4cde-85df-5d8aa8662dfb"}
+{"sub_uri": "Q407646", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "manitol", "lineid": 705, "uuid": "d70f3de0-f3b2-4198-ba1e-c1d2df9ae102"}
+{"sub_uri": "Q83367", "obj_uri": "Q34990", "obj_label": "Tora", "sub_label": "Tanakh", "lineid": 706, "uuid": "34cd32ab-c20b-4f24-a448-87bcf857f80e"}
+{"sub_uri": "Q52062", "obj_uri": "Q33", "obj_label": "Finlandia", "sub_label": "Herrialde nordikoak", "lineid": 708, "uuid": "336a15c5-84bc-45e7-beaa-f9d4964001b3"}
+{"sub_uri": "Q27496", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "Mendebaldeko Europa", "lineid": 712, "uuid": "4a0e09ce-2070-4199-ad1c-d946414c516d"}
+{"sub_uri": "Q205186", "obj_uri": "Q81009", "obj_label": "Erretorika", "sub_label": "Trivium", "lineid": 713, "uuid": "9b7f502e-2f0e-43c3-9b03-e64eb1e9befd"}
+{"sub_uri": "Q23444", "obj_uri": "Q3142", "obj_label": "gorri", "sub_label": "zuri", "lineid": 714, "uuid": "1b86f959-08a1-46f1-b82c-c0630f3a6645"}
+{"sub_uri": "Q212121", "obj_uri": "Q5090", "obj_label": "Arroz", "sub_label": "paella", "lineid": 715, "uuid": "896c51fd-d44c-4059-be13-516553d53546"}
+{"sub_uri": "Q207338", "obj_uri": "Q80284", "obj_label": "biola", "sub_label": "Hari-laukote", "lineid": 719, "uuid": "f3cb0844-e553-4ff5-8ef9-78282161f739"}
+{"sub_uri": "Q2025", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Karbono monoxido", "lineid": 720, "uuid": "4520116f-dae1-4df3-8378-555530958f32"}
+{"sub_uri": "Q61457", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Azetaldehido", "lineid": 722, "uuid": "e5ed1c0d-242f-4fd3-9d84-c027aa149fe6"}
+{"sub_uri": "Q3311546", "obj_uri": "Q23543", "obj_label": "Selena", "sub_label": "Selena y Los Dinos", "lineid": 728, "uuid": "c16a19b0-4206-4cd3-b778-24a79c624742"}
+{"sub_uri": "Q1022124", "obj_uri": "Q192628", "obj_label": "Behiki", "sub_label": "B\u0153uf bourguignon", "lineid": 732, "uuid": "6373f687-e956-45bc-b781-437ce299f753"}
+{"sub_uri": "Q83222", "obj_uri": "Q45805", "obj_label": "Jurasiko", "sub_label": "Mesozoiko", "lineid": 734, "uuid": "b57be1da-66b0-4ea3-9620-3cefa6714313"}
+{"sub_uri": "Q181354", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "B8 bitamina", "lineid": 735, "uuid": "453fe3e7-47e6-41a4-81f7-5d9e208ce828"}
+{"sub_uri": "Q133327", "obj_uri": "Q107", "obj_label": "Espazio", "sub_label": "Espazio-denbora", "lineid": 741, "uuid": "b85fa658-7bf9-4c5d-a804-28b02d6ea5ef"}
+{"sub_uri": "Q42918", "obj_uri": "Q7430", "obj_label": "azido desoxirribonukleiko", "sub_label": "Mutazio", "lineid": 742, "uuid": "a621c1ba-6988-4987-836c-e0469f891bac"}
+{"sub_uri": "Q171973", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "timina", "lineid": 743, "uuid": "4cc23e2a-a4a7-477d-8f9f-046d48cf29f9"}
+{"sub_uri": "Q153", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "etanol", "lineid": 748, "uuid": "d4fd7328-c776-4263-a413-467fd5470949"}
+{"sub_uri": "Q18", "obj_uri": "Q717", "obj_label": "Venezuela", "sub_label": "Hego Amerika", "lineid": 749, "uuid": "7ee0f953-9786-417f-84a8-8ae1db781a5f"}
+{"sub_uri": "Q27381", "obj_uri": "Q262", "obj_label": "Aljeria", "sub_label": "Iparraldeko Afrika", "lineid": 751, "uuid": "0dc551df-dca2-4f17-af7d-40ea34ff77e3"}
+{"sub_uri": "Q184817", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Lignina", "lineid": 752, "uuid": "2d671525-b46b-4421-965b-853bf5815e75"}
+{"sub_uri": "Q3960", "obj_uri": "Q83067", "obj_label": "Timor", "sub_label": "australiar kontinentea", "lineid": 754, "uuid": "f14a9254-1a6f-454c-8c9b-735c1c099e5e"}
+{"sub_uri": "Q189294", "obj_uri": "Q663", "obj_label": "aluminio", "sub_label": "13. taldeko elementu", "lineid": 755, "uuid": "1c47f03e-99fa-42d8-b1df-9a3d47037e70"}
+{"sub_uri": "Q423204", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "xilulosa", "lineid": 756, "uuid": "9bb8dfae-ffb9-4dfd-bf7c-2c7caa89f078"}
+{"sub_uri": "Q188261", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Purina", "lineid": 761, "uuid": "039a3bfa-437a-44ad-966f-400db05b8669"}
+{"sub_uri": "Q122043", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Fruktosa", "lineid": 762, "uuid": "9653035d-9a63-4f48-bddf-9f656143e4cb"}
+{"sub_uri": "Q378154", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "gantz-azido esentzial", "lineid": 764, "uuid": "15b0cebb-62bb-46bc-b393-7ea37ba774da"}
+{"sub_uri": "Q182329", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "amonio nitrato", "lineid": 767, "uuid": "8696234f-e32b-4e74-a061-1bfdbc0db305"}
+{"sub_uri": "Q515922", "obj_uri": "Q3409", "obj_label": "Sirius", "sub_label": "Neguko Hexagonoa", "lineid": 768, "uuid": "34e6d737-2aa8-4700-bbff-1217a8b95d06"}
+{"sub_uri": "Q282", "obj_uri": "Q10978", "obj_label": "Mahats", "sub_label": "ardo", "lineid": 769, "uuid": "b1ccdc9f-c981-44eb-83ae-23267de7a090"}
+{"sub_uri": "Q267877", "obj_uri": "Q178024", "obj_label": "ore", "sub_label": "stroopwafel", "lineid": 771, "uuid": "853c8157-a3e5-4137-a823-44e45518d276"}
+{"sub_uri": "Q104053", "obj_uri": "Q1211967", "obj_label": "Karaktere", "sub_label": "fenotipo", "lineid": 773, "uuid": "b56b8957-df4a-4f46-a7cb-9029f84a3230"}
+{"sub_uri": "Q178450", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido aspartiko", "lineid": 777, "uuid": "04e9c9b7-e330-461c-9c19-6e275cbfd4fb"}
+{"sub_uri": "Q412377", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Anhidrido maleiko", "lineid": 780, "uuid": "c0679505-6781-4ac0-9fb5-f7e83d4aacd1"}
+{"sub_uri": "Q11369", "obj_uri": "Q9121", "obj_label": "atomo", "sub_label": "molekula", "lineid": 781, "uuid": "99238fa1-f675-484f-8243-bddd07c57f48"}
+{"sub_uri": "Q80083", "obj_uri": "Q315", "obj_label": "hizkuntza", "sub_label": "humanitateak", "lineid": 782, "uuid": "d4433b9d-29fc-402d-b76a-4d778b724bb8"}
+{"sub_uri": "Q177", "obj_uri": "Q10943", "obj_label": "Gazta", "sub_label": "pizza", "lineid": 788, "uuid": "291aae90-4eab-4275-85f0-e931918fb8b5"}
+{"sub_uri": "Q207338", "obj_uri": "Q8355", "obj_label": "biolin", "sub_label": "Hari-laukote", "lineid": 791, "uuid": "071b41c6-a734-4b25-bca7-1213562b5476"}
+{"sub_uri": "Q319541", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Indol", "lineid": 792, "uuid": "d49d7c60-4e5f-48bd-a35e-e7ce785e287b"}
+{"sub_uri": "Q33328", "obj_uri": "Q1412", "obj_label": "finlandiera", "sub_label": "hizkuntza baltiar-finlandiarrak", "lineid": 795, "uuid": "8971f7c2-3bfe-4cda-88e6-98e21dad7fc7"}
+{"sub_uri": "Q2176651", "obj_uri": "Q42891", "obj_label": "Krishna", "sub_label": "Dasavatara", "lineid": 798, "uuid": "10bf2fe9-abcd-4f69-8253-1db3c3974aec"}
+{"sub_uri": "Q132298", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Potasio hidroxido", "lineid": 799, "uuid": "305f3f8c-301c-4311-b291-a630aa5171da"}
+{"sub_uri": "Q1242466", "obj_uri": "Q195", "obj_label": "Txokolate", "sub_label": "Ganatxe", "lineid": 802, "uuid": "7bfdef86-21f3-4c23-bca7-97265976962c"}
+{"sub_uri": "Q80250", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "ziklopropano", "lineid": 803, "uuid": "ccc19950-646f-48e2-b480-7238710edf35"}
+{"sub_uri": "Q122043", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Fruktosa", "lineid": 804, "uuid": "b53254ae-546e-453a-976a-7280b1d91900"}
+{"sub_uri": "Q407490", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Hemizelulosa", "lineid": 809, "uuid": "3b9a823d-601a-465b-a1ba-b6ae4bd715c8"}
+{"sub_uri": "Q27449", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "Hegoaldeko Europa", "lineid": 810, "uuid": "f958432f-b029-41af-ae08-08deaa83a438"}
+{"sub_uri": "Q27468", "obj_uri": "Q214", "obj_label": "Eslovakia", "sub_label": "Ekialdeko Europa", "lineid": 812, "uuid": "02c80011-7cea-4d38-a816-2c510dab7ae1"}
+{"sub_uri": "Q15277", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "adenina", "lineid": 813, "uuid": "518ee54d-508e-47e3-bff5-26baf4d9260d"}
+{"sub_uri": "Q1969730", "obj_uri": "Q55", "obj_label": "Herbehereak", "sub_label": "Schengen eremua", "lineid": 821, "uuid": "5e582fba-d355-4833-86da-e10f98a50bbd"}
+{"sub_uri": "Q273822", "obj_uri": "Q8087", "obj_label": "geometria", "sub_label": "Quadrivium", "lineid": 824, "uuid": "2843da15-7345-4baa-9153-c03b899e3d27"}
+{"sub_uri": "Q1969730", "obj_uri": "Q29", "obj_label": "Espainia", "sub_label": "Schengen eremua", "lineid": 825, "uuid": "9eb190ef-e2ea-481e-aaa1-e79e4361095d"}
+{"sub_uri": "Q25774", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Azido isozianiko", "lineid": 826, "uuid": "0dc94b36-d3d3-43ec-ab97-81095b2f0d95"}
+{"sub_uri": "Q80232", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Ziklobutano", "lineid": 829, "uuid": "4354e850-51f0-4d2a-a2db-66337113a017"}
+{"sub_uri": "Q7172", "obj_uri": "Q822", "obj_label": "Libano", "sub_label": "Arabiar Liga", "lineid": 831, "uuid": "b8e03981-437b-4ed3-a014-c3d65e4284e8"}
+{"sub_uri": "Q180341", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "Metionina", "lineid": 832, "uuid": "dcdfd02a-15ce-4f63-a410-6dc24dde0bd3"}
+{"sub_uri": "Q171877", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "hidrogeno peroxido", "lineid": 836, "uuid": "7ecee149-559d-4998-bd22-e11525444601"}
+{"sub_uri": "Q83320", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Azido nitriko", "lineid": 837, "uuid": "76ab939c-f66a-4bda-bd5d-9392db878c1a"}
+{"sub_uri": "Q236118", "obj_uri": "Q298", "obj_label": "Txile", "sub_label": "Hego Konoa", "lineid": 839, "uuid": "d3c193f8-a5cd-4645-a035-4bcf22298667"}
+{"sub_uri": "Q159683", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "azido zitriko", "lineid": 840, "uuid": "f2933c2f-43dc-4b22-9773-30ea8a98cec5"}
+{"sub_uri": "Q37525", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "glukosa", "lineid": 841, "uuid": "eae3713c-3010-46a6-b844-978df7b5a5d5"}
+{"sub_uri": "Q351461", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "adamantano", "lineid": 844, "uuid": "59a57f7d-9969-4018-a906-832ae48c2660"}
+{"sub_uri": "Q27496", "obj_uri": "Q235", "obj_label": "Monako", "sub_label": "Mendebaldeko Europa", "lineid": 848, "uuid": "44eda2ba-aa52-4029-8ef9-5c3574c8c823"}
+{"sub_uri": "Q105522", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Azido uriko", "lineid": 852, "uuid": "52ddc0a2-6a5c-42c1-b1d0-6cb988d54277"}
+{"sub_uri": "Q622416", "obj_uri": "Q35872", "obj_label": "Ontzi (ibilgailu)", "sub_label": "Motordun txalupa", "lineid": 853, "uuid": "f3218791-342d-4d2b-b8f6-bb7ce6ae4043"}
+{"sub_uri": "Q132298", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Potasio hidroxido", "lineid": 854, "uuid": "4c85052e-acbe-4120-8221-3277cb63afed"}
+{"sub_uri": "Q1969730", "obj_uri": "Q34", "obj_label": "Suedia", "sub_label": "Schengen eremua", "lineid": 855, "uuid": "d021b52a-2686-4551-a1fd-c52b68ec2d6e"}
+{"sub_uri": "Q104334", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido karboniko", "lineid": 858, "uuid": "49463322-5dc2-42ea-a674-18e2bc9bd3f6"}
+{"sub_uri": "Q271794", "obj_uri": "Q11369", "obj_label": "molekula", "sub_label": "Nukleosoma", "lineid": 861, "uuid": "e614650b-d416-4702-bd99-b599a7ed96d0"}
+{"sub_uri": "Q179731", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "sodio bikarbonato", "lineid": 864, "uuid": "6b302f93-9d7a-478e-bfb3-262b5c6b1aeb"}
+{"sub_uri": "Q161233", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Azido formiko", "lineid": 865, "uuid": "60d0221c-5604-4d41-8c2c-49e9256a59f6"}
+{"sub_uri": "Q1420", "obj_uri": "Q188209", "obj_label": "Ardatz", "sub_label": "Automobil", "lineid": 866, "uuid": "10bb56ac-a394-4b73-9c88-1c15d89b9129"}
+{"sub_uri": "Q860451", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "burdina forjatu", "lineid": 874, "uuid": "50a6bba2-ea99-4c00-86a6-c95d67ae9e99"}
+{"sub_uri": "Q329888", "obj_uri": "Q142", "obj_label": "Frantzia", "sub_label": "Bigarren Mundu Gerrako aliatuak", "lineid": 877, "uuid": "c9312173-2f2d-4259-8d4f-6b4cfe572900"}
+{"sub_uri": "Q213788", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Nitrito", "lineid": 878, "uuid": "3e4c1a6c-d8fe-42fb-9429-60bf80dd5b1f"}
+{"sub_uri": "Q183309", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Guanidina", "lineid": 879, "uuid": "68722607-c8e4-4b8e-a882-e0c0e11a66e1"}
+{"sub_uri": "Q420927", "obj_uri": "Q8054", "obj_label": "proteina", "sub_label": "konplexu multientzimatiko", "lineid": 881, "uuid": "47fbfcdd-d6a2-432e-a478-069e4249e160"}
+{"sub_uri": "Q749593", "obj_uri": "Q192628", "obj_label": "Behiki", "sub_label": "Tartariar xerra", "lineid": 887, "uuid": "674fcc9e-5904-4ea2-ab4c-7f480ddf0e32"}
+{"sub_uri": "Q52948", "obj_uri": "Q11024", "obj_label": "Komunikazio", "sub_label": "interakzio", "lineid": 893, "uuid": "69d54b60-64ae-4dc8-af22-4112cdb761b7"}
+{"sub_uri": "Q107184", "obj_uri": "Q753", "obj_label": "kobre", "sub_label": "kobre(II) sulfato", "lineid": 896, "uuid": "089cbc5d-9e07-4098-8491-0f755788beb4"}
+{"sub_uri": "Q183440", "obj_uri": "Q11002", "obj_label": "azukre", "sub_label": "Karamelu", "lineid": 897, "uuid": "0d4d6b86-839b-4860-9676-43ed705be36b"}
+{"sub_uri": "Q11427", "obj_uri": "Q677", "obj_label": "burdina", "sub_label": "altzairu", "lineid": 898, "uuid": "35afb859-6ad0-41f4-86b1-f8b9de1676fd"}
+{"sub_uri": "Q236118", "obj_uri": "Q77", "obj_label": "Uruguai", "sub_label": "Hego Konoa", "lineid": 902, "uuid": "c4d946c1-a6e2-4486-8941-6f5b402679a4"}
+{"sub_uri": "Q14982", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "metanol", "lineid": 904, "uuid": "925f87d9-6ed8-452e-b9ab-735ec67d5201"}
+{"sub_uri": "Q2336063", "obj_uri": "Q36465", "obj_label": "irin", "sub_label": "Soda ogi", "lineid": 907, "uuid": "ffb14ec4-8cf7-42d2-ad8f-d18c647a1f54"}
+{"sub_uri": "Q279055", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "Sufre hexafluoruro", "lineid": 908, "uuid": "d2c63ab6-bcd6-4644-945b-40cc2b67a001"}
+{"sub_uri": "Q4118", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "azido sulfuriko", "lineid": 910, "uuid": "ccd729cf-1feb-49cc-bb6e-1b539019ee39"}
+{"sub_uri": "Q34095", "obj_uri": "Q753", "obj_label": "kobre", "sub_label": "brontze", "lineid": 911, "uuid": "10d77352-e3ef-4530-ad28-d0a6ae059161"}
+{"sub_uri": "Q329888", "obj_uri": "Q96", "obj_label": "Mexiko", "sub_label": "Bigarren Mundu Gerrako aliatuak", "lineid": 913, "uuid": "134147cc-fb59-41c1-ae87-d816690adf6f"}
+{"sub_uri": "Q395", "obj_uri": "Q8087", "obj_label": "geometria", "sub_label": "matematika", "lineid": 915, "uuid": "7ba62a4c-1b8f-44ab-a45f-cc96f715f77e"}
+{"sub_uri": "Q656004", "obj_uri": "Q708", "obj_label": "berun", "sub_label": "Berun-zuri", "lineid": 920, "uuid": "ac4fec69-43f3-485a-bdc3-ab7b44c4cfe5"}
+{"sub_uri": "Q308976", "obj_uri": "Q670", "obj_label": "silizio", "sub_label": "silize-gel", "lineid": 925, "uuid": "e4298b15-a19a-4313-a6bd-a4534970cf8c"}
+{"sub_uri": "Q151324", "obj_uri": "Q556", "obj_label": "hidrogeno", "sub_label": "Propeno", "lineid": 926, "uuid": "641ebba5-f0f5-4cc8-a4e6-eb75e7baae3b"}
+{"sub_uri": "Q7991", "obj_uri": "Q420", "obj_label": "biologia", "sub_label": "natura zientziak", "lineid": 929, "uuid": "7e2a80a3-dece-4bcb-9aa2-81a7b69d32ea"}
+{"sub_uri": "Q184485", "obj_uri": "Q148442", "obj_label": "Ilusionismo", "sub_label": "arte eszeniko", "lineid": 930, "uuid": "20bfda88-0050-4f13-ae98-fc35421adef3"}
+{"sub_uri": "Q2302413", "obj_uri": "Q2796766", "obj_label": "Izokin", "sub_label": "Izokin ketu", "lineid": 931, "uuid": "0aec567c-0fdb-4e05-9108-ccf991fcce5c"}
+{"sub_uri": "Q179731", "obj_uri": "Q658", "obj_label": "sodio", "sub_label": "sodio bikarbonato", "lineid": 932, "uuid": "fba2837a-64c3-4786-bb2b-2e92c3e88c48"}
+{"sub_uri": "Q1059843", "obj_uri": "Q22656", "obj_label": "Petrolio", "sub_label": "Petrolioaren eratorri", "lineid": 935, "uuid": "580ae2e7-fbfe-49de-8e87-daca38f5fc88"}
+{"sub_uri": "Q544", "obj_uri": "Q525", "obj_label": "Eguzkia", "sub_label": "Eguzki-sistema", "lineid": 936, "uuid": "81b488a4-937c-4803-b980-c2f18b4d5356"}
+{"sub_uri": "Q271021", "obj_uri": "Q629", "obj_label": "oxigeno", "sub_label": "Zefalosporina", "lineid": 938, "uuid": "c1b4b91c-64c2-4bc1-952a-808e417129fb"}
+{"sub_uri": "Q421888", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "amonio hidroxido", "lineid": 939, "uuid": "ea8c8cdf-5a2a-49e6-86ea-187aaaa3093d"}
+{"sub_uri": "Q732607", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Harrikatz bituminoso", "lineid": 940, "uuid": "ac0cae1b-32d5-4dcb-95b2-b254535b2a01"}
+{"sub_uri": "Q34749", "obj_uri": "Q23404", "obj_label": "antropologia", "sub_label": "gizarte-zientzia", "lineid": 942, "uuid": "44490181-0cf9-495f-90b6-ca3fde3267b5"}
+{"sub_uri": "Q47512", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "azido azetiko", "lineid": 947, "uuid": "6ba9ed6a-50b3-4ced-b65f-fcfbd221f348"}
+{"sub_uri": "Q40540", "obj_uri": "Q161701", "obj_label": "Cancer", "sub_label": "Zodiako", "lineid": 948, "uuid": "2f89a8e4-638b-42da-96e4-b006d6f5511b"}
+{"sub_uri": "Q410387", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Etanolamina", "lineid": 956, "uuid": "1d3c0248-cf7d-4109-9170-f6a4cfdcdd11"}
+{"sub_uri": "Q178450", "obj_uri": "Q627", "obj_label": "nitrogeno", "sub_label": "Azido aspartiko", "lineid": 959, "uuid": "acb6c507-ff32-40b6-9d67-0ff25132bb90"}
+{"sub_uri": "Q21195", "obj_uri": "Q20", "obj_label": "Norvegia", "sub_label": "Eskandinavia", "lineid": 960, "uuid": "a20e639e-b2cf-4e7d-ae74-2e3abb6fbf25"}
+{"sub_uri": "Q188261", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Purina", "lineid": 961, "uuid": "fedc50eb-ec6a-4320-8c63-cd5f52e322db"}
+{"sub_uri": "Q52062", "obj_uri": "Q35", "obj_label": "Danimarka", "sub_label": "Herrialde nordikoak", "lineid": 963, "uuid": "ec443c26-8038-4343-be36-3922badd77a5"}
+{"sub_uri": "Q190227", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Sodio karbonato", "lineid": 967, "uuid": "275bc8f4-63e4-401a-a18a-9d7be35bedab"}
+{"sub_uri": "Q170545", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "fenilalanina", "lineid": 968, "uuid": "2a1f6a7b-7f4c-4795-a959-68e5b2c63bf3"}
+{"sub_uri": "Q172290", "obj_uri": "Q682", "obj_label": "sufre", "sub_label": "Sulfato", "lineid": 970, "uuid": "2d001715-5154-40d8-a2bf-2bb915eabfd3"}
+{"sub_uri": "Q184373", "obj_uri": "Q658", "obj_label": "sodio", "sub_label": "Txileko nitrato", "lineid": 971, "uuid": "998db754-862a-47ed-a5fa-a20c1e434f16"}
+{"sub_uri": "Q19771", "obj_uri": "Q16", "obj_label": "Kanada", "sub_label": "G20", "lineid": 972, "uuid": "0c208e4b-e53d-4466-81ee-405bba8f165f"}
+{"sub_uri": "Q105522", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "Azido uriko", "lineid": 974, "uuid": "19db3358-4aef-4b71-8f9a-c15b54513d25"}
+{"sub_uri": "Q948232", "obj_uri": "Q623", "obj_label": "karbono", "sub_label": "harrikatz-mundrun", "lineid": 975, "uuid": "9af6fb51-5432-47bf-bb28-12d71236049e"}

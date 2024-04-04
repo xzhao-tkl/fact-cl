@@ -1,0 +1,49 @@
+{"relation": "P19", "template": "[X] syntyi [Y]."}
+{"relation": "P20", "template": "[X] kuoli [Y]: ss\u00e4."}
+{"relation": "P279", "template": "[X] on alaluokka kohdasta [Y]."}
+{"relation": "P37", "template": "[X]: n virallinen kieli on [Y]."}
+{"relation": "P413", "template": "[X] pelaa [Y] -asennossa."}
+{"relation": "P166", "template": "[X] sai [Y]."}
+{"relation": "P449", "template": "[X] esitettiin alun perin [Y]: ss\u00e4."}
+{"relation": "P69", "template": "[X] sai koulutuksen [Y] -yliopistossa."}
+{"relation": "P47", "template": "[X] jakaa rajan [Y]: n kanssa."}
+{"relation": "P138", "template": "[X] on nimetty [Y]."}
+{"relation": "P364", "template": "[X]: n alkuper\u00e4inen kieli on [Y]."}
+{"relation": "P54", "template": "[X] pelaa kanssa [Y]."}
+{"relation": "P463", "template": "[X] on j\u00e4senen [Y] j\u00e4sen."}
+{"relation": "P101", "template": "[X] toimii kent\u00e4ss\u00e4 [Y]."}
+{"relation": "P1923", "template": "[Y] osallistui tapahtumaan [X]."}
+{"relation": "P106", "template": "[X] on ammatin mukaan [Y]."}
+{"relation": "P527", "template": "[X] koostuu [Y]."}
+{"relation": "P102", "template": "[X] on [Y] -poliittisen puolueen j\u00e4sen."}
+{"relation": "P530", "template": "[X] yll\u00e4pit\u00e4\u00e4 diplomaattisuhteita [Y]: n kanssa."}
+{"relation": "P176", "template": "[X] tuottaa [Y]."}
+{"relation": "P27", "template": "[X] on [Y] kansalainen."}
+{"relation": "P407", "template": "[X] kirjoitettiin kielell\u00e4 [Y]."}
+{"relation": "P30", "template": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P178", "template": "[X] on kehitt\u00e4nyt [Y]."}
+{"relation": "P1376", "template": "[X] on [Y]: n p\u00e4\u00e4kaupunki."}
+{"relation": "P131", "template": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P1412", "template": "[X] kommunikoitiin [Y]: ss\u00e4."}
+{"relation": "P108", "template": "[X] toimii kohteelle [Y]."}
+{"relation": "P136", "template": "[X] soittaa [Y] -musiikkia."}
+{"relation": "P17", "template": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P39", "template": "[X]: n sijainti on [Y]."}
+{"relation": "P264", "template": "[X] edustaa musiikkitarra [Y]."}
+{"relation": "P276", "template": "[X] sijaitsee kohdassa [Y]."}
+{"relation": "P937", "template": "[X] ty\u00f6skenteli aikaisemmin [Y]."}
+{"relation": "P140", "template": "[X] on sidoksissa [Y] uskontoon."}
+{"relation": "P1303", "template": "[X] pelaa [Y]."}
+{"relation": "P127", "template": "[X] omistaa [Y]."}
+{"relation": "P103", "template": "[X]: n \u00e4idinkieli on [Y]."}
+{"relation": "P190", "template": "[X] ja [Y] ovat yst\u00e4vyyskaupunkeja."}
+{"relation": "P1001", "template": "[X] on oikeudellinen termi kohdassa [Y]."}
+{"relation": "P31", "template": "[X] on [Y]."}
+{"relation": "P495", "template": "[X] luotiin [Y]: ss\u00e4."}
+{"relation": "P159", "template": "P\u00e4\u00e4konttori [X] sijaitsee [Y]."}
+{"relation": "P36", "template": "P\u00e4\u00e4oman [X] p\u00e4\u00e4oma on [Y]."}
+{"relation": "P740", "template": "[X] perustettiin [Y]."}
+{"relation": "P361", "template": "[X] on osa [Y]."}
+{"relation": "date_of_birth", "template": "[X] (syntynyt [Y])."}
+{"relation": "place_of_birth", "template": "[X] syntyi [Y]."}
+{"relation": "place_of_death", "template": "[X] kuoli [Y]: ss\u00e4."}

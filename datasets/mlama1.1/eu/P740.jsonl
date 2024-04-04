@@ -1,0 +1,97 @@
+{"sub_uri": "Q13646", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "SNCF", "lineid": 2, "uuid": "afacd04c-bf64-4490-ae5d-9a35b8b24a75"}
+{"sub_uri": "Q211965", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_label": "The Moody Blues", "lineid": 27, "uuid": "35c5788f-6938-4606-82df-aa84cbe1c1bc"}
+{"sub_uri": "Q3324371", "obj_uri": "Q2807", "obj_label": "Madril", "sub_label": "Alfaguara", "lineid": 31, "uuid": "4401e08b-89b6-46aa-8ecf-e58e50184d8a"}
+{"sub_uri": "Q2095846", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Pink Fairies", "lineid": 44, "uuid": "33c8b511-f8b5-4122-b3c6-d16605ce8722"}
+{"sub_uri": "Q3295867", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "The Coca-Cola Company", "lineid": 45, "uuid": "40c6fcd6-a5c1-4011-9727-283303291b8c"}
+{"sub_uri": "Q564960", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Constantin Film", "lineid": 50, "uuid": "e50a087c-58c1-436c-a795-68e0bbf26db7"}
+{"sub_uri": "Q705715", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "RuPaul", "lineid": 58, "uuid": "a110e73e-1c3a-4337-b62a-8f55c9bc5a8e"}
+{"sub_uri": "Q714", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_label": "Stevie Wonder", "lineid": 60, "uuid": "dbca19cd-4ff5-4004-b507-cd8d1d84eeb4"}
+{"sub_uri": "Q611845", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_label": "The Polyphonic Spree", "lineid": 75, "uuid": "c2c8ac76-6d05-4a8d-9850-40947809fe66"}
+{"sub_uri": "Q489801", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "INXS", "lineid": 88, "uuid": "ba6f26f4-f601-472f-826d-03a66f777346"}
+{"sub_uri": "Q177814", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "SUEZ", "lineid": 92, "uuid": "08554580-c669-4dd8-b3ed-2da8d41198f6"}
+{"sub_uri": "Q105349", "obj_uri": "Q340", "obj_label": "Montreal", "sub_label": "Oscar Peterson", "lineid": 109, "uuid": "eba32ccc-0bd2-409f-ad0f-6cd5aeaf43bf"}
+{"sub_uri": "Q35962", "obj_uri": "Q1891", "obj_label": "Bolonia", "sub_label": "Maserati", "lineid": 110, "uuid": "de4de0ec-2be4-49b3-bff9-26c33d806445"}
+{"sub_uri": "Q1006517", "obj_uri": "Q17", "obj_label": "Japonia", "sub_label": "Off Course", "lineid": 115, "uuid": "c68884b6-a25b-4073-bfb1-94ea4a985601"}
+{"sub_uri": "Q188464", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Pixies", "lineid": 122, "uuid": "8fe3ff22-81eb-4b16-be0d-3c46dc640e78"}
+{"sub_uri": "Q565594", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Eni", "lineid": 128, "uuid": "f8d3917b-1152-43d7-a08f-db1b9d861c01"}
+{"sub_uri": "Q202314", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Thin Lizzy", "lineid": 133, "uuid": "8035b87f-42fc-408b-85ad-b5a46060deeb"}
+{"sub_uri": "Q15935", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Kanye West", "lineid": 150, "uuid": "b5b371c8-5df6-44ec-88ba-212e6cd37c3a"}
+{"sub_uri": "Q203223", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Ciara", "lineid": 151, "uuid": "76248fa1-ac58-43fa-aac7-54837f2eeeed"}
+{"sub_uri": "Q514377", "obj_uri": "Q220", "obj_label": "Erroma", "sub_label": "Bentvueghels", "lineid": 155, "uuid": "83ae1a5b-4803-4f51-8f3e-61cd634d9f6e"}
+{"sub_uri": "Q268160", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_label": "The White Stripes", "lineid": 159, "uuid": "413a1f3a-bf47-4b48-8f72-de24986a1526"}
+{"sub_uri": "Q483810", "obj_uri": "Q133315", "obj_label": "Limerick", "sub_label": "The Cranberries", "lineid": 167, "uuid": "96e6fe1e-45dd-47e1-8d48-e4aef7ee0f86"}
+{"sub_uri": "Q736107", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "OK Go", "lineid": 185, "uuid": "1360b09b-0b01-421e-bbfa-05ea0b0501cd"}
+{"sub_uri": "Q45188", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Coldplay", "lineid": 205, "uuid": "976340f5-c9d8-4fe8-959d-c4bbbfb0fbd9"}
+{"sub_uri": "Q152433", "obj_uri": "Q49218", "obj_label": "Rochester", "sub_label": "Xerox", "lineid": 221, "uuid": "fbcff702-e1ad-4d9e-8de5-ad78d10e9540"}
+{"sub_uri": "Q81230", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Siemens AG", "lineid": 237, "uuid": "7e3f7986-44a1-4659-a865-656327afec52"}
+{"sub_uri": "Q2411388", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Five Stairsteps", "lineid": 255, "uuid": "cee9f395-6d0e-4aca-819a-f3b88f2e0ece"}
+{"sub_uri": "Q81307", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_label": "Greenpeace", "lineid": 258, "uuid": "299b0c4f-66de-40c1-bb1e-6c766142ec3c"}
+{"sub_uri": "Q1636958", "obj_uri": "Q956", "obj_label": "Pekin", "sub_label": "Xiaomi", "lineid": 263, "uuid": "16c9fa8e-f62c-41a5-b849-5265ff31b5e4"}
+{"sub_uri": "Q7601535", "obj_uri": "Q21", "obj_label": "Ingalaterra", "sub_label": "Starclub", "lineid": 264, "uuid": "ba3508a7-804c-4c7f-8347-16d52ed86cca"}
+{"sub_uri": "Q676585", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Fnac", "lineid": 265, "uuid": "3104f689-b3d1-42d6-b337-de04259d727f"}
+{"sub_uri": "Q253414", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "FIFA", "lineid": 282, "uuid": "77c99860-bf17-4897-b7e2-193c80e5ab48"}
+{"sub_uri": "Q864407", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "The Home Depot", "lineid": 303, "uuid": "4eec012f-63d2-40c9-a72d-1f46e656f80c"}
+{"sub_uri": "Q966846", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Rimmel", "lineid": 328, "uuid": "1804ecce-87d8-4be2-a73b-0305d30e3264"}
+{"sub_uri": "Q666697", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "Primal Scream", "lineid": 336, "uuid": "fa14d420-4af6-41fd-a5a5-bae57fa94947"}
+{"sub_uri": "Q270724", "obj_uri": "Q34", "obj_label": "Suedia", "sub_label": "Lykke Li", "lineid": 338, "uuid": "223ca493-ad3a-484e-a847-99f538688839"}
+{"sub_uri": "Q504998", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "LVMH", "lineid": 349, "uuid": "e04a516c-723b-4d5b-a5a3-2f8f7835c957"}
+{"sub_uri": "Q158895", "obj_uri": "Q1055", "obj_label": "Hanburgo", "sub_label": "Helloween", "lineid": 363, "uuid": "8f28bd9c-e19f-4b0a-8f8a-a99c16fb72f0"}
+{"sub_uri": "Q947955", "obj_uri": "Q80517", "obj_label": "Shreveport", "sub_label": "The Residents", "lineid": 377, "uuid": "4fb2a851-76db-49d6-8583-018fa0f5b3a3"}
+{"sub_uri": "Q151843", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Frankfurteko eskola", "lineid": 388, "uuid": "99720b8f-7d24-4819-924d-a592b9d45dd4"}
+{"sub_uri": "Q156872", "obj_uri": "Q126269", "obj_label": "Wolverhampton", "sub_label": "Slade", "lineid": 392, "uuid": "54aad5a0-a917-4ba9-8bfb-de1927d28373"}
+{"sub_uri": "Q2659753", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_label": "The Long Blondes", "lineid": 400, "uuid": "a7f1442b-f620-4df0-9f48-25afc9570846"}
+{"sub_uri": "Q872181", "obj_uri": "Q21", "obj_label": "Ingalaterra", "sub_label": "Eskautismo", "lineid": 401, "uuid": "65e7d3b1-3f92-4ca4-8d26-e6dd298b5d4e"}
+{"sub_uri": "Q133405", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_label": "Bee Gees", "lineid": 420, "uuid": "4aeeaa28-2d02-4f1d-ac68-61a8a5c6f66c"}
+{"sub_uri": "Q877512", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Hot Chip", "lineid": 448, "uuid": "4e06a2ec-849c-4191-88e9-44c543698d6a"}
+{"sub_uri": "Q66", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_label": "Boeing", "lineid": 449, "uuid": "4806382c-1dd3-4623-ba3f-939f550e4b88"}
+{"sub_uri": "Q1683782", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "The Georgia Satellites", "lineid": 453, "uuid": "459c53bb-9b2a-4664-98c7-0fa05055f900"}
+{"sub_uri": "Q254371", "obj_uri": "Q99", "obj_label": "Kalifornia", "sub_label": "Papa Roach", "lineid": 465, "uuid": "3c8e3fcf-e89f-4baf-a429-19d971a3b3c6"}
+{"sub_uri": "Q23471", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Lordi", "lineid": 471, "uuid": "9fbdb4ab-81b6-475f-bdd9-491ad3a38ce3"}
+{"sub_uri": "Q478629", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "The Dubliners", "lineid": 475, "uuid": "96b64d02-e3de-468d-8c63-613881fc9df2"}
+{"sub_uri": "Q1423593", "obj_uri": "Q368045", "obj_label": "Chester (Pennsylvania)", "sub_label": "The Four Aces", "lineid": 483, "uuid": "f4ee6fde-76bc-4bbc-921e-f1e5e69f5623"}
+{"sub_uri": "Q389870", "obj_uri": "Q23197", "obj_label": "Nashville", "sub_label": "Lady A", "lineid": 484, "uuid": "63f45c35-5933-4ee9-bd7d-71d50c60a95b"}
+{"sub_uri": "Q177054", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Burger King", "lineid": 492, "uuid": "0fa09622-b341-4b2c-8b13-91f898c1d74c"}
+{"sub_uri": "Q594855", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_label": "Sunn O)))", "lineid": 496, "uuid": "13b8948e-cf27-42d0-85ec-6f3ec49241aa"}
+{"sub_uri": "Q378181", "obj_uri": "Q7880", "obj_label": "Tolosa Okzitania", "sub_label": "Midiko Konpainia", "lineid": 501, "uuid": "1ed40d9a-96b6-4a7e-9074-9f496a6b9265"}
+{"sub_uri": "Q1870505", "obj_uri": "Q2807", "obj_label": "Madril", "sub_label": "Los Bravos", "lineid": 502, "uuid": "a50ab9e5-7ba0-4a8c-b97b-003e9bc4c0fa"}
+{"sub_uri": "Q714491", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_label": "Marks & Spencer", "lineid": 503, "uuid": "53e8e061-94af-452e-9256-564d785b4a8b"}
+{"sub_uri": "Q25177", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Rammstein", "lineid": 505, "uuid": "ddc3416e-c090-4ba9-b090-95073afa9277"}
+{"sub_uri": "Q748836", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "Simple Minds", "lineid": 515, "uuid": "2e4f6017-be70-4171-b185-2a9fa02697a3"}
+{"sub_uri": "Q3666843", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Chatto & Windus", "lineid": 527, "uuid": "e694e656-857b-4120-84b6-92b2e93a15dd"}
+{"sub_uri": "Q117684", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "The Exploited", "lineid": 544, "uuid": "c017f4a9-1457-4e18-8bd0-9e42ec2f8849"}
+{"sub_uri": "Q1541219", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Bouroullec anaiak", "lineid": 563, "uuid": "a6f607e4-4b96-415d-bc56-c94fc0b1a323"}
+{"sub_uri": "Q484255", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_label": "Alice in Chains", "lineid": 566, "uuid": "dfe8f930-f882-4036-8905-5941b6e3e61b"}
+{"sub_uri": "Q756890", "obj_uri": "Q1492", "obj_label": "Bartzelona", "sub_label": "Institut d'Estudis Catalans", "lineid": 572, "uuid": "6b993c94-b732-4d78-b4e3-7cc3f984af2a"}
+{"sub_uri": "Q758934", "obj_uri": "Q203000", "obj_label": "Perth", "sub_label": "Alestorm", "lineid": 609, "uuid": "4b1063a6-daaa-4354-ae1c-5316bfd6a879"}
+{"sub_uri": "Q6168476", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Jazzpunkensemblet", "lineid": 613, "uuid": "4f9ce922-ca56-4b39-bf1a-b5196ef264f5"}
+{"sub_uri": "Q299132", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "Chamillionaire", "lineid": 641, "uuid": "46b9eab7-1442-4333-868a-96e85950167e"}
+{"sub_uri": "Q483718", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_label": "Foo Fighters", "lineid": 644, "uuid": "b5d9a4d7-bcd5-456d-a569-a69f35ef41a6"}
+{"sub_uri": "Q93346", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "The Who", "lineid": 648, "uuid": "7df04926-59b7-424b-a015-23de3f252724"}
+{"sub_uri": "Q134241", "obj_uri": "Q34370", "obj_label": "Rotterdam", "sub_label": "Feyenoord Rotterdam", "lineid": 654, "uuid": "de162d74-a62a-4d53-9846-c5379f62b242"}
+{"sub_uri": "Q7781003", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "Thelastplaceyoulook", "lineid": 679, "uuid": "f1ce21be-3c7d-48dc-b5cb-79cb4dddaa2d"}
+{"sub_uri": "Q81888", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Amsterdamgo Ajax", "lineid": 685, "uuid": "2a4a6ed2-b225-4586-a6ae-21b729ae8850"}
+{"sub_uri": "Q9322", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Deutsche Bahn", "lineid": 686, "uuid": "638a1f9a-b217-4965-999e-67d5df8b8b7f"}
+{"sub_uri": "Q122741", "obj_uri": "Q1490", "obj_label": "Tokio", "sub_label": "Sega", "lineid": 692, "uuid": "1882f9aa-2111-400b-ab57-3f1e9630e753"}
+{"sub_uri": "Q4409", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_label": "Sinclair Research", "lineid": 697, "uuid": "bf31e531-c787-4764-a585-68983b73e224"}
+{"sub_uri": "Q1778212", "obj_uri": "Q1492", "obj_label": "Bartzelona", "sub_label": "Transports Metropolitans de Barcelona", "lineid": 713, "uuid": "984e7463-b45e-4638-879a-3392256536d5"}
+{"sub_uri": "Q27074", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Aston Martin", "lineid": 715, "uuid": "cc2b71e6-8fad-42d3-b7a3-e37abcb82bb7"}
+{"sub_uri": "Q170599", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_label": "Arctic Monkeys", "lineid": 739, "uuid": "6f29922d-1111-4321-8bd1-663529506e96"}
+{"sub_uri": "Q184697", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Gloria Estefan", "lineid": 740, "uuid": "1e8a6516-d458-4682-92ee-327eace76979"}
+{"sub_uri": "Q1628005", "obj_uri": "Q170377", "obj_label": "Blackpool", "sub_label": "The Membranes", "lineid": 741, "uuid": "fdf6687c-6d21-40a0-8f01-241dd59eb4b7"}
+{"sub_uri": "Q2005836", "obj_uri": "Q155", "obj_label": "Brasil", "sub_label": "Conrad Editora", "lineid": 759, "uuid": "370a864a-6dbb-4e5e-8957-93de2e683bbe"}
+{"sub_uri": "Q295919", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Sam Cooke", "lineid": 764, "uuid": "8d64a7a0-5f44-4bf4-92cc-04df5af2dea0"}
+{"sub_uri": "Q321762", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_label": "Napalm Death", "lineid": 782, "uuid": "57ac558d-e311-4394-b3cc-b65b81d454e0"}
+{"sub_uri": "Q1970440", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "The Blue Nile", "lineid": 791, "uuid": "66a2af8a-690c-4840-8d64-a2101842d4d4"}
+{"sub_uri": "Q183412", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "EMI", "lineid": 801, "uuid": "c2dc3593-152f-4f5a-b097-de60cae7fdd7"}
+{"sub_uri": "Q4356488", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_label": "Ultrabeat", "lineid": 829, "uuid": "8f0eaa68-2800-43ee-8031-85494ff1ec48"}
+{"sub_uri": "Q58381", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_label": "Duran Duran", "lineid": 832, "uuid": "73c650ec-59f3-4f68-9c84-471e85a6766b"}
+{"sub_uri": "Q194393", "obj_uri": "Q1085", "obj_label": "Praga", "sub_label": "SK Slavia Praga", "lineid": 856, "uuid": "0b7216ca-d0c3-487d-ab8e-750fd1ea497c"}
+{"sub_uri": "Q1093670", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_label": "Seattle Computer Products", "lineid": 867, "uuid": "2a8195b6-80ea-4c95-a1fa-5fd3081a9f49"}
+{"sub_uri": "Q171240", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Londresko burtsa", "lineid": 886, "uuid": "e5ed7863-5140-4d5a-a076-8eb4d04699c3"}
+{"sub_uri": "Q115095", "obj_uri": "Q1296", "obj_label": "Gante", "sub_label": "Nazioarteko Zuzenbide Institutua", "lineid": 890, "uuid": "489a0ffd-facc-4940-9932-3d1aecfd7dd7"}
+{"sub_uri": "Q218115", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Chanel", "lineid": 906, "uuid": "d601f426-6a59-4a44-8183-07d97ef6e225"}
+{"sub_uri": "Q193697", "obj_uri": "Q84", "obj_label": "Londres", "sub_label": "Sugababes", "lineid": 917, "uuid": "ffe05b8c-e27d-4885-8ae0-d5bd75a80f8f"}
+{"sub_uri": "Q1180767", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "Deacon Blue", "lineid": 925, "uuid": "b0c416b1-a310-455d-9dfd-8dc57232fd95"}
+{"sub_uri": "Q182890", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_label": "Def Leppard", "lineid": 928, "uuid": "8571560c-ac9a-44e5-be28-9a6d607ea827"}
+{"sub_uri": "Q788231", "obj_uri": "Q1492", "obj_label": "Bartzelona", "sub_label": "Massimo Dutti", "lineid": 930, "uuid": "4b656ca4-8aee-446b-890f-70bdfd3005b9"}
+{"sub_uri": "Q1218180", "obj_uri": "Q1490", "obj_label": "Tokio", "sub_label": "Nikon", "lineid": 934, "uuid": "3db72385-9ac2-4c76-a844-42be58b4592a"}
